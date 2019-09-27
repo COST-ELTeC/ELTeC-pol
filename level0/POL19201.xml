@@ -2,19 +2,19 @@
 <?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="eltec-0.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POL191700" xml:lang="pol">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POL192000" xml:lang="pol">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Po mlecznej drodze: ELTeC edition</title>
-                <author>Kornel Makuszyński (1884-1953)</author>
+                <author>Makuszyński, Kornel (1884-1953)</author>
                 <respStmt>
                     <resp>encoded by</resp>
                     <name>Camelia Gradinaru</name>
                 </respStmt>
             </titleStmt>
             <extent>
-                <measure unit="words">54705</measure>
+                <measure unit="pages">311</measure><measure unit="words">54705</measure>
             </extent>
             <publicationStmt>
                 <p>First ElTeC edition <date>2019-09-24</date></p>
@@ -23,6 +23,8 @@
                 <bibl type="digitalSource"><title>100 Polish Novels</title>
                     <ref target="https://github.com/computationalstylistics/100_polish_novels"/>
                     <publisher>Computational Stylistics Group in Krakow</publisher></bibl>
+                <bibl type="firstEdition"><title>Po mlecznej drodze</title><author>Kornel Makuszyński</author>
+                    <publisher>Warszawa: Wyd. nowe.</publisher><date>1920</date></bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
@@ -44,107 +46,109 @@
         </revisionDesc>
     </teiHeader>
     <text>
+        <front><div type="liminal">
+            <head>MÓJ CZYTELNIKU!</head>
+            <p> Jest dla mnie sprawą doskonale obojętną, czy weźmiesz do ręki książkę tę z
+                miłością, czy z należytą pogarda., książka bowiem jest to stworzenie żywe i tak
+                przezorne, ze serce swoje zostawia w rękach tego, co ją pisał, na pokaz rynku
+                zaś ma twarz jedynie. Chodzi wśród ludzi, jak biedna sierota, której przed
+                zbiegowiskiem ludzkiem każe tańczyć oprowadzający ją po świecie cygan-wydawca i
+                tańczy i śpiewa, zwykle na temat z "Mignon". Godną jest tedy poklasku
+                gentelmana, lub westchnienia opasłej damy, która ma dobrą duszę i otłuszczenie
+                osierdzia, serce zaś swoje, takie czyste, jak łza, ukaże książka temu jedynie,
+                kto zna mowę serca, oczy zaś ma tak przenikliwe, ze dojrzeć je potrafi w głębi
+                siedmiu skrzyń, na siedem zamkniętych zamków, w gąszczu słów, splątanych
+                misternie za zasłoną z dziwnej mgły, co na oczy pada i na duszę. Do tego książka
+                przemówi, jakby zaklęciem, jednem jakiemś cichutkiem słowem, w którem
+                najbiedniejszem z tysiąca, słowem, w którem zazwyczaj drukarska jest pomyłka,
+                niepozornem i niewymyślnem. Przez nie właśnie, jak przez serce, wycięte w
+                okiennicy, pada tysiąc i jeden promieni. Nie dlatego ci to mowię, czytelniku,
+                aby mi obłąkaną radość sprawiała rozmowa z człowiekiem, który miał dwa ruble i
+                nie wiedząc, co z nimi uczynić, kupił książkę. Dlatego to mówię, że mi się tak
+                podoba i że mi smutno. A dlatego mi smutno, żeby się krytykom moim zdawało, ze
+                mi jest wesoło, krytyk bowiem jest to człowiek szanowny, który zawodowo nie
+                wierzy, lubi paradoksy i nie zna anatomji, zółć bowiem uważa za serce; jeśli
+                się, zaś uśmiecha, to uśmiechem posążku Buddy, który patrzy w środek swego
+                brzucha i mniema, ze to środek wszechświata. Poza tem jest to człowiek
+                tragiczny, który boleśnie kiwa głową; dlaczego to czyni, nie wiem, lecz wtedy
+                jest podobnym do wielkiego wahadła, które mierzy kroki śmierci. Śmierć zaś,
+                największy krytyk na tym padole łez i kobiecej twórczosci literackiej, nie znosi
+                śmiechu i radosnego śpiewu. Jest to niezbitym dowodem jej talmudycznej
+                genealogji i źródłem rabinackiej, śmiertelnej powagi krytyków literackich, Ten
+                tragiczny stan rzeczy jest początkiem handlowego artykułu, który się zowie
+                "śmiechem przez łzy"; produkt ten posiada popularność miętowego proszku do
+                zębów, wody kolońskiej lub gumowych obcasów Bersona, mających przeszkadzać
+                wstrząśnieniom mózgu. Heu me miserum! Jak zbrodniarz z Cayenny, jak nieszczęsna
+                Manon, kochanka kawalera de Grieux, noszę na sobie piętno, etykietę "przylepioną
+                i przypiętą", na której widok gentleman, który za dwa zbywające ruble kupił
+                książkę, powiada boleśnie: "ten człowiek śmieje się, smutno!" Przeto tęsknię za
+                śmiechem radosnym, czynię to zaś z wielu, wielu powodów. Myślę tak sobie, że
+                maluczko, a trzeba się będzie przestać śmiać albowiem nie będzie czasu na to,
+                trudno zresztą śmiać się człowiekowi, co zęby zacisnął i w wielkiem milczeniu
+                usuwa niezwęglone belki. Trzeba więc będzie, aby ktoś śpiewał potężnie tym, co
+                pracują. A tym, co się dziś smucą i tęsknią i żalą, posyłam książkę tę, która
+                się uśmiecha tym uśmiechem, co umrze niedługo, uśmiechając się jeszcze. Proste
+                są w niej historje i niewymyślne, co jedno tylko pragną: aby kogoś od jego
+                bolących oderwać myśli, aby dać jedną chwilę wytchnienia i przez niezgrabnie
+                wycięte serduszko okiennic pokazać snop słonecznych promieni. Jeśli się kto na
+                chwilę jedną uśmiechnie za moją sprawą, — szczęśliwy będę. A jeśli w kim serce
+                żywiej zabije — będę szczęśliwszy jeszcze. Więc komu z tych, wytchnienia pragną,
+                trzeba będzie uśmiechu, zbierze nawet łzy z tej książki cichej i niech w uśmiech
+                przetopi, niech wszystkie smutki jej i biedy wydadzą mu się radosne. Albowiem to
+                jest wszystko, co mogę dać ludziom smutnym: ciche serce moje, co się uśmiecha na
+                wspomnienie dawnych dni, kiedy nam skrzydła rosły i kiedy się zdawało, ze słońce
+                jest blisko ziemi, uwiązane promieniami do szczytów drzew. Oto jest grosz mój
+                wdowi, oto historja dni szczęśliwych, mizerna, biedna, opowiedziana z lękiem,
+                bez ozdoby słów i bez strojenia ich w, kwiaty. Jest to bajeczka, opowiadana tym,
+                co są na popasie tułactwa, aby choć na noc jedną odegnać od nich tęsknotę, co
+                ich żre. Poto te wstępy czynię i poto mowię to wszystko, aby wyjawić, czemu na
+                zapomnianych ugorach kwietnych szukam wspomnień i uśmiechów. Nie dla siebie...
+                nie dla siebie... (Jeśliby zaś kto łzę zabłąkaną wśród biednych słów moich
+                dojrzał, niechaj wie, ze to nie łza, lecz radość wspomnienia i niechaj wtedy
+                mnie uwierzy, nie krytykowi, który jest tragediante!...) A potem, postawiwszy
+                krzyżyk na wspólnym grobie "ludzi śmiechu", pójdziemy — o przyjaciele!. — siać
+                zboże. — Teraz zasię spraszam wszystkich na uczty radosne, ja .i mój niechlujny
+                przyjaciel, Eustachy Szczygieł, niestety malarz. On to, nieboszczyk Szymon
+                Chrząszcz i ja zajmowaliśmy się w bujnej młodości raczej czynieniem
+                najwymyślniejszych wstrętów życiu, indywiduum to bowiem, zezowate z
+                przyrodzenia, zachowywało się wobec tak dostojnego zgromadzenia jak nasze, wcale
+                niegodnie. Chłodem i głodem starało się nas pognębić, oduczyć radości i śmiechu,
+                wyjałowić w nas serca i skrzywić duszę. Odeszło jednak we wstydzie i
+                pohańbieniu, co opowiedziałem niezręcznie i nudnie w ostatniej książce mojej,
+                nazywającej się, Bóg raczy wiedzieć, dlaczego? — "Perły i wieprze". Tam tez
+                znajduje się historja znajomości mojej i srogiej przyjaźni z malarzem Szczygłem,
+                osobą godną pokazywania jej we wszystkich menażerjach świata. Ponieważ los
+                sprzągł mnie z nim na długo i ponieważ zamierzam właśnie opowiedzieć dalszą
+                sprośnego żywota naszego historję, nie od rzeczy będzie powtórzenie krótkiego
+                opisu osoby Szczygła dla owych, którzy mieli szczęście nieczytania wymienionej
+                powyżej ze słusznym wstydem z mej strony — mojej książki. Eustachy Szczygieł
+                tedy był to "malarz smutny". Człowiek ten w wolnych chwilach ilustrował polskie
+                pismo humorystyczne i z przyzwyczajenia zesmutniał tak śmiertelnie, że żal było
+                na niego patrzeć; bali się ludzie, że ten człowiek uśmiechnie się po raz
+                pierwszy w życiu wtedy, kiedy się powiesi w przystępie radosnego obłędu. Pił
+                zawsze na smutno i tańczył na smutno. Wtedy wyglądał, jak nieboszczyk, który z
+                własną pląsa trumna.. Bardziej stylowego człowieka nie widziałem w mojem życiu;
+                znajomi jego opowiadali, ze wewnątrz jest on zupełnie obłąkanie wesoły,
+                melancholijny jest tylko na fizjognomji, to niby tak, jak gdybyś cyrk ustawił na
+                środku cmentarza. Kiedy był szczerze i pogodnie wesołym, czynił wtedy coś z
+                gębą, wykrzywiał ją, na moment tak, jakby miał skonać, zadławiwszy się ością, i
+                wydawał dziwny jęk, niemożliwy do powtórzenia. Byłto nędzarz pierwszej klasy i
+                do tego wszystkiego miał kochankę, do której nie powiedział w życiu ani słowa.
+                Żyliśmy w przyjaźni ścisłej, on zaś do tego związku wniósł serce złote i duszę
+                byłby z siebie dał, by poratować przyjaciela w czasach, kiedy dobry Pan Bóg w
+                zupełności zapomniał o takich, jako my, gorliwych chrześcijanach. Lecz nam
+                radośnie zawsze było i niebo nas błogosławiło: jednego suchotami, nędzą innych,
+                by nas nauczyć tęsknoty za rajem, dokąd nam wcale nie było spieszno, żadne więc
+                fałszywe obietnice nie zdołały uczynić z nas świętych. ze sztuczną palmą w
+                prawej dłoni, chodziliśmy tedy po ziemi, jako bogowie, serca niosąc w dłoni.
+                Wędrowaliśmy po mlecznej drodze, licząc gwiazdy, łzy i pocałunki. Inne rachunki
+                nigdy nas nie obowiązywały, stąd urosła pewna do nas niechęć ze strony życia,
+                kapituły i policjantów. Serca jednak mieliśmy czyste i dusze radosne, co się
+                jasno okaże na następnych tej księgi stronicach. </p>
+        </div>
+        </front>
         <body>
-            <div type="chapter">
-                <head>MÓJ CZYTELNIKU!</head>
-                <p> Jest dla mnie sprawą doskonale obojętną, czy weźmiesz do ręki książkę tę z
-                    miłością, czy z należytą pogarda., książka bowiem jest to stworzenie żywe i tak
-                    przezorne, ze serce swoje zostawia w rękach tego, co ją pisał, na pokaz rynku
-                    zaś ma twarz jedynie. Chodzi wśród ludzi, jak biedna sierota, której przed
-                    zbiegowiskiem ludzkiem każe tańczyć oprowadzający ją po świecie cygan-wydawca i
-                    tańczy i śpiewa, zwykle na temat z "Mignon". Godną jest tedy poklasku
-                    gentelmana, lub westchnienia opasłej damy, która ma dobrą duszę i otłuszczenie
-                    osierdzia, serce zaś swoje, takie czyste, jak łza, ukaże książka temu jedynie,
-                    kto zna mowę serca, oczy zaś ma tak przenikliwe, ze dojrzeć je potrafi w głębi
-                    siedmiu skrzyń, na siedem zamkniętych zamków, w gąszczu słów, splątanych
-                    misternie za zasłoną z dziwnej mgły, co na oczy pada i na duszę. Do tego książka
-                    przemówi, jakby zaklęciem, jednem jakiemś cichutkiem słowem, w którem
-                    najbiedniejszem z tysiąca, słowem, w którem zazwyczaj drukarska jest pomyłka,
-                    niepozornem i niewymyślnem. Przez nie właśnie, jak przez serce, wycięte w
-                    okiennicy, pada tysiąc i jeden promieni. Nie dlatego ci to mowię, czytelniku,
-                    aby mi obłąkaną radość sprawiała rozmowa z człowiekiem, który miał dwa ruble i
-                    nie wiedząc, co z nimi uczynić, kupił książkę. Dlatego to mówię, że mi się tak
-                    podoba i że mi smutno. A dlatego mi smutno, żeby się krytykom moim zdawało, ze
-                    mi jest wesoło, krytyk bowiem jest to człowiek szanowny, który zawodowo nie
-                    wierzy, lubi paradoksy i nie zna anatomji, zółć bowiem uważa za serce; jeśli
-                    się, zaś uśmiecha, to uśmiechem posążku Buddy, który patrzy w środek swego
-                    brzucha i mniema, ze to środek wszechświata. Poza tem jest to człowiek
-                    tragiczny, który boleśnie kiwa głową; dlaczego to czyni, nie wiem, lecz wtedy
-                    jest podobnym do wielkiego wahadła, które mierzy kroki śmierci. Śmierć zaś,
-                    największy krytyk na tym padole łez i kobiecej twórczosci literackiej, nie znosi
-                    śmiechu i radosnego śpiewu. Jest to niezbitym dowodem jej talmudycznej
-                    genealogji i źródłem rabinackiej, śmiertelnej powagi krytyków literackich, Ten
-                    tragiczny stan rzeczy jest początkiem handlowego artykułu, który się zowie
-                    "śmiechem przez łzy"; produkt ten posiada popularność miętowego proszku do
-                    zębów, wody kolońskiej lub gumowych obcasów Bersona, mających przeszkadzać
-                    wstrząśnieniom mózgu. Heu me miserum! Jak zbrodniarz z Cayenny, jak nieszczęsna
-                    Manon, kochanka kawalera de Grieux, noszę na sobie piętno, etykietę "przylepioną
-                    i przypiętą", na której widok gentleman, który za dwa zbywające ruble kupił
-                    książkę, powiada boleśnie: "ten człowiek śmieje się, smutno!" Przeto tęsknię za
-                    śmiechem radosnym, czynię to zaś z wielu, wielu powodów. Myślę tak sobie, że
-                    maluczko, a trzeba się będzie przestać śmiać albowiem nie będzie czasu na to,
-                    trudno zresztą śmiać się człowiekowi, co zęby zacisnął i w wielkiem milczeniu
-                    usuwa niezwęglone belki. Trzeba więc będzie, aby ktoś śpiewał potężnie tym, co
-                    pracują. A tym, co się dziś smucą i tęsknią i żalą, posyłam książkę tę, która
-                    się uśmiecha tym uśmiechem, co umrze niedługo, uśmiechając się jeszcze. Proste
-                    są w niej historje i niewymyślne, co jedno tylko pragną: aby kogoś od jego
-                    bolących oderwać myśli, aby dać jedną chwilę wytchnienia i przez niezgrabnie
-                    wycięte serduszko okiennic pokazać snop słonecznych promieni. Jeśli się kto na
-                    chwilę jedną uśmiechnie za moją sprawą, — szczęśliwy będę. A jeśli w kim serce
-                    żywiej zabije — będę szczęśliwszy jeszcze. Więc komu z tych, wytchnienia pragną,
-                    trzeba będzie uśmiechu, zbierze nawet łzy z tej książki cichej i niech w uśmiech
-                    przetopi, niech wszystkie smutki jej i biedy wydadzą mu się radosne. Albowiem to
-                    jest wszystko, co mogę dać ludziom smutnym: ciche serce moje, co się uśmiecha na
-                    wspomnienie dawnych dni, kiedy nam skrzydła rosły i kiedy się zdawało, ze słońce
-                    jest blisko ziemi, uwiązane promieniami do szczytów drzew. Oto jest grosz mój
-                    wdowi, oto historja dni szczęśliwych, mizerna, biedna, opowiedziana z lękiem,
-                    bez ozdoby słów i bez strojenia ich w, kwiaty. Jest to bajeczka, opowiadana tym,
-                    co są na popasie tułactwa, aby choć na noc jedną odegnać od nich tęsknotę, co
-                    ich żre. Poto te wstępy czynię i poto mowię to wszystko, aby wyjawić, czemu na
-                    zapomnianych ugorach kwietnych szukam wspomnień i uśmiechów. Nie dla siebie...
-                    nie dla siebie... (Jeśliby zaś kto łzę zabłąkaną wśród biednych słów moich
-                    dojrzał, niechaj wie, ze to nie łza, lecz radość wspomnienia i niechaj wtedy
-                    mnie uwierzy, nie krytykowi, który jest tragediante!...) A potem, postawiwszy
-                    krzyżyk na wspólnym grobie "ludzi śmiechu", pójdziemy — o przyjaciele!. — siać
-                    zboże. — Teraz zasię spraszam wszystkich na uczty radosne, ja .i mój niechlujny
-                    przyjaciel, Eustachy Szczygieł, niestety malarz. On to, nieboszczyk Szymon
-                    Chrząszcz i ja zajmowaliśmy się w bujnej młodości raczej czynieniem
-                    najwymyślniejszych wstrętów życiu, indywiduum to bowiem, zezowate z
-                    przyrodzenia, zachowywało się wobec tak dostojnego zgromadzenia jak nasze, wcale
-                    niegodnie. Chłodem i głodem starało się nas pognębić, oduczyć radości i śmiechu,
-                    wyjałowić w nas serca i skrzywić duszę. Odeszło jednak we wstydzie i
-                    pohańbieniu, co opowiedziałem niezręcznie i nudnie w ostatniej książce mojej,
-                    nazywającej się, Bóg raczy wiedzieć, dlaczego? — "Perły i wieprze". Tam tez
-                    znajduje się historja znajomości mojej i srogiej przyjaźni z malarzem Szczygłem,
-                    osobą godną pokazywania jej we wszystkich menażerjach świata. Ponieważ los
-                    sprzągł mnie z nim na długo i ponieważ zamierzam właśnie opowiedzieć dalszą
-                    sprośnego żywota naszego historję, nie od rzeczy będzie powtórzenie krótkiego
-                    opisu osoby Szczygła dla owych, którzy mieli szczęście nieczytania wymienionej
-                    powyżej ze słusznym wstydem z mej strony — mojej książki. Eustachy Szczygieł
-                    tedy był to "malarz smutny". Człowiek ten w wolnych chwilach ilustrował polskie
-                    pismo humorystyczne i z przyzwyczajenia zesmutniał tak śmiertelnie, że żal było
-                    na niego patrzeć; bali się ludzie, że ten człowiek uśmiechnie się po raz
-                    pierwszy w życiu wtedy, kiedy się powiesi w przystępie radosnego obłędu. Pił
-                    zawsze na smutno i tańczył na smutno. Wtedy wyglądał, jak nieboszczyk, który z
-                    własną pląsa trumna.. Bardziej stylowego człowieka nie widziałem w mojem życiu;
-                    znajomi jego opowiadali, ze wewnątrz jest on zupełnie obłąkanie wesoły,
-                    melancholijny jest tylko na fizjognomji, to niby tak, jak gdybyś cyrk ustawił na
-                    środku cmentarza. Kiedy był szczerze i pogodnie wesołym, czynił wtedy coś z
-                    gębą, wykrzywiał ją, na moment tak, jakby miał skonać, zadławiwszy się ością, i
-                    wydawał dziwny jęk, niemożliwy do powtórzenia. Byłto nędzarz pierwszej klasy i
-                    do tego wszystkiego miał kochankę, do której nie powiedział w życiu ani słowa.
-                    Żyliśmy w przyjaźni ścisłej, on zaś do tego związku wniósł serce złote i duszę
-                    byłby z siebie dał, by poratować przyjaciela w czasach, kiedy dobry Pan Bóg w
-                    zupełności zapomniał o takich, jako my, gorliwych chrześcijanach. Lecz nam
-                    radośnie zawsze było i niebo nas błogosławiło: jednego suchotami, nędzą innych,
-                    by nas nauczyć tęsknoty za rajem, dokąd nam wcale nie było spieszno, żadne więc
-                    fałszywe obietnice nie zdołały uczynić z nas świętych. ze sztuczną palmą w
-                    prawej dłoni, chodziliśmy tedy po ziemi, jako bogowie, serca niosąc w dłoni.
-                    Wędrowaliśmy po mlecznej drodze, licząc gwiazdy, łzy i pocałunki. Inne rachunki
-                    nigdy nas nie obowiązywały, stąd urosła pewna do nas niechęć ze strony życia,
-                    kapituły i policjantów. Serca jednak mieliśmy czyste i dusze radosne, co się
-                    jasno okaże na następnych tej księgi stronicach. </p>
-            </div>
+            
 
             <div type="chapter">
                 <head>I</head>

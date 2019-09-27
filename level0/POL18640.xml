@@ -2,12 +2,12 @@
 <?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="eltec-0.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl" xml:id="pol" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl" xml:id="pol" xml:id="POL18640">
 <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title> Przebudzeni : ELTeC edition</title>
-                <author><!-- Bałucki, Michał (1837-1901)--></author>
+                <author>Bałucki, Michał (1837-1901)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Nikolche Mickoski</name>
@@ -24,16 +24,13 @@
                 <bibl type="firstEdition">
                     <author>Bałucki, Michał</author>
                     <title>Przebudzeni</title>
-                    <pubPlace>Cracow</pubPlace>
-                    <date></date> 
+                     <date>1864</date> 
                 </bibl>
                 <bibl type="digitalSource">
-                    <author>Bałucki, Michał</author>
-                    <title>Przebudzeni</title>
-                    <pubPlace>Cracow</pubPlace>
+                     <title>100 Polish Novels</title>
+                    <ref target="https://github.com/computationalstylistics/100_polish_novels"/>
                     <publisher>Computational Stylistics Group in Krakow</publisher>
-                    <date></date>
-                </bibl>
+                     </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
@@ -54,10 +51,10 @@
             <change when="2019-09-24"></change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text><front><div type="titlepage"><p>Michał Bałucki </p><p>
+        PRZEBUDZENI</p></div></front>
         <body>
-           <p>Michał Bałucki 
-               PRZEBUDZENI</p>
+           
 <div type="chapter"><head>I</head>
 <head>ALKHADAR</head>
 <p>Warszawo! niewolnico! kiedyś na poranione ciało balowe szaty wdziewała i wdzięczyłaś się do wroga malowaną twarzą, i szalałaś uciechą na nieporosłych jeszcze mogiłach twych dzieci — z pogardą odwracałem wzrok od ciebie i kląłem cię, hańbiącą swoje wdowieństwo; ale dziś, gdy szał minął, gdyś odtrąciła od siebie uściski carskiego ramienia i zarzuciwszy na barki żałobę krzyknęłaś: „cierpię... wierzę...", dziś klękam przed tobą, męczennico, i proch, co się u nóg twych wala — to moje namaszczenie.</p>
@@ -2125,11 +2122,11 @@ Pięknie mówią poeci o naszej Wiśle, że podobna do błękitnej wstęgi rzuco
 <p>W tej chwili kula trafiła w skroń hrabiego, upadł bez jęku. Władysław podniósł się na jednej ręce, spojrzał za siebie — tam popłoch i ucieczka — nad Wisłą krzyk, słychać szelest uciekających i szum wody. Moskale nabrali ducha i wychyliwszy się zza chat i drzew zrobili wycieczkę. Już byli blisko niego, z bagnetami złożonymi do ataku, oczami dzikimi, twarzami czerwonymi, opitymi. Władysław dobył rewolweru, włożył jego otwór w usta i strzelił.</p>
 <p>Ot i dobiłem się do końca powieści przez cierpienia i uśmiechy nadziei, przez upadki i tryumfy moralne, przez zapał i obojętność, przez miłość i zemstę — a końcem powieści śmierć bohatera. I nie mogło być inaczej. Dziś śmierć za kraj — to Wymowne słowo, które rzucamy w niebo, wołając o sprawiedliwość, rzucamy w uszy samolubnej Europy jak straszny wyrzut, dajemy dzieciom naszym na pamiątkę — po krwawych schodach poległych bohaterów idziemy do zwycięstwa. Władysław, człowiek przebudzony, pełen poświęcenia, zginąć musiał, bo wątpił — zginął w przedświcie zwycięstwa — bo w chwili pojednania.</p>
 <p>Alkhadar został — bo w nim żyje idea, co czeka na zwycięstwo — i on bohaterem przyszłości. O czym druga część powieści.</p>
-<p>
-KONIEC</p>
-<p>
-Pisałem w Paryżu r. 1863.</p>
-<p>ELPIDON.</p>
+<trailer>
+KONIEC</trailer>
+<trailer>
+Pisałem w Paryżu r. 1863.</trailer>
+<trailer>ELPIDON.</trailer>
 </div>
        </body></text>
 </TEI>

@@ -24,7 +24,8 @@
                     <title>Lato Leśnych Ludzi: 100 Polish Novels Edition</title>
                     <author>Rodziewiczówna, Maria</author>
                     <ref target="https://github.com/computationalstylistics/100_polish_novels"/>
-                </bibl>
+                </bibl><bibl type="firstEdition"><title>Lato Leśnych Ludzi</title> <date>1920</date></bibl>
+                
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
@@ -399,21 +400,21 @@
                     barwą się wybił na lica, zapalił ogniem radości stęsknione źrenice.</p>
                 <p> —  Hejnał, wodzu! — upomniał się Pantera.</p>
                 <p>A Rosomak ziemi, błękitom borów i pól rzucił:</p>
-                <p>Czas ci już wstać, czas ci już iść,</p>
-                <p>Retmanko polnych rot!</p>
-                <p>Oto ci na hełm borowy liść,</p>
-                <p>Oto ci w rękę rozmaju kiść,</p>
-                <p>Oto twój złoty grot!</p>
-                <p>Powiedziesz ty, powiedziesz nas</p>
-                <p>Na ten słoneczny szlak,</p>
-                <p>Gdzie kwitnąć sercom i pieśniom czas,</p>
-                <p>Gdzie szumu czeka uśpiony las,</p>
-                <p>Gdzie czeka lotu ptak!</p>
-                <p>Powiedziesz ty, powiedziesz świat</p>
-                <p>W zwycięski pochód twój,</p>
-                <p>Gdzie z prochów świeży wykwita kwiat,</p>
-                <p>Gdzie brzask wybucha zza nocy krat,</p>
-                <p>Gdzie stoczysz życia bój!</p>
+               <l>Czas ci już wstać, czas ci już iść,</l>
+                <l>Retmanko polnych rot!</l>
+                <l>Oto ci na hełm borowy liść,</l>
+                <l>Oto ci w rękę rozmaju kiść,</l>
+                <l>Oto twój złoty grot!</l>
+                <l>Powiedziesz ty, powiedziesz nas</l>
+                <l>Na ten słoneczny szlak,</l>
+                <l>Gdzie kwitnąć sercom i pieśniom czas,</l>
+                <l>Gdzie szumu czeka uśpiony las,</l>
+                <l>Gdzie czeka lotu ptak!</l>
+                <l>Powiedziesz ty, powiedziesz świat</l>
+                <l>W zwycięski pochód twój,</l>
+                <l>Gdzie z prochów świeży wykwita kwiat,</l>
+                <l>Gdzie brzask wybucha zza nocy krat,</l>
+                <l>Gdzie stoczysz życia bój!</l>
             </div>
             <div type="chapter">
                 <head>OSIEDLE</head>
