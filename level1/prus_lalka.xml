@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl" xml:id="prus_lalka">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl" xml:id="POL0063">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -34,10 +34,10 @@
 <language ident="pl">Polish</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distant-reading.net/eltec/ns" key="M"/>
-<size xmlns="http://distant-reading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distant-reading.net/eltec/ns" key="high"/>
-<timeSlot xmlns="http://distant-reading.net/eltec/ns" key="T3"/>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>
 <revisionDesc>
