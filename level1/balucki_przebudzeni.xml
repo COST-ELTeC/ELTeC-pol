@@ -4,9 +4,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Przebudzeni</title>
-<author>Bałucki, Michał</author>
-</titleStmt>
+<title>Przebudzeni : ELTeC edition</title>
+<author ref="http://viaf.org/viaf/70005089">Bałucki, Michał (1837-1901)</author>
 <extent>
 <measure unit="words">49056</measure>
 </extent>

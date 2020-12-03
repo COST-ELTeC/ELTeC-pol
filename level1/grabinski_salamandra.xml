@@ -4,8 +4,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Salamandra</title>
-<author>Grabiński, Stefan</author>
+<title>Salamandra : ELTeC edition</title>
+<author ref="http://viaf.org/viaf/8490048">Grabiński, Stefan (1887-1936)</author>
 </titleStmt>
 <extent>
 <measure unit="words">32079</measure>

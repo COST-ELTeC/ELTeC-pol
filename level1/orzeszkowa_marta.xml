@@ -4,8 +4,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marta</title>
-<author>Orzeszkowa, Eliza</author>
+<title>Marta : ELTeC edition</title>
+<author ref="http://viaf.org/viaf/44349228">Orzeszkowa, Eliza (1841-1910)</author>
 </titleStmt>
 <extent>
 <measure unit="words">65886</measure>
