@@ -54,7 +54,7 @@
 </front>
 <body>
 <div>
-<p>I. Mój ojciec wyjeżdża do Turek</p>
+<div type="chapter"><head>I. Mój ojciec wyjeżdża do Turek</head>
 <p>Było święto Trzech Królów. Ojciec mój ubrał się od święta,
 przywdział kopieniak podbity lisami, bo mróz był mocny,
 a nim się jeszcze matka zebrała, aby z nim pójść do kościoła,
@@ -390,7 +390,8 @@ jego, obłapił i ucałował nas oboje, zrobił biczem znak krzyża
 się zdało, że te jego kowane koła po sercu nam przejechały.</p>
 </div>
 <div>
-<p>II. Kozak Semen</p>
+</div>
+<div type="chapter"><head>II. Kozak Semen</head>
 <p>Wkrótce po tym wyjeździe mojego ojca stało się u nas
 wielkie zamieszanie i jakoby trzask okrutny, jeno że bardzo
 niewesoły. Wracały wojska z wojny tureckiej, a wracały
@@ -674,7 +675,8 @@ strachu i ciekawości, z oczyma wlepionymi w obłoki kurzu,
 które umykały coraz dalej, coraz dalej, aż opadły pod górami.</p>
 </div>
 <div>
-<p>III. Tajemnica kozacka</p>
+</div>
+<div type="chapter"><head>III. Tajemnica kozacka</head>
 <p>Minął dzień, a Semen nie powrócił. Konie, połapane
 w polu, dopiero pod wieczór przywiedziono do wsi, ale już
 ich nie postawiono w naszej stajni, tylko we dworze u podstarościego. Przyszedł hajduk Kajdasz do naszej chaty i kazał
@@ -1047,8 +1049,9 @@ rannego pacierza, ale słowa utykały mi w gardle, a serce
 mi kołatało, jak gdyby mi kto młotem tłukł pod żebrami.</p>
 </div>
 <div>
-<p>IV.
-Idę w świat</p>
+</div>
+<div type="chapter"><head>IV.
+Idę w świat</head>
 <p>Nie darmo to mówi przysłowie, że klin klinem się wybija.
 Wlazła mi w głowę prawdziwym klinem historia Semena
 i ta jego tajna rzecz zakopana w lesie, której ja miałem
@@ -1470,7 +1473,8 @@ został na polance, lubo to był cały mój majątek, i zasnąłem
 smaczno jakoby na najmiększej pościeli.</p>
 </div>
 <div>
-<p>V. Przygoda z Tatarami</p>
+</div>
+<div type="chapter"><head>V. Przygoda z Tatarami</head>
 <p>Kiedy się obudziłem, już dzień się robił, a równo z poranną zorzą i w mojej biednej głowie świtać zaczęło, i teraz
 mi jasno było, com narobił i na jakie nieszczęście samego
 siebie przywiodłem. Zmówiłem pacierz z uciśnionym sercem
@@ -1938,7 +1942,8 @@ bał bardzo, aż wreszcie złotniczek go zluzował i już spokój
 mieliśmy.</p>
 </div>
 <div>
-<p>VI. Mendyczek</p>
+</div>
+<div type="chapter"><head>VI. Mendyczek</head>
 <p>Ledwie się niebo zarumieniło od zorzy porannej, kiedy
 się zbudziłem, podczas gdy wszyscy jeszcze spali. Zmówiłem
 pacierz nabożnie i z wdzięcznym sercem dla Opatrzności
@@ -2235,8 +2240,9 @@ potrząsa mnie za ramię i mówi:</p>
 <p>— Wstawaj! Pan Heliasz cię woła.</p>
 </div>
 <div>
-<p>VII.
-Na służbie</p>
+</div>
+<div type="chapter"><head>VII.
+Na służbie</head>
 <p>Pan Jarosz Spytek, u którego pan Heliasz służył za
 starszego sprawcę i wiernika, był aromatariuszem, tj. kupcem
 korzennym i aptekarskim, ale przy tym i inne wszelkie
@@ -2621,7 +2627,8 @@ zasuwała się już ciężka chmura nad moją głową, chociem
 jej jeszcze nie widział i nie przeczuwał.</p>
 </div>
 <div>
-<p>VIII Fok! Fok! Fok!</p>
+</div>
+<div type="chapter"><head>VIII Fok! Fok! Fok!</head>
 <p>Przez ten cały czas służby u pana Jarosza Spytka najdłużej bywałem zawsze z panem Dominikiem, młodszym
 sprawcą jego handlu, bo pan Heliasz zawsze albo nad tą
 dużą księgą siedział, albo listy pisał, albo z samym panem
@@ -2835,7 +2842,8 @@ pociechy mi nie brakło, że Bóg lepiej zna moje serce i sumienie niż ludzie, 
 być raczy, jeśli na mnie jakie ciężkie utrapienie spadnie.</p>
 </div>
 <div>
-<p>IX. W pułapce</p>
+</div>
+<div type="chapter"><head>IX. W pułapce</head>
 <p>Obudzi się rano ptaszek na zielonej gałęzi, świat mu
 piękny, słonko ciepłe, na niebie pogoda. Strzępie rosę z piórek, zaśpiewa wesoło i wyleci z krzaka na wolność, na rozkosz, na zielone pola, na pszeniczne kłosy. Wtem pada
 strzała z łuku myśliwca albo kamyk z procy pastuszka i owo
@@ -3158,7 +3166,8 @@ wąziutkie i strome, ledwiem się na nich zatrzymał, a dokoła
 mnie była ciemność jak w piwnicy.</p>
 </div>
 <div>
-<p>X. Ucieczka</p>
+</div>
+<div type="chapter"><head>X. Ucieczka</head>
 <p>Macając kolo siebie poznałem, że jestem na wąskich
 schodkach, które w dół prowadzą, ale co tam na dole, w ciemności widzieć się nie dało. W górze nad sobą widzę tylko
 światełko z izby, co się przedzierało przez szczelinki tych
@@ -3510,7 +3519,8 @@ do ucha:</p>
 on już odsądził się daleko ku Bosackiej furcie, a ja za nim.</p>
 </div>
 <div>
-<p>XI. Karawana do Turek</p>
+</div>
+<div type="chapter"><head>XI. Karawana do Turek</head>
 <p>Biegłem za Worobą, nie wiedząc dokąd; najpierw ku
 Bosackiej furcie, od furty wzdłuż miejskiego muru aż do
 Ormian, od Ormian znowu popod dom pana Stancla Szolca
@@ -3882,7 +3892,8 @@ dobry człowieku!</p>
 Woroba i zniknął w nocnej ciemności.</p>
 </div>
 <div>
-<p>XII. Jeniec turecki</p>
+</div>
+<div type="chapter"><head>XII. Jeniec turecki</head>
 <p>Ledwie świtało na niebie, kiedy wozy ruszyły, tak że
 Halicka brama była jeszcze zamknięta i dopiero nam ją
 otworzono. Niedaleko za bramą, kiedy minęliśmy nowy kościół
@@ -4321,7 +4332,8 @@ przystań mają, kiedy z morza wrócą, i tam się o niego
 pytać trzeba.</p>
 </div>
 <div>
-<p>XIII. Wyprawa po ojca</p>
+</div>
+<div type="chapter"><head>XIII. Wyprawa po ojca</head>
 <p>Po tym, com usłyszał od księdza Benignusa, pierwsza
 rzecz była: policzyć, ile mam w mieszku, bowiem dotąd nie
 myślałem nawet o pieniądzach moich, mając wszystko, czego
@@ -4594,7 +4606,8 @@ a Turka i Kozaka diabłu, kiedyby płacić chciał. Bóg ci
 pomagaj!</p>
 </div>
 <div>
-<p>XIV. Poturmak Jowan</p>
+</div>
+<div type="chapter"><head>XIV. Poturmak Jowan</head>
 <p>Dostał ja się za bożą pomocą szczęśliwie do Mezembrii,
 czyli Nesembra, całą prawie drogę przebywszy pieszo, bo
 przysiąść się już przez to samo trudno było, że samych
@@ -4994,7 +5007,8 @@ dłoń mi przy tym uścisnął; jakby mi znak dać chciał, że
 rozumie i że gotów będzie na wszystko.</p>
 </div>
 <div>
-<p>XV. Katakallo! Katakallo</p>
+</div>
+<div type="chapter"><head>XV. Katakallo! Katakallo</head>
 <p>Wiedziałem jedno tylko i pewna to dla mnie rzecz była,
 że jeśli damy się wieść Jowanowi, kędy on zechce, wpadniemy w zdradziecką zasadzkę, bo już nie było żadnego
 wątpienia, że ten niecnota tak się z Turkami z galery umówił,
@@ -5343,7 +5357,8 @@ mu twarz poczerwieniała jak koral, a policzki jak pęcherz
 się rozdęły.</p>
 </div>
 <div>
-<p>XVI. Oko proroka</p>
+</div>
+<div type="chapter"><head>XVI. Oko proroka</head>
 <p>Zdumiał się pan Bonarek, kiedy mnie obaczył, aż mu
 fletnia z rąk wypadła, ale ucieszył się mną bardzo i z wielką
 ludzkością mnie powitał, a po pana Zachnowicza zaraz
@@ -5696,7 +5711,8 @@ uciąć. Głowa jego na wysokim palu dwa tygodnie sterczała
 na polu pod Jassami, a ciało psy głodne pożarły.</p>
 </div>
 <div>
-<p>XVII. Jak się spisał Matysek</p>
+</div>
+<div type="chapter"><head>XVII. Jak się spisał Matysek</head>
 <p>Zatrzymać się miał pan Zachnowicz kilka dni jeszcze
 w Kamieńcu, a droga do Lwowa miała być długa, bośmy
 bardzo powoli jechali i częste odbywali popasy i noclegi
@@ -5999,7 +6015,8 @@ ją też, panie, znadziecie.</p>
 a nie gdzie indziej. A teraz tobym już chciał był na skrzydłach lecieć do Lwowa.</p>
 </div>
 <div>
-<p>XVIII. Testament Woroby</p>
+</div>
+<div type="chapter"><head>XVIII. Testament Woroby</head>
 <p>W Glinianach dopędzili nas Kozacy: stary Bedryszko
 z Semenem i Midopakiem. Chcieli mnie zabrać z sobą,
 abym prędzej z nimi stanął we Lwowie, bo my z tymi końmi
@@ -6354,7 +6371,8 @@ wdowa, a ta pani dobrze zna Bedryszkę, z dawien dawna
 go zna!</p>
 </div>
 <div>
-<p>XIX. Na złotym deszczu</p>
+</div>
+<div type="chapter"><head>XIX. Na złotym deszczu</head>
 <p>Jeszcze tego samego dnia poszedłem z ojcem do pana
 Heliasza, bo chciałem mu raz jeszcze ucałować ręce za jego
 dobrotliwość dla mnie, której i własny ratunek, i wolność
@@ -6686,7 +6704,8 @@ wyskoczy oknem z waszej chaty!</p>
 <p>A tak stanęło na tym, że pojutrze zbrojno najedziemy na Kajdasza.</p>
 </div>
 <div>
-<p>XX. Fora ze dwora</p>
+</div>
+<div type="chapter"><head>XX. Fora ze dwora</head>
 <p>Bawiliśmy jeszcze cale dwa dni we Lwowie. Ojciec z początku ani rusz nie chciał wziąć ode mnie pieniędzy, „bo —
 mówił — twoje to szczęście i twoja w tym głowa była; chowajże to sobie, abyś miał na przyszłe postanowienie i na
 złe godziny, bo widzisz, jakom ja dlatego, iż w czas stu
@@ -6956,8 +6975,9 @@ niechaj mu zawsze i wszędy pomaga, bo mi dobrze czynił
 i za brata go sobie miałem.</p>
 </div>
 <div>
-<p>XXI.
-Zakończenie</p>
+</div>
+<div type="chapter"><head>XXI.
+Zakończenie</head>
 <p>Na tym skończyły się przygody mojej młodości i na tym
 ja tę moją opowieść kończę. A co by jeszcze dodać potrzeba, tego już niewiele jest i krótkimi słowy to zbyć mogę.</p>
 <p>Ojciec mój, iż już cale porzucił kupiecką furmankę,
@@ -7020,6 +7040,7 @@ a choćby zębami się odgryzaj, bo to twoje prawo jest,
 ale pomstę Bogu pozostaw. Zawsześ ty więcej wziął aniżeliś
 wart, a kiedy na tamtym świecie liczbę czynić będziesz
 z żywota swego, dłużen zostaniesz i miłosierdzia potrzebny.</p>
+</div>
 </div>
 </body>
 </text>

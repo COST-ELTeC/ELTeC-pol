@@ -54,7 +54,7 @@ brzegiem pucharu</p>
 </front>
 <body>
 <div>
-<p>I</p>
+<div type="chapter"><head>I</head>
 <p>Berlin spał. Pogasły światła po magazynach, po teatrach, po mieszkaniach filistrów, po suterynach i strychach.</p>
 <p>Gaz tylko migotał w ulicznych latarniach i świeciły jeszcze okna klubów
 karciarzy, restauracji podrzędnych, sal tańca i aptek.</p>
@@ -322,7 +322,8 @@ bliżej lokaja.</p>
 <p>Lokaj skłonił się w milczeniu. Odzywał się tylko w nadzwyczajnej potrzebie z konieczności. Hrabia ledwie się rozebrał, już spał. Uleciały mu z myśli piękne panie, niemiecki honor, pojedynki; odpoczynku tego nie oddałby za uścisk hrabiny Aurory.</p>
 </div>
 <div>
-<p>II</p>
+</div>
+<div type="chapter"><head>II</head>
 <p>Wentzel Croy-Dülmen od dzieciństwa był panem swej woli i czynów.
 Wprawdzie ojciec naznaczył mu opiekuna, starego towarzysza broni i sąsiada, majora Koop, i opiekunkę, ciotkę Dorę, ale opieka to była — pożal się Boże.</p>
 <p>Że fundusz nie zginął — zawdzięczał to tylko swemu ogromowi; że
@@ -684,7 +685,8 @@ do restauracji.</p>
 <p>Bankiet przeciągnął się do rana.</p>
 </div>
 <div>
-<p>III</p>
+</div>
+<div type="chapter"><head>III</head>
 <p>Ciotka Dora von Eschenbach po raz pierwszy w życiu zgodziła się ze
 zdaniem siostrzeńca.</p>
 <p>Było to nazajutrz. Hrabia zjawił się o południu, zhulany, blady, ziewający pomimo wiosennego słońca. Wyglądał jak uosobienie swawoli i nadużycia.</p>
@@ -864,7 +866,8 @@ logikę, i za zdrowy sens. Umiała robić sto mil na godzinę. Ale o pięknym
 paniczu zaginęły wieści.</p>
 </div>
 <div>
-<p>IV</p>
+</div>
+<div type="chapter"><head>IV</head>
 <p>W jednym z najszykowniejszych klubów berlińskich zebrało się pewnego
 wieczora na obiad grono wesołej młodzieży.</p>
 <p>Była to jesień. Panicze zbierali się zaledwie — jeden z dóbr, drugi
@@ -1151,7 +1154,8 @@ aksamitnym modlitewnikiem i podreptała szybko na górę.</p>
 Co prawda, nie ciekawy był zobaczyć admirała.</p>
 </div>
 <div>
-<p>V</p>
+</div>
+<div type="chapter"><head>V</head>
 <p>Z pomocą karty geograficznej odnalazł Croy-Dülmen miejscowość Braniszcze.</p>
 <p>Była to duża wieś o dziesięć wiorst od kolei żelaznej, przerżnięta
 szosą i posiadająca pocztę, telegraf, doktora, aptekę, szkółkę i oberżę
@@ -1434,7 +1438,8 @@ pacierz i z czołem schylonym bił się w piersi pokornie.</p>
 tę fatygę cioci Dorze.</p>
 </div>
 <div>
-<p>VI</p>
+</div>
+<div type="chapter"><head>VI</head>
 <p>Barometr Chrząstkowskiego mówił prawdę. Dzień wszedł jasny i pogodny. O świcie dzwon, wzywający do roboty czeladź, zbudził młodych
 i ludzi. Jan wstał zaraz, ubrał się i wyszedł do gospodarstwa. Wentzel założył ręce pod głowę i medytował nad swoim położeniem.</p>
 <p>Minęła godzina czy dwie, gdy nagle rozwarły się z łoskotem drzwi
@@ -1709,7 +1714,8 @@ grooma:</p>
 albo ja. Głupi był zakład, kapitanie… No, kto ją tam wiedział! Brr! Żeby się o nim dowiedziała! <emph>Verflucht, verdammt</emph>! Uh, co za królewska dziewczyna! Takiej być ukochanym, to dopiero się czym pochwalić. Tymczasem trzeba się o Aurorę dowiedzieć. Czy licho już gdzie poniosło admirała? Doprawdy, czegoś mi jednak tęskno za moją Lorelei. Urban, konie!</p>
 </div>
 <div>
-<p>VII</p>
+</div>
+<div type="chapter"><head>VII</head>
 <p>Pewnego dnia, wśród zimy, Jan Chrząstkowski wysiadł na berlińskim
 dworcu i kazał się wieźć do pierwszego lepszego hotelu; tam zjadł śniadanie, przebrał się i wyszedł na miasto.</p>
 <p>Obyczajem wieśniaka gapił się w okna magazynów, czytał afisze na rogach ulic, zabłądził parę razy, raz wpadł pod konie i nareszcie po wielu
@@ -2179,7 +2185,8 @@ i ruszył na kolej. Po godzinie nie było Wentzla w stolicy. Schöneich zaspał 
 zbierały się gromy najsroższe, bo z rąk kobiecych. A on ich ani przeczuwał!</p>
 </div>
 <div>
-<p>VIII</p>
+</div>
+<div type="chapter"><head>VIII</head>
 <p>Innym się wydał Poznań Wentzlowi. Za pierwszą bytnością zieleniły
 się łąki, złociły pola — teraz śnieg pokrył całą krainę, życie zamarło.</p>
 <p>Pod Braniszczem zadymka ich opadła, poczta nie chciała jechać.</p>
@@ -2755,7 +2762,8 @@ od tego domu, gdzie on był wrogi mową, zasadami, imieniem…</p>
 <p>Była to ciężka droga z bardzo niepewnym rezultatem.</p>
 </div>
 <div>
-<p>IX</p>
+</div>
+<div type="chapter"><head>IX</head>
 <p>Była to środa, owa kuligowa środa, której wyglądały niecierpliwie panienki i młodzież okoliczna. Jan z Wentzlem dwa już dni byli nieobecni
 w Mariampolu, ku zgrozie niecierpliwej staruszki.</p>
 <p>Bawili w Strudze, dobijając targu z Głębockim, w przerwach siedzieli
@@ -3717,7 +3725,8 @@ i basta! Albom jej nie matka?</p>
 brat? Chodźmy tymczasem słuchać muzyki. Zabierz, Waciu, to <emph>in folio</emph> — i dodał ciszej: — oprawisz je kiedyś w złoto, co ci będzie lepszym swatem niż ja. Głębocki <emph>caput</emph>!…</p>
 </div>
 <div>
-<p>X</p>
+</div>
+<div type="chapter"><head>X</head>
 <p>Głucha cisza zaległa Mariampol. Hrabia wyjechał do Strugi, a stamtąd
 w świat. Jan gościem był w domu i to już nie dawnym, swawolnym chłopcem, co rozweselał puste salony. Osowiał, znudniał; albo mówił o Cesi,
 za którą szalał coraz bardziej, albo siedział milcząc, targał wąsiki i marzył
@@ -4069,7 +4078,8 @@ mieszkający obok niego, słyszał huk wystrzałów i niespokojne kroki nieszcz�
 Broń słuchała jego myśli, a on słuchał swego bólu i rozpaczy — i czekał…</p>
 </div>
 <div>
-<p>XI</p>
+</div>
+<div type="chapter"><head>XI</head>
 <p>Minęła Wielkanoc. W Wielkopolsce barwno było i wesoło. Łany zieleniały młodym zbożem, po ogrodach kwitły bzy. Była to najpiękniejsza
 chwila roku, odurzająca czarem wiosny. Słowiki śpiewały nocami po
 gajach, a o zmroku po starych, omszonych strzechach klekotały donośnie
@@ -4604,7 +4614,8 @@ długo…</p>
 <p>I tylko księżyc ich widział, i tylko ich słyszały słowiki…</p>
 </div>
 <div>
-<p>XII</p>
+</div>
+<div type="chapter"><head>XII</head>
 <p>Turkot i palenie z bata spłoszyły nazajutrz panią Teklę ze snu. Zerwała
 się przestraszona, sądząc, że przespała ceremonię ślubną.</p>
 <p>Po chwili ktoś zapukał do drzwi sypialni.</p>
@@ -4871,7 +4882,8 @@ wojować obelgami nie zwykłem. Chodźmy, panowie!</p>
 huk strzałów. Były to grzmoty przed burzą.</p>
 </div>
 <div>
-<p>XIII</p>
+</div>
+<div type="chapter"><head>XIII</head>
 <p>W Mariampolu raczej spodziewano się widoku Antychrysta niż Jana
 nazajutrz po ślubie. Pani Tekla, zajęta z ogrodnikiem około owych róż,
 tak doszczętnie zniszczonych przez „Bohatera”, aż oniemiała z podziwu,
@@ -5059,7 +5071,8 @@ się za bok i runął na wznak — krew buchnęła strumieniem.</p>
 wyszeptał niewyraźnie: „Do Mariampola” — i stracił przytomność…</p>
 </div>
 <div>
-<p>XIV</p>
+</div>
+<div type="chapter"><head>XIV</head>
 <p>W malutkim saloniku panny Doroty von Eschenbach odnajdujemy szanowną ciocię w pewien wieczór zimowy, zajętą, jak zwykle, jakimś złocistym kościelnym haftem.</p>
 <p>W pokoju było ciepło, zacisznie, na ulicy dzwoniły sanie i rozlegały się
 tony skocznej, karnawałowej muzyki, haft wyglądał świetnie; nic pozornie
@@ -5568,7 +5581,8 @@ swobody.</p>
 <p>A toast mieszał się z tonami orkiestry i ogarniał salę: <emph>Fest! Froh! Frei, frei, frei!</emph></p>
 </div>
 <div>
-<p>XV</p>
+</div>
+<div type="chapter"><head>XV</head>
 <p>Zapomnieliśmy o jednym…</p>
 <p>On był im wszystkim bliski zarazem i daleki, kochany i opłakany,
 a nie wymagał od nich ni szczęścia, ni zabawy, ni im towarzyszyć mógł
@@ -5603,6 +5617,7 @@ w boju jak bohater!”.</p>
 <p>— Amen! — wymówił Jan z Wentzlem, pochylając głowę.</p>
 <p>A Jadzi się zdało, że tego słowa nie mówił tylko mąż i brat, ale że powtarzał za nimi cały chór z grobów rozrzuconych po całym świecie.</p>
 <p>Amen, Amen, Amen!…</p>
+</div>
 </div>
 </body>
 </text>

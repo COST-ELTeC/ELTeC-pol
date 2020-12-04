@@ -53,7 +53,7 @@
 </front>
 <body>
 <div>
-<p>Rozdział I</p>
+<div type="chapter"><head>Rozdział I</head>
 <quote>
 <p>List królewny Anny Jagiellonki
 do pani Niewiarowskiej</p>
@@ -597,7 +597,8 @@ królewnie.</p>
 życie zakończył.</p>
 </div>
 <div>
-<p>Rozdział II</p>
+</div>
+<div type="chapter"><head>Rozdział II</head>
 <p>Mijały dni, miesiące, królewna Anna przenosiła się ze swymi
 w coraz to inne strony, uciekając przed zarazą. Nareszcie zamieszkała w Łomży.</p>
 <p>Miłościwa pani upodobała sobie maleńką Krysię, pieściła
@@ -1065,7 +1066,8 @@ krakowski i marszałek wielki koronny Jan Firlej złamał o ziemię laskę marsz
 <p>Po tych ceremoniach spuszczono trumnę do grobu i ustawiono po lewicy ojca.</p>
 </div>
 <div>
-<p>Rozdział III</p>
+</div>
+<div type="chapter"><head>Rozdział III</head>
 <p>Anna Jagiellonka zamieszkała w zamku, w komnatach śp.
 królowej Elżbiety, jak sobie tego życzyła. Podstoli Kroczewski,
 zjechawszy z częścią dworu na dwa miesiące przed jej miłością, robił, co mógł, by mieszkanie to odświeżyć, a przynajmniej
@@ -1607,7 +1609,8 @@ A że i miodem polskim nie pomiatało gardło francuskie, tedy
 nad ranem… nie konno, a w lektyce najjaśniejszy pan powrócił na zamek.</p>
 </div>
 <div>
-<p>Rozdział IV</p>
+</div>
+<div type="chapter"><head>Rozdział IV</head>
 <p>Przez osiem dni po koronacji odbywały się na podwórzu zamkowym gonitwy do pierścienia, turnieje, zapasy konnych i pieszych, słowem, przeróżne rycerskie igraszki. Przeciwnicy
 rozpoczynając potykanie przepraszali się wzajem, bo nieraz
 ranić mógł jeden drugiego, nawet ciężko. Zaraz pierwszego
@@ -1950,7 +1953,8 @@ koronę bezcześcić.</p>
 głowę szeptał Dębiński.</p>
 </div>
 <div>
-<p>Rozdział V</p>
+</div>
+<div type="chapter"><head>Rozdział V</head>
 <p>Nastało bezkrólewie. Rada Koronna wysłała poselstwo do
 króla Henryka, wzywając go do powrotu albo żądając stanowczej odpowiedzi, że się zrzeka tronu. Ani wracał, ani
 abdykował; coraz nowe naznaczał terminy, obiecankami łudził, a z Francji się nie ruszał.</p>
@@ -2435,7 +2439,8 @@ duszą, wszystkimi siłami pracować chcę dla dobra ojczyzny
 waszej, którą od dzisiejszego dnia za macierz rodzoną obieram i jako macierz miłować będę, tak mi Panie Boże dopomóż.</p>
 </div>
 <div>
-<p>Rozdział VI</p>
+</div>
+<div type="chapter"><head>Rozdział VI</head>
 <p>Z przyjazdem Stefana Batorego do Polski uspokajały się
 i cichły zatargi stronnictw, a po jego ślubie z Anną Jagiellonką i koronacji obojga królestwa wszystkie stany i wszystkie
 ziemie Rzeczypospolitej złożyły hołd nowemu królowi i przysięgały na wierność. Miasto Gdańsk jedynie, z dawna skłonne
@@ -2889,7 +2894,8 @@ Krysiu, dziś pozwalam przywitać pana Andrzeja.</p>
 <p>— Wrócę zdrów, niech panna Krystyna będzie spokojna — zerknął na bok, miłościwa pani czytała list pilnie. — W złotogłów cię oblokę, diamentami obsypię… umiłowanie moje!</p>
 </div>
 <div>
-<p>Rozdział VII</p>
+</div>
+<div type="chapter"><head>Rozdział VII</head>
 <p>Po wyjściu za mąż Kachny Leszczyńskiej, podrastająca Krysia zajęła jej miejsce. Wprawdzie Marysia Krupska zawsze była niezbędna i najpotrzebniejsza we wszelkiej pokojowej usłudze i przy ubieraniu miłościwej pani, ale znowu żadna z dworek nie czytała tak pięknie ani też śpiewać przy lutni nie
 umiała tak wdzięcznym głosem jak Krysia.</p>
 <p>Dziewczyna ukochała królowę gorącą, pokorną miłością od
@@ -3410,6 +3416,7 @@ Kośmin… jedyny dzie…</p>
 królowej odbyły się zrękowiny szlachetnie urodzonego kawalera imci pana Andrzeja Chwaliboga, towarzysza chorągwi
 usarskiej wojewody podolskiego, z szlachetnie urodzoną imci
 panną Krystyną Płońską, wychowanicą najjaśniejszej pani.</p>
+</div>
 </div>
 </body>
 </text>

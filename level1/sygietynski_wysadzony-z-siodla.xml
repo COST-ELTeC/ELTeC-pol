@@ -53,7 +53,7 @@
 </front>
 <body>
 <div>
-<p>ROZDZIAŁ I.</p>
+<div type="chapter"><head>ROZDZIAŁ I.</head>
 <p>— Panie, panie!... Daj pan pokój!... Tu za płytko: kataru pan tylko dostaniesz — wołał przewoźnik, powstając nagle z miejsca, gdzie leżał był na bulwarze.</p>
 <p>W odpowiedzi ria jego słowa dał się słyszeć plusk fali Wisły, w którą się rzucił jakiś człowiek.</p>
 <p>— Żeby cię choroba!—zaklął przewoźnik, i zaczął się szybko rozbierać, nie spuszczając z oka tej przestrzeni rzeki, w której zniknął nagle samobójca.</p>
@@ -239,7 +239,8 @@
 <p>— Kochany kolega wybaczy, ale “komu w drogę, temu czas”, a ja mam dziś ważną sprawę w sądzie.... Jakkolwiek więc to niegrzecznie....</p>
 <p>— Ależ!...</p>
 <p>I w chwilę potem wyszli.</p>
-<p>ROZDZIAŁ II.</p>
+</div>
+<div type="chapter"><head>ROZDZIAŁ II.</head>
 <p>Pewnego dnia, kolo godziny dwunastej, Załogowski i Cieżyński weszli do jednego z tych licznych i charakterystycznych zakładów, zwanych handelkami, w które Warszawa obfituje. Był to zwyczajny handel win i towarów kolonijalnych, na Długiej ulicy, tem tylko różniący się od innych zakładów tego rodzaju, iż w nim, na gorących śniadaniach i śniadankach ześrodkowywało się całe nieomal życie sądowników i aferzystów finansowo prawniczych. W kilku pokojach, po za sklepem, w którym odbywała się najspokojniej sprzedaż detaliczna towarów kolonijalnych, wrzało życie sztucznie podnieconym humorem. Jedni wpadali na chwilę na kieliszek wódki i</p>
 <p>jakąś drobną zakąskę, aby się tylko pokrzepić do dalszej pracy; inni jedli i pili z całem uroczystem namaszczeniem sybarytów, którzy umieją życia używać. Przy stołach i stolikach, poustawianych popod ścianami wokół wszystkich pokojów, grupy i pary, giestyku lujące, krzyczące, rozmawiające z wielkiem zajęciem, lub siedzące w milczeniu, podniecały się piwem, porterem, węgrzynem, burgundem, szampanem, z całą swobodą ludzi, którym się zdaje, źe nikt ich nie słucha, że nikt na nich nie patrzy, ponieważ sami nie patrzą i sami nie słuchają. Gwar i hałas ogólny pozwalał każdemu czuć się odosobnionym przy swoim stoliku, być jak u siebie.</p>
 <p>Załogowski i Cieżyński zajęli ostatni pokoik, tuż przy kuchni, lecz za to nieprzechodni, gdyż Cieżyński, jak sam to mówił, nie lubił, aby mu kto, ete, patrzył jednem okiem w kieliszek a drugiem w duszę. Był to pokój najmniejszy i najgorszy, bo ciemny, ponury, zatęchły. Jedno okno od podwórza zaledwie tyle przepuszczało światła, że przedmioty znaj dujące się w pokoju z trudnością tylko i to dopiero po pewnej chwili rozróżniać było można. Co prawda zresztą, nie było tak bardzo co i widzieć. Niewielki stolik owalny, z blatem marmurowym na jednej nodze, cztery krzesła gięte dokoła stołu, stara kanapka, zniszczona, wytarta i obdarta, poprzez skórzane pokrycie której wyglądały połamane sprężyny, szaragi żelazne przybite do ściany przy drzwiach, kilka anonsów, malowanych na blasze, i olejodruk, przedstawiający na srebrnym półmisku naturę martwą: ostrygi, raki, szparagi, ryby, kalafjory, przekrajaną cytrynę, kilka gatunków winogron, słowem wszystko to, co nigdy razem na jednym półmisku się nie znajduje,—oto całe umeblowanie tego zakątka, do którego od kuchni dolatywał swąd sosów i przypalonych tłuszczów, a z dalszych pokojów hałas i krzyki przepitych gardzieli. Na razie wszystko—powietrze, światło, temperatura, atmosfera—usposabiało źle, tak było tu jakoś zimno, nieprzyjemnie, smutno. Naprawdę jednak, nigdzie “śniadanka”, tego czysto warszawskiego śniadanka, nie je się cieplej, przyjemniej, weselej, ponieważ wszystkie zmysły: wzroku, słuchu, dotyku, węchu, korzą się przed jednym, zmysłem smaku, który tu panuje niepodzielnie i rządzi. Potrzeba tylko, aby “śniadanko’ się zaczęło.</p>
@@ -2747,6 +2748,7 @@
 <p>— “Panie prezesie, niech pan prezes będzie łaakaw mi to miejsce dać'...</p>
 <p>I on mi to miejsce, widzisz, da, jak Boga kocham, da!...</p>
 <p>KONIEC.</p>
+</div>
 </div>
 </body>
 </text>

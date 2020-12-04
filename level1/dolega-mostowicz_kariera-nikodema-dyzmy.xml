@@ -53,7 +53,7 @@
 </front>
 <body>
 <div>
-<p>Rozdział pierwszy</p>
+<div type="chapter"><head>Rozdział pierwszy</head>
 <p>Właściciel restauracji dał znak taperowi i tango urwało się
 w połowie taktu. Tańcząca para zatrzymała się w środku
 ringu.</p>
@@ -602,7 +602,8 @@ pozostał pułkownik.</p>
 wspólnego charakter z chronologią?…</p>
 </div>
 <div>
-<p>Rozdział drugi</p>
+</div>
+<div type="chapter"><head>Rozdział drugi</head>
 <p>Na stole stała lampa z zielonym, niskim kloszem, oświetlając jedynie mały krąg pluszowej serwety, pudło z cygarami, omszałą butelkę i dwa kieliszki bursztynowego płynu.
 Pokój tonął w mroku, w którym niewyraźnie rozpływały się
 kontury sprzętów.</p>
@@ -913,7 +914,8 @@ opozycją Mańki.</p>
 nią głowę śpiącego, w izbie bowiem było dużo much.</p>
 </div>
 <div>
-<p>Rozdział trzeci</p>
+</div>
+<div type="chapter"><head>Rozdział trzeci</head>
 <p>Cały ranek zajęły przygotowania do wyjazdu. Dyzma duże porobił zakupy, gdyż zdawał sobie sprawę, że musi
 wyglądać przyzwoicie. Kupił więc kilka zmian bielizny,
 kilka krawatów, nowe przybory do golenia, bardzo żółte
@@ -1432,7 +1434,8 @@ głęboki głos gongu. Kolacja.</p>
 <p>Dyzma wstał z ławki i poszedł w kierunku pałacu.</p>
 </div>
 <div>
-<p>Rozdział czwarty</p>
+</div>
+<div type="chapter"><head>Rozdział czwarty</head>
 <p>Kolacja składała się z kilku potraw, które podawał lokaj
 sztywny i bezszelestny. Nastrój był nieco lepszy niż przy
 śniadaniu. Kunicki mniej się zajmował interesami i Dyzmą, za to zasypywał swą wymową żonę i córkę, wypytując
@@ -1963,7 +1966,8 @@ senność i zasypiając, pomyślał:</p>
 <p>„Ta pani Nina to sympatyczna baba… Ba, hrabianka…”</p>
 </div>
 <div>
-<p>Rozdział piąty</p>
+</div>
+<div type="chapter"><head>Rozdział piąty</head>
 <p>Klimat Koborowa fatalnie wpływał na reumatyzm Nikodema Dyzmy. Rankiem okazało się, że przez całą noc oka nie
 zmrużył i że bóle się wzmogły. Z takim raportem przyszła
 pokojówka do pani Niny i wróciła z nowym asortymentem
@@ -2389,7 +2393,8 @@ i długo przyglądał się własnej twarzy, trochę zdziwiony,
 trochę zaciekawiony i trochę kontent z siebie.</p>
 </div>
 <div>
-<p>Rozdział szósty</p>
+</div>
+<div type="chapter"><head>Rozdział szósty</head>
 <p>Auto szło równą szosą lekko i płynnie, prowadzone wprawną ręką szofera. Po wczorajszym deszczu szkliły się jeszcze
 tu i ówdzie małe szybki wody, świeży ranek pełen był
 słońca.</p>
@@ -3028,7 +3033,8 @@ stajnię wyścigową, ale mu nie szło.</p>
 <p>— O-ho-ho — pokręcił głową szofer.</p>
 </div>
 <div>
-<p>Rozdział siódmy</p>
+</div>
+<div type="chapter"><head>Rozdział siódmy</head>
 <p>Był to obszerny gabinet w stylu Ludwika Filipa, o ciemnych
 zielonych tapetach i wysokich oknach, oszklonych do samej
 podłogi.</p>
@@ -3597,7 +3603,8 @@ podziękował i, poklepawszy urzędnika po ramieniu, pożegnał go słowami:</p>
 bracie, na dobre nie wyjdzie.</p>
 </div>
 <div>
-<p>Rozdział ósmy</p>
+</div>
+<div type="chapter"><head>Rozdział ósmy</head>
 <p>Awantura zaczęła się od tego, że pani Nina zmieniła suknię
 wieczorem na bardziej szykowną i że dłużej niż zwykle
 układała przed lustrem włosy.</p>
@@ -4403,7 +4410,8 @@ zażądała od Dyzmy, by powiedział, że również w to wierzy
 — ten nie robił jej żadnych trudności.</p>
 </div>
 <div>
-<p>Rozdział dziewiąty</p>
+</div>
+<div type="chapter"><head>Rozdział dziewiąty</head>
 <p>Dni biegły równe, pogodne i jasne. Dyzma zadomowił się
 w Koborowie i czuł się jak u siebie w domu. Wprawdzie zły
 był trochę na Ninę za jej stanowczość, z jaką upierała się
@@ -5240,7 +5248,8 @@ i mruknął:</p>
 <p>— Ee… do cholery z taką miłością.</p>
 </div>
 <div>
-<p>Rozdział dziesiąty</p>
+</div>
+<div type="chapter"><head>Rozdział dziesiąty</head>
 <p>Państwowy Bank Zbożowy prosperował świetnie. Eksperyment ekonomiczny udał się ponad wszelkie przewidywania. Zwróciło to baczną uwagę innych państw europejskich, a prasa zagraniczna, a zwłaszcza w krajach rolniczych, domagała się od swoich rządów zastosowania
 „metody prezesa Dyzmy”.</p>
 <p>Sam pan prezes stał się osobistością cieszącą się uznaniem sfer rządowych, a nawet opozycja traktowała go
@@ -5747,7 +5756,8 @@ wiedziałbym, co z taką robić… Chociaż wszystkie jednakie.
 Byle zdrowy chłop, jak się patrzy, każdej da radę…”</p>
 </div>
 <div>
-<p>Rozdział jedenasty</p>
+</div>
+<div type="chapter"><head>Rozdział jedenasty</head>
 <p>Posiedzenie rady nadzorczej banku otworzył pan prezes
 Dyzma, po czym sekretarz Krzepicki odczytał porządek
 dzienny i głos zabrał dyrektor Wandryszewski.</p>
@@ -6373,7 +6383,8 @@ spływały jasnozielone krople czarodziejskiego płynu.</p>
 zaległa ciemność, parna, krwista ciemność, pełna namiętnych szeptów i spazmatycznego, oszalałego śmiechu.</p>
 </div>
 <div>
-<p>Rozdział dwunasty</p>
+</div>
+<div type="chapter"><head>Rozdział dwunasty</head>
 <p>Przez szczelinę ciężkich firanek wdarła się do pokoju
 czerwona smuga zachodzącego słońca.</p>
 <p>Nikodem ociężałym ruchem sięgnął po zegarek.</p>
@@ -7005,7 +7016,8 @@ rugnąłem, ale teraz gotowi mnie za ordynusa mieć.</p>
 <p>— Bo mnie rozzłościli, dranie!</p>
 </div>
 <div>
-<p>Rozdział trzynasty</p>
+</div>
+<div type="chapter"><head>Rozdział trzynasty</head>
 <p>Ulica Krochmalna o tej porze była całkiem pusta. I nie dziw,
 bo minęła północ, a mieszkańcy tej dzielnicy już o szóstej
 wstają do pracy. W nikłym świetle gazowych latarń stały
@@ -7301,7 +7313,8 @@ czerstwy pasztecik, a Ignacy ułożył się na otomanie, Nikodem uczuł zupełny
 się do ściany i zasnął kamiennym snem.</p>
 </div>
 <div>
-<p>Rozdział czternasty</p>
+</div>
+<div type="chapter"><head>Rozdział czternasty</head>
 <p>Krzepicki obejrzał plenipotencję i, zwracając ją Dyzmie,
 rzekł:</p>
 <p>— W absolutnym porządku.</p>
@@ -7953,7 +7966,8 @@ zdrowie, panie prezesie!</p>
 szaro.</p>
 </div>
 <div>
-<p>Rozdział piętnasty</p>
+</div>
+<div type="chapter"><head>Rozdział piętnasty</head>
 <p>Dyzma nie lubił generała Jarzynowskiego z powodu jego drwiącej miny, oziębłości i głównie dlatego, że najbliższym przyjacielem generała był Terkowski. Toteż pomimo kilkakrotnych zaprosin wykręcał się od bywania
 u państwa Jarzynowskich. Tego jednak dnia musiał
 wreszcie pojechać do nich na wieczór, gdyż generał
@@ -8336,7 +8350,8 @@ przewrócić, bo trzymają z diabłami…</p>
 <p>— I pewno — potwierdził Ignacy.</p>
 </div>
 <div>
-<p>Rozdział szesnasty</p>
+</div>
+<div type="chapter"><head>Rozdział szesnasty</head>
 <p>We wtorek Nikodem wraz z Krzepickim byli u mecenasa
 Licuńskiego, specjalisty od spraw rozwodowych, a w środę
 po raz ostatni u nadkomisarza Reicha, na ręce którego
@@ -8746,7 +8761,8 @@ Na nie malowanych deskach podłogi pozostały liczne mokre ślady stóp, śnieg 
 niezwykle lepki.</p>
 </div>
 <div>
-<p>Rozdział siedemnasty</p>
+</div>
+<div type="chapter"><head>Rozdział siedemnasty</head>
 <p>Dwa najpiękniejsze pokoje w mieszkaniu pani Przełęskiej
 zostały oddane do dyspozycji kochanej Ninusi. Wyglądały
 jak dwa wielkie klomby i co wieczora lokaj z pokojówką
@@ -9495,7 +9511,8 @@ ją, powiedziała z pogardą:</p>
 <p>Mańka nie odpowiedziała.</p>
 </div>
 <div>
-<p>Rozdział osiemnasty</p>
+</div>
+<div type="chapter"><head>Rozdział osiemnasty</head>
 <p>Gabinet mecenasa urządzony był z przepychem, łączącym
 powagę z elegancją, surowość form ze znajomością smaku,
 słowem, odznaczał się tymi samymi cechami, co i jego
@@ -9743,7 +9760,8 @@ opinia stanie po pańskiej stronie.</p>
 <p>— Do usług pana prezesa.</p>
 </div>
 <div>
-<p>Rozdział dzięwiętnasty</p>
+</div>
+<div type="chapter"><head>Rozdział dzięwiętnasty</head>
 <p>Przepowiednia Krzepickiego sprawdziła się o tyle, że nazajutrz w większości dzienników ukazały się wzmianki, lecz
 bardzo mgliste i powściągliwe, oraz komunikat oficjalny
 o uchwale komitetu ekonomicznego, ostro skomentowany
@@ -10020,7 +10038,8 @@ wróci.</p>
 — baby to doprawdy mają we łbie groch z kapustą”.</p>
 </div>
 <div>
-<p>Rozdział dwudziesty</p>
+</div>
+<div type="chapter"><head>Rozdział dwudziesty</head>
 <p>Był to moment wzruszający. W sali posiedzeń, z której
 usunięto stoły i krzesła, zebrał się cały personel banku.</p>
 <p>Na przodzie stał dyrektor, tuż za nim dwaj jego zastępcy, dalej prokurenci i wreszcie urzędnicy i urzędniczki.
@@ -10101,7 +10120,8 @@ gospodarki.</p>
 nikt jednak uwierzyć nie chciał, by była prawdziwa.</p>
 </div>
 <div>
-<p>Rozdział dwudziesty pierwszy</p>
+</div>
+<div type="chapter">Rozdział dwudziesty pierwszy</head>
 <p>Dwadzieścia dwie karety, sto z górą samochodów. Tłumy
 zaległy plac przed kościołem i przyległe ulice, ruch tramwajowy wstrzymano. Dwa długie kordony policji utrzymywały porządek. Po schodach świątyni spływał aż na jezdnię
 czerwony dywan. Przy wejściu policjanci sprawdzali karty
@@ -10376,7 +10396,8 @@ No, teraz szybko pakuj rzeczy!</p>
 <p>— Do pałacu!</p>
 </div>
 <div>
-<p>Rozdział dwudziesty drugi</p>
+</div>
+<div type="chapter">Rozdział dwudziesty drugi</head>
 <p>W dwa dni po przyjeździe młodych państwa wrócił też do
 Koborowa Krzepicki, który likwidował w Warszawie interesy
 pryncypała.</p>
@@ -10456,7 +10477,8 @@ znowu klęska urodzaju.</p>
 <p>— Cholera! Co to z tego może wyjść?…</p>
 </div>
 <div>
-<p>Rozdział dwudziesty trzeci</p>
+</div>
+<div type="chapter">Rozdział dwudziesty trzeci</head>
 <p>Od dawna w Koborowie nie obchodzono dożynek tak hucznie
 jak tego roku.</p>
 <p>Nowy dziedzic miał szeroką rękę i lubił zabawić się. Gości
@@ -10572,7 +10594,8 @@ i nowa dba o podniesienie rasy chłopstwa”.</p>
 <p>Na wschodzie niebo zaczynało szarzeć.</p>
 </div>
 <div>
-<p>Rozdział dwudziesty czwarty</p>
+</div>
+<div type="chapter">Rozdział dwudziesty czwarty</head>
 <p>Wiadomość przyszła tuż przed obiadem, wywołując ogólne
 podniecenie.</p>
 <p>Gabinet podał się do dymisji i dymisja została przyjęta.</p>
@@ -10900,6 +10923,7 @@ niespełna rozumu.</p>
 <p>— To wariat — wyjaśnił wojewoda.</p>
 <p>— Biedny chłopak — westchnęła panna Czarska.</p>
 <p>— Aha — uśmiechnął się doktor Litwinek — no, oczywiście, wariat.</p>
+</div>
 </div>
 </body>
 </text>

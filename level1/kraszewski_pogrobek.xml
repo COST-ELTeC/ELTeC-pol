@@ -72,7 +72,7 @@ Prezesowi</p>
 <p>Tom Pierwszy</p>
 </div>
 <div>
-<p>Rozdział I</p>
+<div type="chapter"><head>Rozdział I</head>
 <p>Ze wszystkich dworów książęcych w Polsce w drugiej połowie
 XIII wieku, nie było mniej wystawnego, skromniejszego nad kaliski, księcia Bolesława, zwanego Pobożnym. Wojak zawołany
 a razem mąż bogobojny, za żonę miał, równie jak sam, zacną
@@ -344,7 +344,8 @@ który brzmiał radością i zwycięstwem. — Na Santok! Na Santok!
 Choćby dziś jeszcze!</p>
 </div>
 <div>
-<p>Rozdział II</p>
+</div>
+<div type="chapter"><head>Rozdział I</head>
 <p>W kilka dni potem książę Bolesław sam znowu ze swą zimnicą i starym księdzem Malcherem siedział na kaliskim zamku,
 szerzej niż zwykle wiosenną wodą Prosny oblanym. Przemko
 z wojewodą i kasztelanem dodanymi mu za opiekunów pociągnął
@@ -673,7 +674,8 @@ się one zapalają, ale i gasną prędko. <emph>Caro infirma</emph> — cielsko 
 wychodząc.</p>
 </div>
 <div>
-<p>Rozdział III</p>
+</div>
+<div type="chapter"><head>Rozdział II</head>
 <p>W czasie pobytu w Poznaniu, stryj na chwilę od siebie nie
 odpuszczał Przemka, w nocy jednak spać musiał, a choć w komorze sąsiedniej kładł się na spoczynek, tak że ich ściana tylko dzieliła, śpiący snem twardym książę kaliski nie wiedział o tym, jak
 mu się nocami wymykał. W domku na podzamczu, pod dozorem
@@ -985,7 +987,8 @@ jeden na wezgłowiu, drugi u nóg jego na podłodze. I przespali
 tak dziewiczy wieczór, a gdy nad ranem przebudzili się, w zamku po nocnej biesiadzie wszystko twardym snem ujęte leżało.</p>
 </div>
 <div>
-<p>Rozdział IV</p>
+</div>
+<div type="chapter"><head>Rozdział I</head>
 <p>Skwarny dzień był lipcowy, niebo wypogodzone miało barwę dni letnich, płową od gorąca i jakby oparami przyćmioną. Słońce, zniżając się ku zachodowi, pozbawione promieni, toczyło się
 jak krwawa kula, wkrótce mając w pościeli mglistej zatonąć.
 Straszne swą rubinową czerwonością, płynęło powoli, stało, patrzało na ziemię zakrwawioną źrenicą, a ludzie trwożyli się tym
@@ -1298,7 +1301,8 @@ Przemko marszczył się już.</p>
 I musiało tak być! Ta go nie puści!</p>
 </div>
 <div>
-<p>Rozdział V</p>
+</div>
+<div type="chapter"><head>Rozdział V</head>
 <p>Gody w Poznaniu trwały całą niedzielę. Ziemian przyjmowano, którzy nie tylko z okolic, od Kalisza i Gniezna, z Kaszub
 i dalszych stron przybywali z podarkami i winszowaniem. Książę
 kaliski więcej tu gospodarzył niż sam pan, który okazywał się
@@ -1608,7 +1612,8 @@ i późnej jesieni musiały ustać te wycieczki i Lukierda w izbach
 się swoich zamknęła. Jak ze wszystkim na świecie oswaja się człowiek, i ona z wolna obyła się ze swą niewolą.</p>
 </div>
 <div>
-<p>Rozdział VI</p>
+</div>
+<div type="chapter"><head>Rozdział V</head>
 <p>Upłynęło dwa lata albo raczej przewlokły się one ciężkimi
 kroki, wydając jakby wiekami dwoma. Nic prawie nie zmieniło się
 na poznańskim zamku, Przemko ani się przywiązał do żony, ani
@@ -1947,7 +1952,8 @@ za sobą zamykając z hałasem.</p>
 <p>— Szatan nie baba — rzekł — ale żeby w Lignicy dla was tysiąc grzywien znalazła, wierzyć mi się nie chce.</p>
 </div>
 <div>
-<p>Rozdział VII</p>
+</div>
+<div type="chapter"><head>Rozdział VI</head>
 <p>W ciągu niewielu godzin, które na zamku lignickim spędziła,
 Mina się już dobrze z ludźmi obeznała. Ująć sobie potrafiła kilku
 z niemieckiej starszyzny, rozmówiła się z kasztelanem zamkowym,
@@ -2240,7 +2246,8 @@ Mina — Łysy trzyma Dorenową, nic im nikt nie śmie rzec!
 Czemu by Przemko nie miał żyć ze mną?!</p>
 </div>
 <div>
-<p>Rozdział VIII</p>
+</div>
+<div type="chapter"><head>Rozdział VII</head>
 <p>Z niewoli u Rogatki wróciwszy, Przemko lat kilka spoczywał, zemstę w sobie karmiąc i starając się wzmóc w siły. Gdy
 w niewieścich komnatach baby przeciw nieszczęśliwej Lukierdzie
 spiski knowały, książę, zupełnie dla niej zobojętniały, myślał
@@ -2536,7 +2543,8 @@ księżnej wcisnęła, która chorą była i nieszczęśliwą. Zaciął usta,
 usłyszawszy to, Zaręba i nie otwarłszy już ich, jechał tak gniewny do Poznania, iż nikt się doń przybliżyć nie śmiał.</p>
 </div>
 <div>
-<p>Rozdział IX</p>
+</div>
+<div type="chapter"><head>Rozdział I</head>
 <p>Gdy Lukierdzie dano znać, że książę pan powrócił, zdawała
 się nie rozumieć tego i nie wyszła przeciw niemu. Słyszała czy
 nie — trudno po niej poznać było. Bertocha, która o tym z przekąsem przyszła oznajmić, nie mogła pojąć, dlaczego ani rumieniec,
@@ -3035,7 +3043,8 @@ Dosyć już mam i tego trupa, i tego narzekania! Póty!</p>
 <p>Tom Drugi</p>
 </div>
 <div>
-<p>Rozdział I</p>
+</div>
+<div type="chapter"><head>Rozdział I</head>
 <p>Zarębów i Nałęczów ród już naówczas po całej Polsce był
 rozsiadły. Dosyć ich znajdowało się na dworach śląskich, w Poznaniu, Krakowie, na Mazowszu, ale daleko więcej obojga tego zawołania ziemian po dworach swoich i gródkach siedziało.</p>
 <p>Dziś, gdy człowiek każdy co najrychlej stara się być niezależnym i starczyć sam sobie, bo bezpieczeństwo od napaści dają
@@ -3304,7 +3313,8 @@ Cicho musimy iść, aby do swego dojść.</p>
 różne strony się wymykać, swoich i Nałęczów podburzając przeciw księciu.</p>
 </div>
 <div>
-<p>Rozdział II</p>
+</div>
+<div type="chapter"><head>Rozdział I</head>
 <p>Kanclerz Wincenty, wyjechawszy z Poznania po cichu, tak
 że mało kto z bliższych wiedział o jego podróży, ściągnął pierwszego dnia na nocleg do wsi kościelnej, w której na probostwie
 chciał spocząć. Zbliżając się do plebanii, zdziwił się i zasmucił,
@@ -3611,7 +3621,8 @@ lud powie, co się stało! Zabójstwo było jawne, wie o nim cały
 koń z towarzyszem, lecąc dalej.</p>
 </div>
 <div>
-<p>Rozdział III</p>
+</div>
+<div type="chapter"><head>Rozdział II</head>
 <p>Noc z dnia trzynastego na czternasty grudnia na zamku
 w Poznaniu była przygotowaną już dniem poprzedzającym. Mina,
 zrozpaczona oziębłością księcia, rozgniewana, odgrażając się zemstą jakąś, kilka razy wpadała do Lukierdy i napatrzywszy się na
@@ -3923,7 +3934,8 @@ zamkniętych: „Przebaczam ci — lecz Bóg…”</p>
 <p>„Karan będziesz śmiercią gwałtowną, jaką poniosła ona…”</p>
 </div>
 <div>
-<p>Rozdział IV</p>
+</div>
+<div type="chapter"><head>Rozdział I</head>
 <p>Pogrzeb księżnej jeszcze się nie dokonał, ciało właśnie do
 grobów spuszczać miano, gdy na zamek wieść przyniesiono, że
 mianowany przez papieża arcybiskup gnieźnieński Świnka przybywa. Wiadomość ta jedna może mogła na chwilę odciągnąć myśl
@@ -4246,7 +4258,8 @@ kazał siodłać i zniknął.</p>
 w zamku. Kędy się zabawiał, nie wiedział nikt. Donoszono do Poznania o tym, iż Sędziwój mało nad bezpieczeństwem grodu powierzonego mu czuwał, ale nic nie zdawało się zagrażać.</p>
 </div>
 <div>
-<p>Rozdział V</p>
+</div>
+<div type="chapter"><head>Rozdział V</head>
 <p>Na zamku wrocławskim od zgonu Henryka Brodatego niemało się razy panowie i dwory zmieniały. Coraz inaczej wyglądało to siedlisko główne Piastów śląskich, które, choć od niego dzielnic wiele oderwano, zawsze się za ich stolicę uważało. Dobijali się oń z kolei potomkowie św. Jadwigi rozrodzeni, a w tych
 rozterkach książęcych miasto samo i ludność jego coraz większego nabywało znaczenia.</p>
 <p>Wnuk zabitego pod Lignicą, Henryk, teraz tu panujący, wielkiego i niespokojnego był ducha. Pragnął szerokich posiadłości, a choć mu się zagarnąć je nie udawało, nawet w walce z nieszczęśliwym Rogatką, nie dawał się zrazić i odstręczyć niczym.
@@ -4508,7 +4521,8 @@ kaplicy, którą arcybiskup, z klasztoru się sąsiedniego zapożyczywszy, jako 
 modlił się długo.</p>
 </div>
 <div>
-<p>Rozdział VI</p>
+</div>
+<div type="chapter"><head>Rozdział V</head>
 <p>W rok potem we wrześniu, Poznań jak niegdyś, gdy się
 sposobił powitać młodą panią swą ze Szczecina, przystrajał się na
 przyjęcie Ryksy, córki króla Waldemara. Z Gdańska przyszła
@@ -4814,7 +4828,8 @@ jej okryła się rumieńcem, oczy nabiegły łzami. Skinęła na starą
 towarzyszkę, aby do komnat powracać.</p>
 </div>
 <div>
-<p>Rozdział VII</p>
+</div>
+<div type="chapter"><head>Rozdział VI</head>
 <p>Nie była to słaba i płacząca, a przelękła Lukierda. Wprędce
 ochłonąwszy, córka Północy odzyskała męstwo. Mówiono jej
 o śmierci pierwszej księżnej, ale inaczej. Chciała wiedzieć prawdę
@@ -5084,7 +5099,8 @@ poprzysięgał, że albo sprawa w tym była diabelska lub nieprzyjaciół ksią�
 gdy się to działo, zbiegłszy wraz z Nałęczem, już się u swych powinowatych ukrywał.</p>
 </div>
 <div>
-<p>Rozdział VIII</p>
+</div>
+<div type="chapter"><head>Rozdział VII</head>
 <p>Dziewięć lat upłynęło od ożenienia Przemysława, czasu
 przeciąg wielki, który też znaczne sprowadził zmiany. Najśmielsze
 nadzieje, wieszczby prorocze arcybiskupa się iściły. Nie dał Bóg
@@ -5303,7 +5319,8 @@ aby się dowiedzieć o wracającym, i nazajutrz zbliżanie się jego
 oznajmiono.</p>
 </div>
 <div>
-<p>Rozdział IX</p>
+</div>
+<div type="chapter"><head>Rozdział I</head>
 <p>Przemysław spieszył z powrotem i miał do Gniezna jeden tylko dzień podróży, naprzód bowiem wyznaczono popasy
 i noclegi, na których go ziemianie oczekiwali, gdy w jednej ze wsi,
 już na własnej ziemi, znalazł niespodzianie większą liczbę rycerstwa okolicznego, jakiego się tu nie spodziewał. Przyjmowano go
@@ -5607,7 +5624,8 @@ obrzęd koronacyjny odbyć się miał w Gnieźnie, dokąd biskupi
 z całej Polski zjechać mieli.</p>
 </div>
 <div>
-<p>Rozdział X</p>
+</div>
+<div type="chapter"><head>Rozdział X</head>
 <p>Piękny był ów dzień 26 czerwca 1295 roku, gdy wiosennego
 poranka niezliczonym tłumem ziemian ze wszystkich polskich
 krajów i z Pomorza przybyłym, okryły się nie tylko podwórca
@@ -5877,7 +5895,8 @@ w swą stronę się wynosił.</p>
 się po godach wysapią, a sprawiemy im lepsze od tych.</p>
 </div>
 <div>
-<p>Rozdział XI</p>
+</div>
+<div type="chapter"><head>Rozdział X</head>
 <p>Ze spuszczoną głową nad stołem stojąc, ksiądz Teodoryk
 przypatrywał się, jak na gorącym wosku pisarz Tylon ogromną
 pieczęć wyciskał. Świeżo ona była wyrzezana z porady Świnki arcybiskupa na większą zgryzotę innym polskim książętom, a stały
@@ -6070,6 +6089,7 @@ krzyknął: „Lukierda!”</p>
 straszne, posłaniec na ziemi legł i wił się, a płakał.</p>
 <p>Tak skończył król ów siedmiomiesięczny, po którym płakali
 wszyscy. Lud widział w tym zgonie jego pomstę bożą za zgon niewinnej Lukierdy.</p>
+</div>
 </div>
 </body>
 </text>
