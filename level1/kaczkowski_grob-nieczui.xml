@@ -54,7 +54,7 @@
 </div>
 </front>
 <body>
-<p>TOM I</p>
+<div type="chapter"><head>TOM I</head>
 <p>WSTĘP</p>
 <p>Ktokolwiek będziesz kiedy w tym oddalonym zakątku podkarpackiej krainy, kędy się schodzą dawnej Małopolski i Rusi Czerwonej granice — oddawszy cześć twoją niepoliczonym tej ziemi pamiątkom przeszłości — nie zapomnij też także zapytać o miejsce, z którego najlepiej widać ruinę zagórskiego klasztoru.</p>
 <p>Miejsce to znajdziesz z łatwością, bo ci go wskażą karczmy i kopce załuskie, położone przy samym gościńcu; lecz na górze tak bardzo wysokiej, że z niej widać nie tylko tę ogromną i także na wzgórzu położoną ruinę, jak gdyby na dole, ale widać zarazem i cały krąg ziemi, otoczonej górami dokoła, przerzniętej Sanem przez środek i tak dziwnym urokiem pociągającej ku sobie, że i ty, lubo obcy i żadnym dawniejszym z nią nie związany wspomnieniem, wzrokiem twoim musisz przylgnąć do niej na długo.</p>
@@ -2459,7 +2459,9 @@
 <p>Tak więc, jak tylko porozjeżdżali się goście, a Flawiusz sam jeszcze z woli podkomorzynej pozostał, matka Stasi obsypała go takim mnóstwem szczegółowych zapytań, a nareszcie poleceń, że Flawiusz wyszedł z jej salonu obładowany jak wielbłąd, ciągnący z karawaną do Mekki.</p>
 <p>Ciężar ten wszakże był tak lekkim dla niego, że nie ważący na skrupuły ani tych ani innych ciężarów młodzieniec, już leżał w łóżku u siebie, a jeszcze nie mógł przyjść do siebie z radości.</p>
 <p>Dla nieszczęśliwych przez całe życie czasem i lekkomyślność jest szczęściem.</p>
-<p>ZYGMUNT KACZKOWSKI GRÓB NIECZUI POWIEŚĆ TOM II Cnota sławą nie płaci: a snadź w przyszłym wieku Wzbudzi takiego ducha Bóg w pewnym człowieku, Który twe zacne sprawy Będzie chciał światu podać, tak że nigdy potem Imię twoje nie zgaśnie ani uzna końca...</p>
+</div>
+<div type="chapter"><head>ZYGMUNT KACZKOWSKI GRÓB NIECZUI POWIEŚĆ TOM II</div>
+<p>Cnota sławą nie płaci: a snadź w przyszłym wieku Wzbudzi takiego ducha Bóg w pewnym człowieku, Który twe zacne sprawy Będzie chciał światu podać, tak że nigdy potem Imię twoje nie zgaśnie ani uzna końca...</p>
 <p>JAN KOCHANOWSKI XV Tak więc Flawiusz po długich trudach, niepewnościach i niepowodzeniach wstąpił wreszcie stanowczo na ową drogę, po której, wedle swego mniemania, a może i rzeczywiście, miał już prosto biegnąć do swego szczęścia...</p>
 <p>Ale podkomorzyna ze Stasią znajdowały się w położeniu prawie zupełnie przeciwnym.</p>
 <p>Wszedłszy w wielkoświatowe życie i wziąwszy jego wszystkie obowiązki na siebie, były te obydwie kobiety w ustawicznej pracy od świtu do nocy — a praca ta była jeszcze o tyle uciążliwszą dla nich, ile że od niej całkiem odwykły, a może nawet do niej nie były przygotowane. Do tego jeszcze podkomorzyna, kobieta niecierpliwa, pełna ambicyj, a nie próżna kaprysów, chciała koniecznie, aby jej się wszystko winęło jak z płatka: a tu jej się ciągle zdawało, że jej się wszystko nie wiedzie! — Więc raz jej pomieszkanie było za szczupłe i umeblowane ubogo, to powóz zanadto stary, to liberia za mało paradna, to szory na koniach za liche, to jej własna suknia nie tak zrobiona, jak u hrabinej albo kasztelanowej, to Stasia wyglądała za blado, to jakaś wizyta oczekiwana ją ominęła, to ją ktoś nie zaprosił na wieczór — dosyć że zmartwień i zgryzot było już tyle, żeby ich nawet nikt nie policzył. Więc stąd tylko ciągłe i coraz nowe zajęcia, coraz nowe wydatki i coraz nowe kłopoty, na które wszakże podkomorzyna, przez wzgląd na siebie samą, nigdy ani jednym słówkiem się nie uskarżyła przed bratem — owszem, nawet powiadała przeciwnie: — Żebym też miała trzy lata potem siedzieć o chlebie i wodzie w Zagórzu, to muszę mieć tutaj wszystko tak, jak potrzeba.</p>
@@ -4673,6 +4675,7 @@
 <p>Pewna jest jednak, że żył jeszcze długich lat kilka, tu umarł i pochowany był w tutejszym kościele, gdzie, jak wieść niesie, postawiono mu bardzo piękny nagrobek, z szczegółowym jego prac i służb wszystkich napisem.</p>
 <p>Wszakże niebawem potem klasztor tutejszy się spalił — i wszystkie jego pamiątki, wszystkie groby nawet zagrzebane zostały w popiołach.</p>
 <p>Takiemu losowi uległ także i grób tego rycerza-rolnika, który, strawiwszy życie całe w krwawych trudach i poświęceniach, tutaj na koniec odpoczął i zasnął w Bogu na wieki.</p>
+</div>
 </body>
 </text>
 </TEI>

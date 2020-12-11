@@ -54,7 +54,7 @@
 </div>
 </front>
 <body>
-<p>CZĘŚĆ PIERWSZA.</p>
+<div type="group"><head>CZĘŚĆ PIERWSZA.</head>
 <div type="chapter"><head>I.</head>
 <p>— Przestańcie już, moje romansowe panny! — rzekła niecierpliwie Jania Krasnohorska. — To dopiero egzaltowane dziewczyny! Czy słyszałyście kiedy, aby ptaszęta wypuszczone z klatki kwiliły żałośnie?</p>
 <p>— Ptaszyna przedewszystkiem próbuje skrzydeł i do lotu się zrywa... — ozwała się Cesia Zielińska.</p>
@@ -2132,7 +2132,8 @@
 <p>Teraz dopiero głos jej się złamał i po bladej twarzy obfite łzy popłynęły.</p>
 <p>Nazajutrz w mieście powiatowem sporządzono akt regentalny sprzedaży Zambrówki. Prezes Krasnohorski tak zręcznie umiał pokierować interesami, że obarczonej czworgiem dzieci wdowie pozostały jedynie , rubli, jako reszta wartości bogatego niegdyś dziedzictwa.</p>
 </div>
-    <div><p>CZĘŚĆ DRUGA.</p></div>
+</div>
+<div type="group"><head>CZĘŚĆ DRUGA.</head>
 <div type="chapter"><head>I.</head>
 <p>Pociąg kuryerski z szumem i łoskotem wpadł na stacyę. Z okna wagonu II klasy wyjrzała blada twarzyczka Cecylii Zielińskiej. Oczekujące na peronie Amelia i Janina z serdecznem powitaniem ku niej podbiegły.</p>
 <p>— Jesteś, jesteś nareszcie, najmilszy zbiegu! — mówiła Janina.</p>
@@ -3635,6 +3636,7 @@
 <p>Przy wyrazie „matka" głos jej zadrżał głębią ukrywanej starannie tęsknoty. Pozornie spokojna, zadowolona, nosi w piersi głęboką ranę. Ani młodość jej w pracy sterana, ani zaparcie się siebie nie zdołały ocalić jej matki. Gdyby szczęście nawet uśmiechnęło się teraz do niej, odepchnęłaby je. Nie wróciłoby tej, która przedwcześnie zgasła.</p>
 <p>Niegdyś zadawała sobie pytanie: czemu los obszedł się z nimi tak surowo? Dziś znalazła już odpowiedź.</p>
 <p>KONIEC.</p>
+</div>
 </div>
 </body>
 </text>

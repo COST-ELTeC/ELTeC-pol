@@ -55,8 +55,7 @@
 </div>
 </front>
 <body>
-<div>
-<p>Wstęp</p>
+<div type="liminal"><head>Wstęp</head>
 <p>Pięciu zgrabnych wyrostków, w barwie paziów królewskich, przechodziło gwarząc, podskakując i śmiejąc się przez długi, ciemnawy korytarz, ciągnący się przez całą szerokość drugiego piętra starej, kazimierzowskiej jeszcze części zamku krakowskiego. Za nimi stąpał ciężko pachołek, niosąc na plecach ogromny tłumok z pościelą.</p>
 <p>— No, a teraz którędy? — spytał paź, biegnący przodem,
 zatrzymując się bezradnie w miejscu, gdzie się dwa korytarze
@@ -278,7 +277,7 @@ po drodze.</p>
 ino gwizdnę, przyleci, a potem… chi, chi, chi… żeby się tylko udało!</p>
 <p>— Co się nie ma udać? Dołoży się wszelkiego starania; no już moja głowa w tym, że go i rodzona matka nie pozna.</p>
 </div>
-<div>
+<div type="chapter">
 <p>Już od pierwszych chwil przybycia swego do Polski założyła sobie królowa Bona szereg zmian, upiększeń, przeróbek w starej, wiekowym trwaniem czcigodnej siedzibie Piastów i Jagiellonów, a Zygmunt, zakochany w młodziutkiej żonie, wszystkim jej zachciankom przytakiwał, na wszystkie nowości pozwalał.</p>
 <p>Jak już z rozmowy chłopców dowiedzieli się czytelnicy, pierwotna liczba paziów pomnożona została blisko dwadzieścia razy; najstarsze części zamku burzono, by na ich miejsce wznieść nową,
 piękną budowlę, pałac w stylu Odrodzenia.</p>
@@ -710,10 +709,7 @@ w głowie zakręciło się. Dopiero, kiedy się zabrali z komnaty, jasność mni
 <p>A gładząc dobrotliwie płową czuprynę Dmytrusia dodał:</p>
 <p>— Zaiste warto paziem zostać, by zyskać takiego przyjaciela!</p>
 </div>
-<div>
-<p>Rozdział II. Figiel
-Jana
-Drohojowskiego</p>
+<div type="chapter"><head>Rozdział II. Figiel Jana Drohojowskiego</head>
 <p>Nazajutrz rano w izbie paziów żywa toczy się rozmowa przy ubieraniu.</p>
 <p>— Wiesz, Jędruś — zagadnął Kostuś Gedroyć Bonera — że o włos, o pajęczynę, a byłoby się wszystko wydało.</p>
 <p>— Juści, jakim sposobem?</p>
@@ -1338,8 +1334,7 @@ mruczał potrząsając głową:</p>
 <p>— No, no, ale ta Arcamone… zawsze mówiłem, co ta baba
 brzydko na mnie patrzeć.</p>
 </div>
-<div>
-<p>Rozdział III. Figiel Konstantego Gedroycia</p>
+<div type="chapter"><head>Rozdział III. Figiel Konstantego Gedroycia</head>
 <p>Król Zygmunt wstawał zazwyczaj wcześnie i skoro się tylko
 ubrał, szedł na czczo do kościoła krytymi schodkami,
 które wiodły wprost z komnat królewskich do kaplicy Przenajświętszego Sakramentu, dziś zwanej kaplicą Batorego.</p>
@@ -1946,9 +1941,7 @@ mile podnieconym, zadarł łeb zuchwale i ryknął, jakby go żywcem
 obdzierano ze skóry.</p>
 <p>— Hi haaaau!</p>
 </div>
-<div>
-<p>Rozdział IV.
-Figiel Mikołaja Ostroroga</p>
+<div type="chapter"><head>Rozdział IV. Figiel Mikołaja Ostroroga</head>
 <p>Nazajutrz król Zygmunt wstał raniej niż zwykle. Ledwie doczekał wschodu słońca, tak mu pilno było dostać się na wieżę i własną ręką zbudzić do życia śpiącego olbrzyma.</p>
 <p>Przed godziną szóstą wyszedł z przedpokoju królewskiego
 Aleksander Chodkiewicz, jeden z paziów, i spiesznie biegł najkrótszymi drogami do mieszkania kościelnego Marcina Grudy, by go
@@ -2425,10 +2418,7 @@ palec! <emph>Speculum magiae albae</emph> zabiorę dziś jeszcze z kancelarii,
 derkę grubą kupię w Sukiennicach, zasuwę sprawię u drzwi
 podwójną, zje diabła, kto co wypatrzy!</p>
 </div>
-<div>
-<p>Rozdział V. Figiel
-Dymitra
-Montwiłła</p>
+<div type="chapter"><head>Rozdział V. Figiel Dymitra Montwiłła</head>
 <p>— Dmytruś, serceż ty moje — przedrzeźniając mowę Litwina, przeciągle śpiewał Szydłowiecki — takeś się
 dopominał o swoją kolej, narzekałeś, że na czwarte miejsce cię
 zapisałem, a teraz co? Ostroróg wczoraj przed samym królem
@@ -3019,10 +3009,8 @@ dnia. Święta Urszulo z towarzyszkami… za co ja pokutuję!</p>
 lepiej zdał egzamin, Ostroróg czy Montwiłł? Niech nas król sądzi.
 Nu, Pawełku, nie idziesz?</p>
 </div>
-<div>
-<p>Rozdział VI. Figiel
-Andrzeja
-Bonera</p>
+<div type="chapter"><head>Rozdział VI. Figiel Andrzeja
+Bonera</head>
 <p>Widzicie, panie ochmistrzu, że niesłuszne były wasze
 posądzenia — mówił król do Strasza, który przybiegł
 zrozpaczony sprawą Serczykowej — wyrzekaliście na zgraję zbereźników, a oni spędzili noc przykładnie na moich usługach; psotę zaś niesłychaną, do której i rozmysłu, i umowy, i kilku par rąk było trzeba, znowu nieznani sprawcy popełnili!</p>
@@ -3831,8 +3819,7 @@ gniewam.</p>
 <p>— I Dmytruś, i wszyscy; król bardzo łaskawy, lubi was, rozumiesz?</p>
 <p>— Lubi nas… — powtórzył Jędruś, odetchnął głęboko i… usnął.</p>
 </div>
-<div>
-<p>Zakończenie</p>
+<div type="chapter"><head>Zakończenie</head>
 <p>Upłynęło przeszło pół roku. Książę Albrecht nasyłał posłów za posłami, korzył się i błagał króla polskiego o wysłuchanie gorącej jego prośby i nadanie mu prowincji pruskiej
 w lenno dziedziczne. Zygmunt odraczał odpowiedź z miesiąca na
 miesiąc, wahał się, walczył sam z sobą. Wreszcie serdeczna dobroć

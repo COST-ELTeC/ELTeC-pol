@@ -55,7 +55,7 @@
 </div>
 </front>
 <body>
-<p>TOM I</p>
+<div type="chapter"><head>TOM I</head>
 <p>Sie horen nicht die folgenden Gesange,</p>
 <p>Die Seelen, denen ich die ersten sang;</p>
 <p>Zerstoben ist das freundliche Gedrange,</p>
@@ -1914,7 +1914,9 @@
 <p>Ale Wilczek był wciąż w rozpaczliwym usposobieniu i rzekł smutno: — Czasem się mąż uwalnia od żony przez rozwód, a czasem przez śmierć...</p>
 <p>Na te słowa Formoza się niecierpliwie rzuciła na krześle, ale wtem wbiegł do komnaty Tigranes i na tym się ich rozmowa urwała.</p>
 <p>Wilczek bawił jeszcze przez cały tydzień we Lwowie — a potem, wedle rozkazu, wrócił na służbę do króla.</p>
-<p>KONIEC TOMU PIERWSZEGO TOM II X SPRAWY PUBLICZNE Ród Pretficzów, chociaż już od stu lat z górą znany po całej Polsce, nie liczył się ani do sławnych, ani do znamienitych, bo jeszcze do owego czasu niczym się nie wywyższył nad inne. Trzymając się swojej rodzinnej tradycji, dotychczas nawet wcale wywyższenia nie szukał.</p>
+</div>
+<div type="chapter"><head>KONIEC TOMU PIERWSZEGO TOM II X SPRAWY PUBLICZNE</head>
+<p>Ród Pretficzów, chociaż już od stu lat z górą znany po całej Polsce, nie liczył się ani do sławnych, ani do znamienitych, bo jeszcze do owego czasu niczym się nie wywyższył nad inne. Trzymając się swojej rodzinnej tradycji, dotychczas nawet wcale wywyższenia nie szukał.</p>
 <p>Była to szlachta rycerskiego zawodu jak wszyscy, ale skromnych ambicji: wiek młody przesłużyć pod chorągwiami, w dojrzałych latach ożenić się zacnie i oddać się całym sercem służbie obywatelskiej, kochać serdecznie a pielęgnować starannie swoje własną rodzinę, nie żałować nakładu na wychowanie swych dzieci, dbać po ojcowsku o dobro swoich sług i poddanych, ubogiego przytulić, głodnego nakarmić, łaknącego napoić, nie uszczuplony majątek zostawić swoim następcom, a resztę poruczyć Bogu — oto były zasady, którymi ten zacny ród się rządził po wszystkie czasy.</p>
 <p>Pretficzowie otrzymali jeszcze za Władysława Jagiełły obszerne ziemie na Podolu, próbowali tam mieszkać, ale nie mogąc swym sumptem utrzymywać dostatecznej załogi, która by ich broniła przed częstymi napadami Tatarów, wynieśli się stamtąd i poruczyli wyzyskiwanie tych stepów swoim gubernatorom. Natomiast zaś zakupili od ruskich bojarów szeroki płat ziemi nad Świcą, założyli na nim wieś Sokołów i tu zamieszkali. Była to ziemia bardzo bogata we wszystkie dary Boże: przepysznych lasów więcej niż trzeba, wody obfitujące w ryby wszelkiego rodzaju, gruntów ornych niewiele, bo i osad niewiele, lecz za to łąk tłustych, ciągnących się po obydwóch brzegach Świcy aż ku Żórawnu, nieprzejrzane przestrzenie. Było tam z czego utrzymać choćby i najliczniejszą rodzinę i było z czego jeszcze i drugich zapomóc.</p>
 <p>Na tym majątku, zwłaszcza przy wpływach ze stepów podolskich, poczciwi ci ludzie żyli zawsze w dostatkach, ale dopiero dzisiejszy dziedzic, Mikołaj Pretficz, poznał się na jego wartości i wziął się umiejętnie i skrzętnie do pracy. Miał on już teraz lat blisko sześćdziesiąt, ale był czerstwy i zdrów jak dąb okryty gęstą zielenią, a nie mający ani jednego suchego konaru na sobie. Nie bardzo wielki był wzrostem, ale zbudowany barczyste i już cokolwiek zażywny, miał krótką ciemną czuprynę i brodę przystrzyżoną spiczasto, a w nich ledwie gdzieniegdzie włos siwy, twarz rumianą i wyrazistą z nosem pokaźnym, a oczy jasne, otwarte, pełne tego spokojnego rozumu, który się może czasem kogo poradzi, lecz w gruncie rzeczy sam polega na sobie. Z młodu, przez lat prawie dwadzieścia, mieczem służył ojczyźnie, że zaś był wyćwiczony w obcych językach, towarzyszył niejednokrotnie posłom królewskim do Pragi, do Wiednia i Rzymu. Będąc żołnierzem, był jednym z najzaufańszych kazimierzowskich rycerzy, a w poselstwach, choć nieuczony, niejedną zawiłą kwestią rozwiązał swoim gospodarskim rozumem.</p>
@@ -4593,6 +4595,7 @@
 <p>Ostatnich słów brakowało: Bóg się tymczasem zlitował nad życiem bez dzięki — śmierć mu je przerwała.</p>
 <p>Paryż, 12. lipca 1887.</p>
 <p>KONIEC</p>
+</div>
 </body>
 </text>
 </TEI>
