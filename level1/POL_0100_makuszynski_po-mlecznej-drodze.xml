@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-0.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POL192000" xml:lang="pol">
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl" xml:id="POL0100">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Po mlecznej drodze: ELTeC edition</title>
-                <author>Makuszyński, Kornel (1884-1953)</author>
+                <author ref="http://viaf.org/viaf/24615563">Makuszyński, Kornel (1884-1953)</author>
                 <respStmt>
                     <resp>encoded by</resp>
                     <name>Camelia Gradinaru</name>
@@ -27,7 +27,7 @@
                     <publisher>Warszawa: Wyd. nowe.</publisher><date>1920</date></bibl>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc n="eltec-0">
+        <encodingDesc n="eltec-1">
             <p/>
         </encodingDesc>
         <profileDesc>
@@ -37,7 +37,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
