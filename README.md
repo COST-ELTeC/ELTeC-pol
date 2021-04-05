@@ -6,7 +6,7 @@ This is the Polish novel corpus for the ELTeC, the *European Literary Text Colle
 
 ## Contributors
 
-* Collection editors: Joanna Byszuk
+* Collection editors: Joanna Byszuk, Jan Rybicki. 
 
 ## Licence
 
