@@ -1,0 +1,2912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-2.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-2.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pl" xml:id="POL0028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Namiętność : ELTeC edition</title>
+<author ref="http://viaf.org/viaf/8490048">Grabiński, Stefan (1887-1936)</author>
+</titleStmt>
+<extent>
+<measure unit="words">12103</measure>
+</extent>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662595">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662725">ELTeC-$textLang release 1.0.0</ref>
+<!--Published as part of ELTeC 2019-06-09--></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
+<title>Namiętność</title>
+<ref>http://wolnelektury.pl/katalog/lektura/grabinski-namietnosc</ref>
+</bibl><bibl type="printSource">
+<title>Namiętność</title>
+<author>Grabiński, Stefan</author>
+<publisher>Warszawa: Renaissance-Universum</publisher>
+<date>1930</date>
+</bibl></sourceDesc>
+</fileDesc>
+<encodingDesc n="eltec-1">
+<p/>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="pl">Polish</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+</textDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
+<change when="2020-04-07">JR convert to ELTeC-1</change>
+<change when="2022-06-01">Michal Wozniak and Joanna Byszuk convert to ELTeC-2</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div type="titlepage">
+<p>
+<s>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Stefan" msd="subst:sg:nom:m1">Stefan</w>
+<w pos="PROPN" lemma="Grabiński" msd="subst:sg:nom:m1">Grabiński</w>
+</rs>
+</s>
+</p>
+
+<p>Namiętność
+(L'appassionata)</p>
+<p>
+<s>
+<w pos="NOUN" lemma="opowieść" msd="subst:sg:nom:f">Opowieść</w>
+<w pos="ADJ" lemma="wenecko" msd="adj:sg:nom:f:pos">wenecka</w>
+</s>
+</p>
+
+</div>
+</front>
+<body>
+<div type="chapter">
+<p>Nad sestiere di Cannareggio, w samym sercu laguny,
+wisiała lekka, ledwo dostrzegalna mgła. W blaskach lipcowego słońca przecedzanych przez ten najsubtelniejszy
+z woali drzemały senne wody Canal Grande, a w nich,
+jak wyczarowane z bajki, nieprawdopodobnie piękne przeglądały się pałace, wille, domy i kościoły. I widziało się
+wszystko niby miraż złocisty, powołany do życia przez przepyszną fantazję, niby obraz senny utkany z marzeń artysty w chwilę dziwnej, twórczej szczodroty.</p>
+<p>Tylko fala przybrzeżna z cichym chlupotem roztrącająca stopnie schodów, tylko piosenka gondoliera, co przejechał mimo w żałobnej swej łodzi, budziły z zadumy
+olśnienia i kazały stwierdzać ten ponad wszystko radosny
+fakt, że jestem naprawdę w Wenecji…</p>
+<p>Tak to rozkochany w mieście dożów, pijany czarem
+architektury i smętkiem czarnych, tajemniczych wód, czekałem w ten cudowny poranek na vaporetto które miało
+mnie przewieźć na tamtą stronę Wielkiego Kanału. Poza
+mną był stary, połowy XVIII wieku sięgający kościół
+S. Marcuola z małym dziedzińcem przed bramą wchodową,
+po lewej, po drugiej stronie wąskiego rio może najwspanialszy po siedzibie dożów pałac Vendramin-Calergi, ten
+sam, w którym ostatnie swe tchnienie oddał wielki twórca
+Nibelungów. Właśnie gdy błądząc spojrzeniem po jego
+fasadzie odczytywałem dewizę: „Non nobis — Domine —
+Non nobis”, rozległ się przeciągły, trochę szorstko rozdzierający ciszę tej godziny gwizd parowczyka.</p>
+<p>Więc rzuciwszy raz jeszcze na koronkę pałacu, wstąpiłem na ruchomy pomost i za chwilę siedziałem już na rufie
+statku.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Avanti" msd="subst:sg:nom:n:ncol">Avanti</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="podać" msd="praet:sg:m1:perf">podał</w>
+<w pos="NOUN" lemma="sternik" msd="subst:sg:nom:m1">sternik</w>
+<w pos="NOUN" lemma="hasło" msd="subst:sg:acc:n:ncol">hasło</w>
+<w pos="ADP" lemma="przez" msd="prep:acc:nwok">przez</w>
+<w pos="NOUN" lemma="tuba" msd="subst:sg:acc:f">tubę</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="NOUN" lemma="czelust" msd="subst:sg:loc:f">czeluście</w>
+<w pos="NOUN" lemma="kotłownia" msd="subst:pl:gen:f">kotłowni</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="NOUN" lemma="vaporetto" msd="subst:sg:acc:n:ncol">vaporetto</w>
+<w pos="ADJ" lemma="wyzwolony" msd="ppas:sg:acc:n:perf:aff">wyzwolone</w>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">z</w>
+<w pos="NOUN" lemma="uwięź" msd="subst:sg:gen:f">uwięzi</w>
+<w pos="VERB" lemma="zacząć" msd="praet:sg:n:perf">zaczęło</w>
+<w pos="VERB" lemma="rozgarniać" msd="inf:imperf">rozgarniać</w>
+<w pos="NOUN" lemma="sztaba" msd="subst:sg:inst:f">sztabą</w>
+<w pos="ADJ" lemma="leniwy" msd="adj:pl:acc:m2:pos">leniwe</w>
+<w pos="NOUN" lemma="woda" msd="subst:sg:gen:f">wody</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Podróż moja nie miała trwać długo: wysiadałem na najbliższym przystanku, S. Staë. Statek minął były dom patrycjusza Teodora Correr i założone przezeń Museo Civico,
+minął stary śpichlerz Republiki, pałace Erizzo, Grimani
+della Vida i Fontana i dotarłszy do linii Palazzo Tron, zwrócił się dziobem w prawo ku brzegowi.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="Ferma" msd="subst:sg:nom:f">Ferma</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="spaść" msd="praet:sg:m1:perf">spadł</w>
+<w pos="NOUN" lemma="rozkaz" msd="subst:sg:acc:m3">rozkaz</w>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">z</w>
+<w pos="NOUN" lemma="wyżka" msd="subst:sg:gen:f">wyżki</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="NOUN" lemma="środek" msd="subst:sg:loc:m3">środku</w>
+<w pos="NOUN" lemma="vaporetta" msd="subst:sg:gen:m1">vaporetta</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Przycichł warkot śruby, ustała oddenna praca kotła
+i parowczyk przyciągnięty łagodnie liną do burty pontonu
+zbratał się znów z przystanią w chwilowym uścisku.</p>
+<p>Przepchawszy się szczęśliwie przez zastęp pasażerów,
+stanąłem na bulwarze przybrzeża. Stąd do Galleria d'Arte
+Moderna w pałacu Pesaro, celu mojej wędrówki, było już
+niedaleko. Przeszedłem krótki, ponad rio di Mocenigo gibkim łukiem rozpięty ponticello i znalazłem się na Fondamenta Pesaro.</p>
+<p>Cicho tu było jakoś o tej porannej godzinie i plusk fali
+wdzierający się leniwo na omszałe stopnie tarasu rozbrzmiewał wyraźnie w podsieniach pałacu.</p>
+<p>Wszedłem na pierwsze piętro. U wejścia do galerii spotkały mnie osowiałe i niechętne spojrzenia funkcjonariuszy,
+którzy zdawali się mieć mi za złe, że im przerywam dolce
+far niente żądając biletu.</p>
+<p>Wpuszczono mnie do wnętrza. W salonach pustki: tu i tam
+błąkało się kilku stranieri z baedekerami w ręku, a jakaś
+koścista miss w cwikierze pożerała oczyma ponętny akt
+męski. Uwagę moją zaprzątnęła grupa Mieszczan z Calais
+Augusta Rodina. Gdy po pewnym czasie oderwałem wzrok
+od rzeźby i spojrzałem w głąb najbliższej sali, spostrzegłem
+przed jednym z obrazów młodą piękną damę. Profil jej,
+subtelny a zdecydowany, z orlikowatym nosem, odcinał się
+na tle silnie oświetlonej przez słońce ściany wyraźnie i mocno. Krucze, połyskami metalu grające włosy okalały twarz
+smagłą, pociągłą, z parą ciemnoorzechowych, ognistych
+oczu. Spojrzenie ich jedyne, niezapomniane łączyło w sposób przedziwny kobiecą słodycz ze stalowymi błyskami
+nieugiętej woli: w momentach gniewu oczy te musiały być
+straszne. Z tą doskonale piękną, patrycjuszowską głową
+harmonizowała wybornie wysmukła i giętka kibić, której
+linie przeglądały dyskretnie a kusząco przez czarną, pełną
+spokojnej elegancji i smaku tualetę. A na tle tej wyrafinowanie prostej i skromnej sukni wykwitał jak płomień szal
+pomarańczowy i zlewał się w barwną symfonię z dużą, herbacianą różą wpiętą we włosy.</p>
+<p>Cudna kobieta! — pomyślałem, przestępując próg sali.
+Odwróciła się i po raz pierwszy spotkały się nasze spojrzenia: jej — trochę roztargnione, potem badawcze, wreszcie
+zaintrygowane — moje — hołdownicze i podziwem brzemienne. Na ustach jej zaświtał zarys uśmiechu i zgaszony
+wolą rozwiał się powoli bez śladu; obojętne, aksamitne
+oczy przeniosły znów łaskę spojrzenia na obraz FragiacomaKutry rybackie podczas sztormu.</p>
+<p>
+<s>
+<w pos="CCONJ" lemma="i" msd="conj">I</w>
+<w pos="ADV" lemma="wtedy" msd="adv">wtedy</w>
+<w pos="VERB" lemma="przyjść" msd="praet:sg:m3:perf">przyszedł</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:dat:m1:pri:nakc">mi</w>
+<w pos="ADP" lemma="w" msd="prep:acc:nwok">w</w>
+<w pos="NOUN" lemma="pomoc" msd="subst:sg:acc:f">pomoc</w>
+<w pos="ADJ" lemma="szczęśliwy" msd="adj:sg:acc:m3:pos">szczęśliwy</w>
+<w pos="NOUN" lemma="przypadek" msd="subst:sg:acc:m3">przypadek</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Już gdy mijałem ją ze ściśniętym sercem i uczuciem
+zawodu, książka, którą trzymała w ręku, wysunęła się
+z palców i upadła na posadzkę koło mnie. Błyskawicznym
+ruchem schyliłem się po nią i odczytałem tytuł: — El
+secreto del acueducto — por Ramón Gómez de la Serna.</p>
+<p>To Hiszpanka — pomyślałem i z ukłonem zwracając jej
+własność, zapytałem:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PROPN" lemma="Dispense" msd="subst:sg:nom:m1">Dispense</w>
+<rs type="nam_liv_person">
+<w pos="X" lemma="V" msd="brev:pun">V</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</rs>
+</s>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADJ" lemma="Esty" msd="adj:sg:nom:n:pos">Este</w>
+<w pos="NOUN" lemma="libro" msd="subst:sg:nom:n:ncol">libro</w>
+<w pos="PROPN" lemma="pertency" msd="subst:sg:dat:m1">pertence</w>
+<w pos="CCONJ" lemma="a" msd="conj">a</w>
+<w pos="X" lemma="V" msd="brev:pun">V</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="PART" lemma="no" msd="part">No</w>
+<w pos="NOUN" lemma="es" msd="subst:sg:nom:m3">es</w>
+<w pos="NOUN" lemma="verdad" msd="subst:pl:gen:f">verdad</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>Spojrzała przyjemnie zdziwiona i odbierając książkę,
+odpowiedziała w tymże języku:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="pan" msd="subst:sg:nom:m1">Pan</w>
+<w pos="VERB" lemma="mówić" msd="fin:sg:ter:imperf">mówi</w>
+<w pos="ADP" lemma="po" msd="prep:acc">po</w>
+<w pos="ADJ" lemma="hiszpańsko" msd="adjp">hiszpańsku</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="PART" lemma="może" msd="part">Może</w>
+<w pos="AUX" lemma="być" msd="fin:sg:ter:imperf">jest</w>
+<w pos="NOUN" lemma="pan" msd="subst:sg:nom:m1">pan</w>
+<w pos="DET" lemma="mój" msd="adj:sg:inst:m3:pos">moim</w>
+<w pos="NOUN" lemma="rodak" msd="subst:sg:inst:m2">rodakiem</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>— Nie, łaskawa pani — odparłem — jestem Polakiem,
+lecz nie jest mi obcym język szlachetnych synów Kastylii.</p>
+<p>Znajomość była zawarta. I potoczyła się między nami
+rozmowa żywa a malownicza, bo i ona lubiała styl trochę
+kwiecisty, w kunszt słowa bogaty, i ja urzeczony czarem
+jej postaci mimo woli dobierałem zwrotów barwnych, jak
+motyle skrzydlatych.</p>
+<p>Donia Inez de Torre Orpega rodem z Estramadury była
+od kilku lat wdową. Większą część roku spędzała w Madrycie u starszej siostry zamężnej za jakimś dworskim dostojnikiem, a tylko na miesiące letnie przyjeżdżała w odwiedziny do krewnych w Wenecji. O Polsce i Polakach
+wiedziała niewiele i z zajęciem słuchała moich informacji.
+Gdy w pół godziny potem opuściliśmy galerię obrazów i znaleźliśmy się na bulwarze Fondamenta Pesaro, byliśmy
+już dobrymi znajomymi.</p>
+<p>— Dokąd się pan teraz wybiera? — zagadnęła. — Pora
+jeszcze za wczesna na obiad, lecz stosowna na drugie śniadanie. Czy nie zechciałby go pan spożyć w moim towarzystwie gdzieś w jakiejś restauracji z widokiem na Ponte
+Rialto? Lubię bardzo obserwować go w godzinach porannych.</p>
+<p>
+<s>
+<w pos="AUX" lemma="być" msd="praet:sg:m1:imperf">Był</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="ADJ" lemma="zachwycić" msd="adj:sg:nom:m1:pos">zachwycony</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADV" lemma="dobrze" msd="adv:sup">Najlepiej</w>
+<w pos="VERB" lemma="być" msd="bedzie:sg:ter:imperf">będzie</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="zaproponować" msd="praet:sg:m1:perf">zaproponował</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="SCONJ" lemma="jeżeli" msd="comp">jeżeli</w>
+<w pos="VERB" lemma="wstąpić" msd="fin:pl:pri:perf">wstąpimy</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="NOUN" lemma="Corvo" msd="subst:sg:gen:n:ncol">Corvo</w>
+</s>
+<s>
+<rs type="nam_liv_character">
+<w pos="PART" lemma="Nero" msd="part">Nero</w>
+</rs>
+<w pos="ADP" lemma="opodalić" msd="prep:gen">opodal</w>
+<w pos="NOUN" lemma="przystankavaporett" msd="subst:pl:gen:m3">przystankavaporettów</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Wybornie. Proszę zatem podać mi rękę i sprowadzić
+do gondoli.</p>
+<p>
+<s>
+<w pos="VERB" lemma="spojrzeć" msd="praet:sg:m1:perf">Spojrzał</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="ADV" lemma="trochę" msd="adv">trochę</w>
+<w pos="ADJ" lemma="zdziwić" msd="ppas:sg:nom:m2:perf:aff">zdziwiony</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>— Na razie nie widzę żadnej. Musimy trochę zaczekać,
+aż któraś podpłynie.</p>
+<p>
+<s>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:f:perf">Odpowiedziała</w>
+<w pos="ADJ" lemma="srebrzysty" msd="adj:sg:inst:m3:pos">srebrzystym</w>
+<w pos="NOUN" lemma="śmiech" msd="subst:sg:inst:m3">śmiechem</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>— Mój Beppo nie każe nam długo czekać. Oto już poznał mnie z dala po głosie i zbliża się ku nam na swej
+„Rondinelli”.</p>
+<p>I rzeczywiście, spoza węgła bulwaru wychylił się dziób
+„Jaskółeczki”, która przywarłszy czarnym podbrzuszem do
+wód kanaliku między pałacem Pesaro a Corner della Regina, przyczaiła się tam na chwilę i tylko czekała na
+hasło.</p>
+<p>— Beppo Gualcioni, mój nadworny gondoliere — przedstawiła mi z miną pół serio, pół buffo swego przewoźnika —
+stary, długoletni sługa domu Ramorinów, mych krewnych.</p>
+<p>
+<s>
+<w pos="CCONJ" lemma="i" msd="conj">I</w>
+<w pos="VERB" lemma="wsiąść" msd="praet:pl:m1:imperf">wsiedli</w>
+<w pos="AUX" lemma="być" msd="aglt:pl:pri:imperf:nwok">śmy</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="NOUN" lemma="łódź" msd="subst:sg:gen:f">łodzi</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Gondola donii Inez była istnym cackiem. Smukła, zgrabna i zwrotna jak fryga, z ślicznie rzeźbionym dzióbem
+w kształcie szyi łabędziej, kołysała się na fali jak kolebka
+królewskiego panięcia. Oparci plecyma o poduszki siedzeń
+z ciemnozielonego pluszu, pod osłoną niskiego, w złote
+frędzle strojonego baldachimu, który tutaj felze zowią,
+płynęliśmy jakby w nieskończoność, zasłuchani w rytmikę
+wiosła.</p>
+<p>Rozwiały się doszczętnie woale mgły i pod turkusowym
+kloszem nieba rozwinęła się bajecznie kolorowa perspektywa Canal Grande. Jej dominantą były trzy barwy:
+czarna, dżetowa wody, biała domów i pomarańczowa żaluzji i pozapuszczanych stor. Zmieszane ze sobą te trzy
+kolory, stopione powinowactwem szczęśliwego doboru —
+były jak dźwięk jedyny i konieczny, jak wyraz tajemny
+ukrytej gdzieś głęboko duszy tego miasta. I wszystko było
+przesiąknięte tym naczelnym, suwerennym tonem, wszystko rozdrganą w bezlik dreszczy jedną struną — złotym monokordem, któremu na imię — Wenecja.</p>
+<p>Jak przez sen przesuwały się mimo naszej łodzi arcytwory weneckiej architektury, te koronkowe pałace i domy, z których niemal każdy chlubił się dziełami dłuta
+i pędzla wielkich artystów. Lipcowe słońce wyzłacało miedzią i cynobrem dumne, arystokratyczne frontony i przyczółki, rozświecało mrokiem wieków nasiąkłe podziemia
+i kolumnady, spływało palącą pieszczotą na zielone oazy
+ogrodowych teras i winoroślą otulonych loggii.</p>
+<p>Przepłynęliśmy mimo pałacu Ca d'Oro, najozdobniejszego gotyku dawnej Republiki, minęliśmy Segredo, Michiel dalle Colonne i Morosini i znaleźliśmy się na linii
+Rybiego Targu. Odór wodnej żywizny, płynący z głębi
+hali targowej, ogarnął nas duszącym wyziewem. Peschiera
+w pełnym toku porannego ruchu tętniła gwarem i zgiełkiem.</p>
+<p>Donia Inez przytknęła do nosa chusteczkę i patrząc na mnie z uśmiechem, wdychiwała zapach perfumy. Gondola
+była już na wysokości Przystani Jarzynowej. Znużone orgią
+światła oczy spoczęły z ulgą na zieleni główek kapusty,
+kalafiorów, selerów, pietruszek i marchwianej naci.</p>
+<p>— Jaki kontrast między tym prozaicznym, choć tak
+ożywczym widokiem a wyrafinowanym pięknem pałaców —
+zauważyła donia de Orpega.</p>
+<p>— Rzeczywiście — przyznałem — i mnie to zawsze uderza, ilekroć mijam Erberia. Trudno, nie może być inaczej;
+nie można żyć samą kontemplacją dzieł sztuki. Powiedziałbym nawet, że to pomieszanie prozy życia codziennego
+z poezją sztuki i przeszłości stanowi największy urok tego
+dziwnego miasta.</p>
+<p>Skłoniła głowę na znak zgody. W bliskiej już perspektywie rozpiął się szary, patyną wieków okryty most Ponte
+Rialto. Kilku zręcznymi uderzeniami wiosła skierował Beppo łódkę ku przeciwnemu brzegowi i przesunąwszy się lewą
+burtą mimo Fondaco dei Tedeschi, podpłynął pod łuk mostu. Za chwilę wyskakiwałem już z gondoli na oblepione
+wodną pleśnią schody nabrzeża i podawałem rękę Inezie.</p>
+<p>Była godzina 11 rano. Przeszliśmy stację vaporettów
+Cerva i wciąż trzymając się brzegu kanału, wstąpiliśmy na
+Riva del Carbon. Ruch był ogromny; nadjeżdżające co kilkanaście minut parowczyki wyrzucały wciąż nowe zastępy
+pasażerów. Schroniliśmy się w zaciszny zakątek Corvo Nero,
+małej ustronnej gelateria z widokiem na Rialto. Tu pod
+skrzydłem płóciennej markizy wydała mi się donia Inez
+jeszcze piękniejszą; głębokie cienie pod oczyma podkreślały
+ich słodycz i żar. Patrzyłem na nią bez przerwy. A ona,
+widząc mój zachwyt, uśmiechała się tylko kącikami ust
+i cedziła przez perły ząbków oranżadę. Spojrzenie jej senne, lekko rozmarzone błądziło bez celu po tamtym brzegu
+kanału, potem przerzuciło się na grupę gondol rozkołysaną
+w przystani i zatrzymało się na łuku Rialto.</p>
+<p>— Czy nie przypomina panu trochę florenckiego Ponte
+Vecchio? — zapytała.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="DET" lemma="tamten" msd="adj:sg:nom:m1:pos">Tamten</w>
+<w pos="AUX" lemma="być" msd="fin:sg:ter:imperf">jest</w>
+<w pos="ADJ" lemma="trójdzielny" msd="adj:sg:nom:m1:pos">trójdzielny</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:m1:perf">odpowiedział</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="chodzić" msd="fin:sg:ter:imperf">Chodzi</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:dat:m1:pri:nakc">mi</w>
+<w pos="ADP" lemma="o" msd="prep:acc">o</w>
+<w pos="NOUN" lemma="partia" msd="subst:sg:acc:n:ncol">partie</w>
+<w pos="ADJ" lemma="górny" msd="adj:sg:acc:n:pos">górne</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="a" msd="part">A</w>
+<w pos="ADV" lemma="tak" msd="adv:pos">tak</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADV" lemma="oczywiście" msd="adv:pos">oczywiście</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="przyznać" msd="praet:sg:m1:perf">przyznał</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NUM" lemma="oba" msd="num:pl:nom:m3:congr">oba</w>
+<w pos="AUX" lemma="być" msd="fin:pl:ter:imperf">są</w>
+<w pos="ADJ" lemma="zabudować" msd="ppas:pl:nom:m3:imperf:aff">zabudowane</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="PART" lemma="zwłaszcza" msd="part">zwłaszcza</w>
+<w pos="DET" lemma="ten" msd="adj:sg:nom:m3:pos">ten</w>
+<w pos="ADP" lemma="w" msd="prep:loc:wok">we</w>
+<rs type="nam_loc_gpe_city">
+<w pos="PROPN" lemma="Florencja" msd="subst:sg:loc:f">Florencji</w>
+</rs>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Te sklepy i bazary, te budy jarmarczne rozbite nad
+wodą mają w sobie coś tak oryginalnego…</p>
+<p>— Przemawiają do przechodnia wieku XX z lapidarną
+swadą przeszłości. Może chce pani przejść się tamtędy?</p>
+<p>— Właśnie chciałam to panu zaproponować; lubię czasem taką przechadzkę pomiędzy pierzejami rozkrzyczanych
+sklepów.</p>
+<p>Opuściliśmy nasz cienisty przytułek i niebawem znaleźliśmy się na łuku mostu. Otoczyła nas atmosfera hali
+targowej. Wąską uliczkę między dwoma rzędami bazarów
+wypełniał skłębiony malowniczo tłum. Przeważały kobiety:
+smukłe, rasowe mieszczanki w charakterystycznych, czarnych szalach z frędzlami. Ich zgrabne, często w ogniste
+wstążki przystrojone główki pochylały się z zainteresowaniem nad próbkami towarów rozłożonymi na ławkach i ladach, a śliczne o wytwornym rysunku ręce z lubością gładziły postawy jedwabiu, satyny i perkalu; kapryśne, wybredne, brakujące ręce.</p>
+<p>Chaosowi barw wtórzył chaos woni: wśród ich zgiełku
+wybijał się na powierzchnię zapach tanich perfum, szorstki
+odór juchtu i wnętliwa symfonia zamorskich korzeni.</p>
+<p>Szczególniejszymi względami cieszył się bazar z lalkami
+i sąsiadujący z nim sklep z przyborami tualetowymi; zwłaszcza ten ostatni był stale oblężony przez płeć piękną. Właściciel jego, barczysty, średnich lat mężczyzna, z parą melancholijnie opuszczonych ku dołowi wąsów, przynęcał weneckie strojnisie, przesuwając między opierścienionymi
+palcami sznury fałszywych pereł, korali i bursztynu lub
+przesiewając z dłoni w dłoń migotliwe przygarście kolczyków, broszek i manel.</p>
+<p>— Signor Giuliano robi jak zwykle świetne interesa —
+zauważyła, mijając bazar, donia Inez. — Umie zachwalać
+swój towar.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADJ" lemma="sam" msd="adj:sg:nom:f:pos">Sama</w>
+<w pos="NOUN" lemma="tandeta" msd="subst:sg:nom:f">tandeta</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="NOUN" lemma="surogata" msd="subst:sg:nom:m1">surogaty</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:m1:perf">odpowiedział</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Niekoniecznie — zaoponowała — można tu czasem
+wyłowić i prawdziwą perłę: trzeba tylko znać się na rzeczy
+i odróżnić ziarno od plewy. Buda Giuliana — to też rodzaj
+bric à brac starożytności. Powrócimy tutaj jeszcze kiedyś
+w porze poobiedniej, gdy na Rialto trochę przestronniej.
+A teraz proszę mnie odprowadzić do gondoli; muszę wracać
+do siebie.</p>
+<p>Przesyceni gwarem i krzykiem zeszliśmy do łodzi. Beppo, pokrzepiony kilku szklanicami piwa i porcją makaronu
+w przybrzeżnej trattoria, odwiązywał raźno gondolę od
+palika na bulwarze. Gdy zdjąłem kapelusz i utkwiłem
+w donię Orpega oczy pełne niemej prośby o najbliższe spotkanie, pociągnęła mnie za sobą w głąb gondoli.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="Podwieźć" msd="fin:sg:ter:imperf">Podwiezie</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:acc:m1:pri:akc">mnie</w>
+<w pos="NOUN" lemma="pan" msd="subst:sg:nom:m1">pan</w>
+<w pos="ADP" lemma="pod" msd="prep:inst:nwok">pod</w>
+<w pos="DET" lemma="mój" msd="adj:sg:nom:n:pos">moje</w>
+<w pos="NOUN" lemma="mieszkanie" msd="subst:sg:nom:n:ncol">mieszkanie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Jaka pani dobra — szepnąłem, przyciskając ku ustom
+jej rękę.</p>
+<p>Gondola pruła już dzióbem wody kanału. Płynęliśmy
+z powrotem w kierunku Cannareggio. Po drodze Inez wyznaczyła mi schadzkę tegoż dnia po południu.</p>
+<p>— Pan tu jest nowicjuszem — mówiła, przechylając na
+ramię swą cudną główkę — chcę być pańskim cicerone,
+chcę pokazać panu wszystkie osobliwości tego miasta. Sama
+ułożę porządek naszych wędrówek. Zgadza się pan?</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">Z</w>
+<w pos="ADJ" lemma="głęby" msd="adj:sg:inst:f:pos">najgłębszą</w>
+<w pos="NOUN" lemma="wdzięczność" msd="subst:sg:inst:f">wdzięcznością</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="ADP" lemma="od" msd="prep:gen:nwok">Od</w>
+<w pos="PRON" lemma="co" msd="subst:sg:gen:n:ncol">czego</w>
+<w pos="VERB" lemma="zacząć" msd="fin:pl:pri:perf">zaczniemy</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="VERB" lemma="uśmiechnąć" msd="praet:sg:f:perf">Uśmiechnęła</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— To tajemnica. Dowie się pan po południu. Chcę panu
+zrobić niespodziankę. Proszę zatem oczekiwać mnie o czwartej na Ca d'Oro. Do widzenia!</p>
+<p>Gondola przybiła do brzegu; łabędzia jej szyja położyła
+się na omszałych stopniach schodów, co wiodły pomiędzy
+kolumny jednego z tych cudnych pałaców, które odbija
+tak wiernie ciemna fala Canal Grande. Tutaj Inez wysiadła. Podał jej rękę czekający już lokaj, bo schody od
+pleśni zielone śliskie były i niepewne.</p>
+<p>— Beppo, odwieziesz pana do S. Marcuola — poleciła
+na pożegnanie i posławszy mi czarujący uśmiech, zniknęła
+za kotarą w głębi krużganka.</p>
+<p>Nie mogłem doczekać się utęsknionej godziny. Stan
+podniecenia, w który mnie wprawiła radosna przygoda, był
+tak silny, że zapomniałem o obiedzie i nie wróciłem do
+swego mieszkania obok dworca kolejowego, lecz wałęsałem
+się nad kanałem w okolicy Złotego Domu; nie mogłem
+dopuścić do tego, by jakakolwiek banalna czynność przerwała mi rozkoszną ciągłość marzenia o niej; nie chciałem
+pozwolić na to w żaden sposób, by pomiędzy pierwsze
+a drugie spotkanie z ukochaną wcisnęło się jakiekolwiek
+prozaiczne zdarzenie. Dlatego wolałem krążyć w pobliżu
+miejsca wyznaczonego przez nią na schadzkę. Gdy po paru
+godzinach uczułem dotkliwy głód i zmęczenie, odszedłem
+na chwilę od przystani Ca d'Oro ciemną, ciasną vicoletto
+i dopadłszy jakiejś podrzędnej kawiarenki na rogu ulicy
+Vittorio Emanuele, wychyliłem duszkiem szklankę kawy.
+W parę minut potem stałem znów na bulwarze i zapuszczałem niecierpliwe spojrzenie w stronę, skąd miała nadpłynąć gondolą Ineza.</p>
+<p>W końcu nadpłynęła. Słodka, smagława, oszałamiająca.
+Gdy chciałem jej pomóc przy wysiadaniu, potrząsnęła przecząco głową:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="pojechać" msd="fin:pl:pri:perf">Pojedziemy</w>
+<w pos="ADV" lemma="daleko" msd="adv:com">dalej</w>
+<w pos="NOUN" lemma="gondola" msd="subst:sg:inst:f">gondolą</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="VERB" lemma="prosić" msd="fin:sg:pri:imperf">Proszę</w>
+<w pos="VERB" lemma="usiąść" msd="inf:perf">usiąść</w>
+<w pos="ADV" lemma="tu" msd="adv">tu</w>
+<w pos="ADP" lemma="przy" msd="prep:loc">przy</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:gen:m1:pri:akc">mnie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="CCONJ" lemma="i" msd="conj">I</w>
+<w pos="VERB" lemma="wskazać" msd="praet:sg:f:perf">wskazała</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:dat:m1:pri:nakc">mi</w>
+<w pos="NOUN" lemma="miejsce" msd="subst:sg:acc:n:ncol">miejsce</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="NOUN" lemma="łódź" msd="subst:sg:loc:f">łodzi</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Beppo" msd="subst:sg:nom:n:ncol">Beppo</w>
+</rs>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="cavy" msd="fin:sg:ter:imperf">cava</w>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="ila" msd="subst:sg:acc:m3">il</w>
+<w pos="NOUN" lemma="felzy" msd="subst:pl:acc:m3">felze</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="rozkazać" msd="praet:sg:f:perf">rozkazała</w>
+<w pos="NOUN" lemma="gondolier" msd="subst:sg:dat:m1">gondolierowi</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>I podczas gdy sługa spełniając polecenie zwijał ponad
+naszymi głowami jedwabny baldachim, ona opierając się
+o moje ramię i zaglądając mi filuternie w oczy, zapytała:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="czy" msd="part">Czy</w>
+<w pos="PART" lemma="też" msd="part">też</w>
+<w pos="NOUN" lemma="pan" msd="subst:sg:nom:m1">pan</w>
+<w pos="PART" lemma="choć" msd="part">choć</w>
+<w pos="NOUN" lemma="raz" msd="subst:sg:acc:m3">raz</w>
+<w pos="VERB" lemma="pomyśleć" msd="praet:sg:m1:perf">pomyślał</w>
+<w pos="ADP" lemma="o" msd="prep:acc">o</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:gen:f:pri:akc">mnie</w>
+<w pos="ADP" lemma="od" msd="prep:gen:nwok">od</w>
+<w pos="NOUN" lemma="chwila" msd="subst:sg:gen:f">chwili</w>
+<w pos="DET" lemma="nasz" msd="adj:sg:gen:n:pos">naszego</w>
+<w pos="ADJ" lemma="pierwszy" msd="adj:sg:gen:n:pos">pierwszego</w>
+<w pos="NOUN" lemma="rozstanie" msd="subst:sg:gen:n:ncol">rozstania</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>— Seniora — odparłem, tonąc oczyma w jej oczach —
+jestem panią oczarowany.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADV" lemma="tak" msd="adv:pos">Tak</w>
+<w pos="VERB" lemma="trzeba" msd="pred">trzeba</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADV" lemma="tak" msd="adv:pos">tak</w>
+<w pos="AUX" lemma="być" msd="inf:imperf">być</w>
+<w pos="VERB" lemma="powinien" msd="winien:sg:n:imperf">powinno</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Avanti" msd="subst:sg:nom:n:ncol">Avanti</w>
+</rs>
+<pc pos="PUNCT" lemma=",">,</pc>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Beppo" msd="subst:sg:nom:n:ncol">Beppo</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_pro_title">
+<w pos="ADV" lemma="dokąd" msd="adv">Dokąd</w>
+</rs>
+<w pos="VERB" lemma="płynąć" msd="fin:pl:pri:perf">płyniemy</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="rzucić" msd="praet:sg:m1:perf">rzucił</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="DET" lemma="odruchowo" msd="adj:sg:acc:n:pos">odruchowo</w>
+<w pos="NOUN" lemma="pytanie" msd="subst:sg:acc:n:ncol">pytanie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— W stronę Fondamente Nuove systemem kanałów poprzecznych. Lubię przesuwać się na gondoli po tych cichych
+ścieżkach wodnych, wijących się pomiędzy starymi, przesiąkniętymi ich wilgocią domami.</p>
+<p>Odbiliśmy od przystani. Kierowana wprawnym wiosłem
+gondoleria łódź trzymała się blisko brzegu, by wkrótce, po
+dokonaniu zręcznego półobrotu w prawo, porzucić Canal
+Grande i wcisnąć się we wąską szyję Rio di S. Felice.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="PART" lemma="a" msd="part">A</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="oel" msd="subst:sg:nom:m3">oel</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="rozlegnąć" msd="praet:sg:n:perf">rozległo</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADJ" lemma="ostrzegawczy" msd="adj:sg:acc:n:pos">ostrzegawcze</w>
+<w pos="NOUN" lemma="wołać" msd="ger:sg:acc:n:imperf:aff">wołanie</w>
+<w pos="NOUN" lemma="wioślarz" msd="subst:sg:gen:n:ncol">wioślarza</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="PART" lemma="a" msd="part">A</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="oel" msd="subst:sg:nom:m3">oel</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+<s>
+<w pos="PRON" lemma="się" msd="part">Sia</w>
+<w pos="VERB" lemma="stać" msd="praet:pl:m1:imperf">stali</w>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+</p>
+
+<p>Gondola prześmignęła popod łękiem mostku łączącego
+ulicę Wiktora Emanuela z placem św. Feliksa i skręciła
+znów na prawo w Rio di S. Sofia. Zasłuchani w plusk wiosła, rozkoszowaliśmy się w milczeniu żeglugą.</p>
+<p>A miała ta przejażdżka pomiędzy kamienicami szczególny urok. Mimo całej życiowej prozy wyzierającej z tych
+kilkupiętrowych starych, obdrapanych domostw z suszącą
+się tu i tam na żerdziach i sznurach bielizną było coś tajemniczego w ich atmosferze. Coś taiło się w tych mrocznych, skąpo rozświetlonych językami gazu podsieniach, coś
+drzemało w ciemnych, gdzieniegdzie przeglądających przez
+wykroje bram podwórzach, czaiło się w brudnych, zatęchłych od lat basenach. Czasem wychyliła się z okna jakaś
+ludzka głowa, wyjrzała para oczu namiętnych, południowych i znikała jakby spłoszona widokiem obcych; czasem
+z głębi zagadkowych wnętrz wypłynęła cudna, tęsknotą
+wezbrana piosenka, zawibrowała między ścianami domów
+rozełkanym arpeggio i milkła zawstydzona niewczesną
+swą urodą.</p>
+<p>W czarnej, gęstej, nieruchawej wodzie łączyły się w
+drżącym uścisku pokraczne odbicia kamienic, snuły się,
+tęczując pod światło, jakieś brudno-tłuste ściegi i popławy.
+Miejscami wysuwały się z masywów domostw i budynków
+nadpowietrzne, kryte galerie, „mosty westchnień” szarej,
+smutnej codzienności, i jak dłonie podane nad przepaścią
+sprzęgały ze sobą brzegi kanałów; gdzie indziej łuk kamiennego sklepienia rozpięty spodem nad powierzchnią
+wody przerzucał się giętkim grzbietem z zaułka w zaułek.</p>
+<p>Ciszę uliczek przerywały od czasu do czasu okrzyki
+gondolierów.</p>
+<p>— Sia premi! — Sia stali! — Sia di lungo! — wołali,
+wymijając się na zakrętach.</p>
+<p>Na Rio di S. Andrea musieliśmy się zatrzymać trochę
+dłużej, bo z łódek stłoczonych na wąskim pasie wody powstał zator; zwłaszcza brzuchata, węglem naładowana barża towarowa nie mogła wywikłać się z duśby; wreszcie
+otarłszy się bokiem o bulwar, wydostała się z matni i otworzyła przejście. Wpłynęliśmy na Kanał św. Katarzyny.</p>
+<p>— Na lewo, Beppo! Pod arkadę ponticello! — poleciła
+donia.</p>
+<p>
+<s>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="Gondola" msd="subst:sg:nom:f">Gondola</w>
+</rs>
+<w pos="VERB" lemma="podpłynąć" msd="praet:sg:f:perf">podpłynęła</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="NOUN" lemma="schodek" msd="subst:pl:gen:n:pt">schodków</w>
+<w pos="NOUN" lemma="debarkader" msd="subst:sg:gen:m3">debarkaderu</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="VERB" lemma="wysiąść" msd="praet:pl:m1:perf">Wysiedli</w>
+<w pos="AUX" lemma="być" msd="aglt:pl:pri:imperf:nwok">śmy</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="NOUN" lemma="pani" msd="subst:sg:nom:f">Pani</w>
+<w pos="VERB" lemma="zwrócić" msd="praet:sg:f:perf">zwróciła</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="NOUN" lemma="przewoźnik" msd="subst:sg:gen:m1">przewoźnika</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>— Oczekuj nas za 10 minut w przystani Fondamente
+Nuove.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PROPN" lemma="sto" msd="subst:sg:nom:f">Sta</w>
+<w pos="X" lemma="bene" msd="frag">bene</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="signor" msd="subst:sg:nom:f">signora</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="sto" msd="fin:sg:ter:imperf">sta</w>
+<w pos="X" lemma="bene" msd="frag">bene</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>I podczas gdy Inez wsparta o moje ramię wychodziła
+po stopniach na brzeg, stary gondolier ruszył w dalszą drogę kanałem, by potem wykręcić na północ i przez Stacca
+della Misericordia wydostać się na pełniejsze wody Nowych
+Nadbrzeży. My tymczasem przeszliśmy mimo kościoła św.
+Katarzyny i Jezuitów i zagłębiliśmy się w labirynt zaułków
+weneckiej suburry.</p>
+<p>Popołudniowe słońce skłaniające się powoli ku zachodowi zalewało płynnym złotem kwadratowe płyty bruku
+i świeciło nam prosto w oczy.</p>
+<p>— Jak tu wesoło, jak słonecznie! — zawołała Inez, której
+wyniosła, elegancka postać rzucała poza siebie cień mocny
+i długi.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADV" lemma="szczególnie" msd="adv:pos">Szczególnie</w>
+<w pos="ADP" lemma="po" msd="prep:loc">po</w>
+<w pos="NOUN" lemma="wyjść" msd="ger:sg:loc:n:perf:aff">wyjściu</w>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">z</w>
+<w pos="ADJ" lemma="mroczny" msd="adj:pl:gen:f:pos">mrocznych</w>
+<w pos="NOUN" lemma="czeluść" msd="subst:pl:gen:f">czeluści</w>
+<w pos="NOUN" lemma="kanał" msd="subst:pl:gen:m3">kanałów</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="uzupełnić" msd="praet:sg:m1:perf">uzupełnił</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:dat:f:ter:akc:npraep">jej</w>
+<w pos="NOUN" lemma="uwaga" msd="subst:sg:acc:f">uwagę</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>I jak mogłem, zacząłem opędzać się drobnymi datkami
+przed gromadką brudnych, obdartych dzieci, które towarzyszyły nam z uporem już od pewnego czasu.</p>
+<p>— Un baiocco, bella signora, un baiocco ai poveri
+bambini! — skamlała w imieniu innych chuda piegowata
+dziewczyna.</p>
+<p>
+<s>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Doń" msd="subst:sg:nom:f">Donia</w>
+<w pos="PROPN" lemma="Orpeg" msd="subst:sg:nom:f">Orpega</w>
+</rs>
+<w pos="VERB" lemma="wyjąć" msd="praet:sg:f:perf">wyjęła</w>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">z</w>
+<w pos="NOUN" lemma="torebka" msd="subst:sg:gen:f">torebki</w>
+<w pos="DET" lemma="kilkanaście" msd="num:pl:acc:f:rec">kilkanaście</w>
+<w pos="NOUN" lemma="sztuka" msd="subst:pl:gen:f">sztuk</w>
+<w pos="ADJ" lemma="półlirowy" msd="adj:pl:gen:f:pos">półlirowych</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="zawinąć" msd="praet:sg:f:perf">zawinęła</w>
+<w pos="ADP" lemma="w" msd="prep:acc:nwok">w</w>
+<w pos="NOUN" lemma="papier" msd="subst:sg:acc:m3">papier</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="VERB" lemma="śmieć" msd="pcon:imperf">śmiejąc</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="podrzucić" msd="praet:sg:f:perf">podrzuciła</w>
+<w pos="ADP" lemma="w" msd="prep:acc:nwok">w</w>
+<w pos="NOUN" lemma="góra" msd="subst:sg:acc:f">górę</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">Z</w>
+<w pos="NOUN" lemma="brzęk" msd="subst:sg:inst:m3">brzękiem</w>
+<w pos="VERB" lemma="rozsypać" msd="praet:pl:m3:perf">rozsypały</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="NOUN" lemma="pieniądz" msd="subst:pl:nom:m3">pieniądze</w>
+<w pos="ADP" lemma="po" msd="prep:loc">po</w>
+<w pos="NOUN" lemma="fliz" msd="subst:pl:loc:m3">flizach</w>
+<w pos="NOUN" lemma="uliczka" msd="subst:sg:gen:f">uliczki</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADV" lemma="teraz" msd="adv">Teraz</w>
+<w pos="VERB" lemma="uciekać" msd="impt:pl:pri:imperf">uciekajmy</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="SCONJ" lemma="dopóki" msd="comp">dopóki</w>
+<w pos="ADJ" lemma="zająć" msd="ppas:pl:nom:n:perf:aff">zajęte</w>
+<w pos="NOUN" lemma="zbierać" msd="ger:sg:inst:n:imperf:aff">zbieraniem</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="ADV" lemma="skwapliwie" msd="adv:pos">Skwapliwie</w>
+<w pos="VERB" lemma="zboczyć" msd="praet:pl:m1:perf">zboczyli</w>
+<w pos="AUX" lemma="być" msd="aglt:pl:pri:imperf:nwok">śmy</w>
+<w pos="ADP" lemma="w" msd="prep:acc:nwok">w</w>
+<w pos="ADJ" lemma="sąsiedni" msd="adj:sg:acc:m3:pos">sąsiedni</w>
+<w pos="NOUN" lemma="zaułek" msd="subst:sg:acc:m3">zaułek</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="ADP" lemma="o" msd="prep:acc">O</w>
+<w pos="DET" lemma="parę" msd="num:pl:acc:m3:rec">parę</w>
+<w pos="NOUN" lemma="kroek" msd="subst:pl:gen:m3">kroków</w>
+<w pos="ADP" lemma="przed" msd="prep:inst:nwok">przed</w>
+<w pos="PRON" lemma="my" msd="ppron12:pl:inst:m1:pri">nami</w>
+<w pos="VERB" lemma="zalśnić" msd="praet:sg:f:perf">zalśniła</w>
+<w pos="ADJ" lemma="brylantowy" msd="adj:pl:inst:m2:pos">brylantowymi</w>
+<w pos="NOUN" lemma="blask" msd="subst:pl:inst:m2">blaskami</w>
+<w pos="NOUN" lemma="lagun" msd="subst:sg:gen:m1">laguna</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Jesteśmy na miejscu. To Fondamente Nuove w pełnej
+chwale lipcowego popołudnia.</p>
+<p>Wyciągnięta w dal linia bulwaru roiła się od ludzi. Przy
+stolikach porozstawianych przed winiarniami i cukierniami
+popijano słodko-cierpką marsalę, turmalinowechianti, purpurową granatinę lub krzepkie nostrano z pobliskich winnic rodem. Gondolierzy w pomarańczowych koszulach i szerokich, czarnych kapeluszach nagabywali przechodniów,
+proponując przejażdżkę na Lido, Wyspy św. Michała, Murano, Burano lub uroczą isola di S. Francesco del Deserto.
+Beppo uśmiechnięty i zadowolony, że nas wyprzedził, już
+czekał w malowniczej pozie, wsparty o wiosło na wyżce
+swej „Rondinelli”. Skierowałem na Inezę pytające spojrzenie. A ona schodząc do łodzi, zgrabna i wytworna, w obcisłej, satynowej sukni koloru bleu foncé, określiła cel jazdy
+w dwóch słowach:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="X" lemma="San" msd="frag">San</w>
+<w pos="NOUN" lemma="Michele" msd="subst:pl:nom:m1">Michele</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+</p>
+
+<p>— Na Wyspę Cmentarną? — zapytałem, zajmując obok
+niej miejsce w gondoli. — Dlaczego właśnie tam?</p>
+<p>
+<s>
+<w pos="VERB" lemma="podnieść" msd="praet:sg:f:perf">Podniosła</w>
+<w pos="ADP" lemma="na" msd="prep:acc">na</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:acc:m1:pri:akc">mnie</w>
+<w pos="ADJ" lemma="zdziwiony" msd="ppas:pl:acc:n:perf:aff">zdziwione</w>
+<w pos="NOUN" lemma="oko" msd="subst:pl:acc:n:col">oczy</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="AUX" lemma="być" msd="praet:sg:m1:imperf">Był</w>
+<w pos="NOUN" lemma="pan" msd="subst:sg:nom:m1">pan</w>
+<w pos="ADV" lemma="tam" msd="adv">tam</w>
+<w pos="PART" lemma="już" msd="part">już</w>
+<w pos="VERB" lemma="może" msd="fin:sg:ter:imperf">może</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>— Nie, nie byłem — odpowiedziałem, patrząc na nią
+zamyślony — lecz widzi pani, nie lubię cmentarnych zaciszy.</p>
+<p>— A jednak warto obejrzeć; w klasztorze obok jest podobno kilku mnichów Polaków. Cóż, sprzeciwia się pan
+stanowczo?</p>
+<p>— Cóż znowu? — zaprzeczyłem. — Jak można sprzeciwiać się pani? Avanti, signor gondoliere, avanti! Trochę mi
+tylko nieprzyjemnie, że zaczynamy nasze wycieczki od tego
+miejsca.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="pora" msd="subst:sg:nom:m1">Por</w>
+<w pos="PROPN" lemma="Dios" msd="subst:sg:nom:m1">Dios</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="rzec" msd="praet:sg:f:imperf">rzekła</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="zasłaniać" msd="pcon:imperf">zasłaniając</w>
+<w pos="PRON" lemma="siebie" msd="siebie:acc">siebie</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:acc:m1:pri:akc">mnie</w>
+<w pos="NOUN" lemma="parasolka" msd="subst:sg:inst:f">parasolką</w>
+<w pos="ADP" lemma="przed" msd="prep:inst:nwok">przed</w>
+<w pos="ADJ" lemma="natarczywy" msd="adj:pl:inst:n:pos">natarczywymi</w>
+<w pos="NOUN" lemma="promień" msd="subst:pl:inst:n:ncol">promieniami</w>
+<w pos="NOUN" lemma="słońce" msd="subst:sg:gen:n:ncol">słońca</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="nie" msd="part">Nie</w>
+<w pos="VERB" lemma="lubić" msd="fin:sg:pri:imperf">lubię</w>
+<w pos="ADJ" lemma="przesądny" msd="adj:pl:gen:m1:pos">przesądnych</w>
+<w pos="NOUN" lemma="mężczyzna" msd="subst:pl:gen:m1">mężczyzn</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Adelante" msd="subst:sg:nom:m1">Adelante</w>
+</rs>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="PROPN" lemma="Beppo" msd="subst:sg:nom:n:ncol">Beppo</w>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+<s>
+<w pos="PRON" lemma="sia" msd="part">Sia</w>
+<w pos="X" lemma="di" msd="frag">di</w>
+<w pos="NOUN" lemma="lungo" msd="subst:sg:acc:n:ncol">lungo</w>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+</p>
+
+<p>Gondola odbijała od brzegu. Rozcięte pałaszem wiosła
+fale zalśniły miriadami blasków i rozbiegły się wokół łodzi karbami fałdów w kręgach koncentrycznych.</p>
+<p>— Ta woda czysta, odświeżana ustawicznie dopływem
+z pełnego morza, sprawia orzeźwiające wrażenie — przerwałem uwagą milczenie.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="ani" msd="part">Ani</w>
+<w pos="NOUN" lemma="porównanie" msd="subst:pl:acc:n:ncol">porównania</w>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">z</w>
+<w pos="NOUN" lemma="ospały" msd="subst:sg:inst:f">ospałą</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADJ" lemma="gęsty" msd="adj:sg:inst:f:pos">gęstą</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="ADJ" lemma="cuchnąć" msd="adj:sg:inst:f:pos">cuchnącą</w>
+<w pos="NOUN" lemma="woda" msd="subst:sg:inst:f">wodą</w>
+<w pos="NOUN" lemma="kanał" msd="subst:pl:gen:m3">kanałów</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Ale za to tamta ma w sobie coś tajemniczego; jeżeli
+można mówić o duszy weneckiej laguny, to kryje się ona
+w tej czarnej, drzemiącej, przesyconej wyziewami miasta
+topieli.</p>
+<p>— Patrz pan! — przerwała mi, wskazując na prawo. —
+Co za obraz! Jedyny motyw dla malarza!</p>
+<p>Obok przepływała obciążona do pół burty krypa pod
+trójkątnym żaglem latyńskim; wiozła do Wenecji na targ jarzyny z ogrodów wyspy Le Vignole i owoce z sadów jej
+sąsiadki, zielonej Torcello. Cytrynowożółte płótno żagla
+z wizerunkiem św. Marka, patrona, wydymało się łagodnie
+w podmuchach zachodniego wiatru nad kopczykami czerwonoceglastych pomidorów, piramidami marchwi, buraków,
+rzepy i stożkami winogron, brzoskwiń, renglotów i oliwek.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="barwa" msd="subst:pl:nom:n:pt">Barwy</w>
+<w pos="ADJ" lemma="dobreć" msd="ppas:sg:nom:n:perf:aff">dobrane</w>
+<w pos="SCONJ" lemma="jak" msd="comp">jak</w>
+<w pos="ADP" lemma="na" msd="prep:acc">na</w>
+<w pos="NOUN" lemma="paleta" msd="subst:sg:acc:n:ncol">palecie</w>
+<rs type="nam_liv_person">
+<w pos="ADJ" lemma="Claude" msd="adj:sg:acc:n:pos">Claude</w>
+<w pos="PROPN" lemma="Monet" msd="subst:sg:gen:m1">Moneta</w>
+</rs>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="lub" msd="impt:sg:sec:imperf">Lub</w>
+<w pos="DET" lemma="nasz" msd="adj:sg:gen:m3:pos">naszego</w>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Wyczółkowski" msd="subst:sg:gen:m1">Wyczółkowskiego</w>
+</rs>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>W perspektywie wyłonił się biały kontur cmentarnego
+muru.</p>
+<p>— Tu gdzieś w pobliżu — objaśniła mnie donia Inez —
+uchodzi naczółek mostu pontowego, który dla wygody ludności każe rozpinać w Dnie Zaduszne zarząd miasta między
+Wenecją a Wyspą św. Michała.</p>
+<p>Gondola przesunęła się popod murem obmywanym przez
+chlupoczącą łagodnie falę i zawinęła do przystani naprzeciw
+klasztornego portalu. Wysiedliśmy i przekroczywszy bramę
+opactwa oo. Franciszkanów, weszliśmy w krużganek. W głębi, pomiędzy filarami, przechadzało się kilku mnichów.
+Postacie ich ujęte w szorstkie linie habitów odrzynały się
+wyraziście ciemnymi plamami od rozsłonecznionego tła
+z murów, kolumn i posadzki. Wychylone z szerokich rękawów zakonnej sukni ręce przebierały paciorki różańca lub
+zanurzone palcami w miąższ brewiarzy przewracały szeleszczące cicho ich kartki. Z wnętrza bazyliki po lewej stronie
+krużganka szła woń kadzidła i płonących świec — z głębi
+przedsionka, z prześlicznej Capella Emiliana płynęły słodkie tony harmonium: ktoś grał Ave MariaGounoda.</p>
+<p>Przeszliśmy zamknięty kolumnadą podwórzec i przez
+drugą, wewnętrzną bramę dostaliśmy się na cmentarz. Była
+godzina szósta po południu. Zalane potokami zachodu zacisze pławiło się w złocie i bieli: w złocie słońca i bieli marmurów. Przymknąłem na chwilę olśnione oczy. Szliśmy
+wzdłuż cmentarnego muru inkrustowanego płytami napisów, grobowcowych wnęk i nisz. Pod stopami dudniały nam
+głucho podziemne komnaty, z boku raziły oślepiająco białe
+refleksy słonecznych rzutów.</p>
+<p>— Jak tu mało zieleni! — rzekłem tonem skargi. — Co
+za rozpaczliwa posucha bieli! Doprawdy, seniora, ta despotyczna, wszystko sobą przygłuszająca biel jest straszliwa.
+Zadaje mi niemal fizyczny ból.</p>
+<p>
+<s>
+<w pos="VERB" lemma="popatrzyć" msd="praet:sg:f:perf">Popatrzyła</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADV" lemma="lekko" msd="adv:pos">lekko</w>
+<w pos="VERB" lemma="podnosić" msd="pcon:imperf">podnosząc</w>
+<w pos="NOUN" lemma="brew" msd="subst:pl:acc:f">brwi</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="przemawiać" msd="fin:sg:ter:imperf">Przemawia</w>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">z</w>
+<w pos="NOUN" lemma="pan" msd="subst:sg:gen:m3">pana</w>
+<w pos="NOUN" lemma="syn" msd="subst:sg:nom:m1">syn</w>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="północ" msd="subst:sg:gen:f">Północy</w>
+</rs>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="DET" lemma="wasz" msd="adj:pl:nom:m3:pos">Wasze</w>
+<w pos="NOUN" lemma="cmentarz" msd="subst:pl:nom:m1">cmentarze</w>
+<w pos="VERB" lemma="musieć" msd="fin:pl:ter:imperf">muszą</w>
+<w pos="VERB" lemma="mieć" msd="inf:imperf">mieć</w>
+<w pos="NOUN" lemma="wygląd" msd="subst:sg:acc:m3">wygląd</w>
+<w pos="ADV" lemma="zupełnie" msd="adv:pos">zupełnie</w>
+<w pos="ADJ" lemma="odmienien" msd="adj:sg:acc:m3:pos">odmienny</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>— O tak. U nas w miejscach wiecznego spoczynku pełno
+drzew i krzewów; bujna, soczysta zieleń przegradza domy
+zmarłych, przykrywa festonami bluszczu, spławami brzóz
+i kalin martwą biel nagrobków i mauzoleów. Na polskich
+cmentarzach przyroda otula w macierzyńskie ramiona przybytki śmierci — gdy tu, w tej błogosławionej, wiecznie
+roześmianej słońcem krainie, nawet w ustroniach zmarłych
+sztuka święci bezwzględnie swój zimny, marmurowy
+tryumf: smutny tryumf pobielanych grobów. Ach, jakże
+mi brak tu zieleni!</p>
+<p>Zatrzymałem się przy jednym z grobowców, który nagle
+skupił na sobie moją uwagę. Rzucała się w oczy od razu
+oryginalna kompozycja.</p>
+<p>Na tarasie przed domem stała naturalnej wielkości postać kobiety o miłej, przepojonej niewieścią słodyczą powierzchowności; lewą ręką zbierała fałdy sukni, w prawej
+podniesionej do góry gestem pełnym wdzięku niosła doniczkę z kwiatami.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="„">„</pc>
+<w pos="PART" lemma="a" msd="part">A</w>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Luisa" msd="subst:sg:nom:f">Luisa</w>
+<w pos="PROPN" lemma="Riccardi" msd="subst:sg:nom:m1">Riccardi</w>
+</rs>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADV" lemma="mogli" msd="adv:pos">moglie</w>
+<w pos="NOUN" lemma="adorat" msd="subst:sg:nom:m1">adorata</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="il" msd="subst:sg:nom:m1">il</w>
+<w pos="NOUN" lemma="marić" msd="subst:sg:nom:n:ncol">marito</w>
+</rs>
+<pc pos="PUNCT" lemma="”">”</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="czytać" msd="praet:sg:m1:imperf">czytał</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="NOUN" lemma="napis" msd="subst:sg:acc:m3">napis</w>
+<w pos="ADP" lemma="u" msd="prep:gen">u</w>
+<w pos="NOUN" lemma="dół" msd="subst:sg:gen:m3">dołu</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Jest to mogiła jednej z patrycjuszek weneckich —
+wyjaśniła mi Inez. — Umarła nagle śmiercią gwałtowną.
+Zrozpaczony mąż kazał utrwalić postać ukochanej w chwili, gdy wychodzi z domu na przechadzkę po ogrodzie: taką
+ją widział podobno po raz ostatni — taką oglądały jego
+oczy na kilka godzin przed śmiercią. Moment ten uwiecznił
+rzeźbiarz w marmurze.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="DET" lemma="jaki" msd="adj:sg:nom:n:pos">Jakie</w>
+<w pos="AUX" lemma="to" msd="pred">to</w>
+<w pos="ADJ" lemma="piękny" msd="adj:sg:nom:n:pos">piękne</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="senior" msd="subst:pl:nom:n:ncol">seniora</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="rzec" msd="praet:sg:m1:perf">rzekł</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="NOUN" lemma="zamyślenie" msd="subst:sg:loc:n:ncol">zamyśleniu</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— I może właśnie dlatego sąsiaduje z pięknem innego
+pokroju — odpowiedziała, posuwając się ku najbliższemu
+grobowcowi. — A co pan powie o tej mogile?</p>
+<p>Na płycie z alabastru odcinały się en relief dwa torsy:
+młodego mężczyzny i czarująco pięknej kobiety. On utkwił
+w niej rozkochane oczy i wyciągnął usta spragnione ku
+czarze, którą mu podawała z uśmiechem. Mimo woli rodziło się podejrzenie, czy puchar nie zawiera trucizny. Bo
+w uśmiechu kobiety czaił się odcień fałszu i okrucieństwa.
+Lecz tego zaślepiony mężczyzna zdawał się nie dostrzegać — jak nie dostrzegał na pewno żądła wąskiej weneckiej dagi, którą ściskała w drugiej, w tył podanej ręce…</p>
+<p>
+<s>
+<w pos="VERB" lemma="rzucić" msd="praet:sg:m1:perf">Rzucił</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="NOUN" lemma="oko" msd="subst:sg:inst:n:col">okiem</w>
+<w pos="ADP" lemma="na" msd="prep:acc">na</w>
+<w pos="NOUN" lemma="wstążka" msd="subst:sg:acc:f">wstążkę</w>
+<w pos="NOUN" lemma="napis" msd="subst:sg:gen:m3">napisu</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>„Al suo adorato sposo, Don Antonio de Orpega, spento
+nel supremo piacere — la moglie” — zwierzał światu swą
+tajemnicę w zwięzłych, lapidarnych słowach szczególny
+grobowiec.</p>
+<p>
+<s>
+<w pos="VERB" lemma="patrzyć" msd="praet:sg:m1:imperf">Patrzył</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="ADP" lemma="na" msd="prep:acc">na</w>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="Ineza" msd="subst:sg:acc:f">Inezę</w>
+</rs>
+<w pos="ADJ" lemma="wstrząsnąć" msd="ppas:sg:nom:m1:perf:aff">wstrząśnięty</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="NOUN" lemma="głębia" msd="subst:sg:gen:f">głębi</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="SCONJ" lemma="więc" msd="comp">Więc</w>
+<w pos="ADV" lemma="tu" msd="adv">tu</w>
+<w pos="VERB" lemma="spoczywać" msd="fin:sg:ter:imperf">spoczywa</w>
+<pc pos="PUNCT" lemma="…">…</pc>
+</s>
+</p>
+
+<p>— Mój mąż — dokończyła z dziwnym, nie znanym mi
+dotychczas uśmiechem.</p>
+<p>I wtedy dopiero, po tym uśmiechu poznałem, że kobietą
+na płycie grobowej była ona.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="Usiądzić" msd="impt:pl:pri:perf">Usiądźmy</w>
+<w pos="ADV" lemma="tam" msd="adv">tam</w>
+<w pos="ADP" lemma="na" msd="prep:loc">na</w>
+<w pos="NOUN" lemma="ławka" msd="subst:sg:loc:f">ławce</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="NOUN" lemma="aleja" msd="subst:sg:loc:f">alei</w>
+<w pos="NOUN" lemma="cyprys" msd="subst:pl:gen:m3">cyprysów</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="zaproponować" msd="praet:sg:f:perf">zaproponowała</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Usłuchałem pełen sprzecznych uczuć. Usiedliśmy w cyprysowej niszy. Na chwilę zapadło między nami milczenie.
+Długie cienie nagrobnych strażników kładły się nam pod
+stopy ostrymi zrysami wierzchołków i czerniły na złotym
+żwirze ścieżki hieroglifami śmierci. Skądś, z wnętrza cmentarza, dochodził łoskot kamieniarskiego młotka trudzącego się przy nowym nagrobku, dolatywał odzew nieszpornych
+organów…</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="DET" lemma="mój" msd="adj:sg:nom:m1:pos">Mój</w>
+<w pos="NOUN" lemma="mąż" msd="subst:sg:nom:m1">mąż</w>
+<w pos="VERB" lemma="skończyć" msd="praet:sg:m1:perf">skończył</w>
+<w pos="NOUN" lemma="samobójstwo" msd="subst:sg:inst:m3">samobójstwem</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="usłyszeć" msd="praet:sg:m1:perf">usłyszał</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="ADV" lemma="nagle" msd="adv:pos">nagle</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:gen:f:ter:akc:npraep">jej</w>
+<w pos="NOUN" lemma="głos" msd="subst:sg:acc:m3">głos</w>
+<w pos="ADJ" lemma="altowy" msd="adj:sg:acc:m3:pos">altowy</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="ADJ" lemma="piąty" msd="adj:sg:loc:m3:pos">piątym</w>
+<w pos="NOUN" lemma="rok" msd="subst:sg:loc:m3">roku</w>
+<w pos="DET" lemma="nasz" msd="adj:sg:gen:n:pos">naszego</w>
+<w pos="NOUN" lemma="pożyć" msd="subst:sg:gen:n:ncol">pożycia</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="to" msd="part">To</w>
+<w pos="NOUN" lemma="pani" msd="subst:sg:nom:f">pani</w>
+<w pos="VERB" lemma="pchnąć" msd="praet:sg:f:perf">pchnęła</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:acc:m1:ter:nakc:npraep">go</w>
+<w pos="ADP" lemma="w" msd="prep:acc:nwok">w</w>
+<w pos="NOUN" lemma="objąć" msd="subst:pl:acc:n:ncol">objęcia</w>
+<w pos="NOUN" lemma="śmierć" msd="subst:sg:gen:f">śmierci</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="senior" msd="subst:sg:gen:n:ncol">seniora</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:m1:perf">odpowiedział</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="PART" lemma="niemal" msd="part">niemal</w>
+<w pos="ADV" lemma="surowo" msd="adv:pos">surowo</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Skądże ten prokuratorski ton? — zapytała, lekko
+uderzając mnie końcem swej płomienistej umbrella. — Niech
+się pan nie zapomina. Zresztą on umierał w ekstazie najwyższego szczęścia, umierał dla mnie i przeze mnie. Czyż
+nie pięknie?</p>
+<p>Potwór czy obłąkana? — pomyślałem, lecz spojrzawszy
+na nią, zapomniałem zupełnie o kategoriach etycznych
+i chłonąłem tylko diaboliczną jej piękność. A ona tymczasem opowiadała głosem równym i spokojnym, jak gdyby
+chodziło o kogoś znanego jej tylko ze słyszenia:</p>
+<p>— Przyszło do tego niespodziewanie. Tak niespodzianie, tak znienacka, jak bywa nieraz ze szczęściem lub
+śmiercią. I właśnie w tym widzę najpiękniejszy motyw tej
+historii. Bo chyba przyzna pan, że zasługuję na to, by życie moje obfitowało w momenty wyjątkowe.</p>
+<p>I popatrzyła na mnie wyzywająco. Była za piękna, by
+nie przyznać jej racji. Więc spuściłem milcząco głowę i słuchałem dalej.</p>
+<p>— W jedną z tych nocy księżycowych, rozełkanych mandolinami nocy weneckich, rzekł don Antonio de Orpega,
+tuląc roznamiętnioną twarz pomiędzy wzgórza mych
+piersi:</p>
+<p>— Dałaś mi najwyższe szczęście tej nocy, Inezo; nie
+wiem, czy zdołam je przeżyć do brzasku rana.</p>
+<p>— Cha, cha, cha! — zaśmiałam się lekkomyślnie, pieszcząc ręką jego męską urodę. — Jesteś patetyczny, mój
+piękny małżonku!</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="nie" msd="part">Nie</w>
+<w pos="VERB" lemma="wierzyć" msd="fin:sg:sec:imperf">wierzysz</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Inezo" msd="subst:sg:nom:m1">Inezo</w>
+</rs>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>— Nie wierzę, Antonio. Zbyt mnie pożądasz, by tak
+łatwo przyszło ci teraz rozstawać się z życiem.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="nie" msd="part">Nie</w>
+<w pos="VERB" lemma="wierzyć" msd="fin:sg:sec:imperf">wierzysz</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="zapytać" msd="praet:sg:m1:perf">zapytał</w>
+<w pos="ADV" lemma="powtórnie" msd="adv:pos">powtórnie</w>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">z</w>
+<w pos="NOUN" lemma="odcień" msd="subst:sg:inst:n:ncol">odcieniem</w>
+<w pos="NOUN" lemma="obłąkać" msd="subst:sg:gen:n:ncol">obłąkania</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="DET" lemma="swój" msd="adj:pl:loc:n:pos">swych</w>
+<w pos="ADJ" lemma="śliczny" msd="adj:pl:loc:n:pos">ślicznych</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADJ" lemma="zapomnieć" msd="adj:pl:loc:n:pos">niezapomnianych</w>
+<w pos="NOUN" lemma="oko" msd="subst:pl:loc:n:col">oczach</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="chodzić" msd="impt:sg:sec:imperf">Chodź</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:gen:m1:pri:akc">mnie</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Antonio" msd="subst:sg:voc:f">Antonio</w>
+</rs>
+<pc pos="PUNCT" lemma=";">;</pc>
+<w pos="PART" lemma="wszak" msd="part">wszak</w>
+<w pos="AUX" lemma="być" msd="fin:pl:pri:imperf">jesteśmy</w>
+<w pos="PART" lemma="tylko" msd="part">tylko</w>
+<w pos="NOUN" lemma="człowiek" msd="subst:pl:inst:m1:pt">ludźmi</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="CCONJ" lemma="tylko" msd="conj">tylko</w>
+<w pos="NOUN" lemma="para" msd="subst:sg:inst:f">parą</w>
+<w pos="ADJ" lemma="spragniony" msd="ppas:pl:gen:f:perf:aff">spragnionych</w>
+<w pos="PRON" lemma="siebie" msd="siebie:gen">siebie</w>
+<w pos="NOUN" lemma="kochanka" msd="subst:pl:gen:m3">kochanków</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="SCONJ" lemma="więc" msd="comp">Więc</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:nom:m1:pri">ja</w>
+<w pos="PRON" lemma="ty" msd="ppron12:sg:dat:m1:sec:nakc">ci</w>
+<w pos="VERB" lemma="udowodnić" msd="fin:sg:pri:imperf">udowodnię</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>I wyszedł z sypialni. Po chwili strzał z rewolweru zakończył poemat jego życia. Pięknym człowiekiem był don
+Antonio de Orpega, mój mąż — nieprawdaż, kochany przyjacielu?</p>
+<p>— On panią kochał, jak mało który mężczyzna na Ziemi
+kocha kobietę — odparłem cicho.</p>
+<p>— Tak. To było l'amore altissimo — l'amore supremo.
+I dlatego bał się, by dnia pewnego nie stanąć nad jego grobem; usunął się w porę w cienie zaświatów, bo nie chciał
+przeżyć swego wielkiego uczucia. To był geniusz miłości.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="podziwiać" msd="fin:sg:pri:imperf">Podziwiam</w>
+<w pos="PRON" lemma="wy" msd="ppron12:pl:acc:m1:sec">was</w>
+<w pos="NUM" lemma="oba" msd="num:pl:acc:m1:rec:col">oboje</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+<w pos="NOUN" lemma="namiętność" msd="subst:sg:acc:f">namiętność</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:gen:m1:ter:akc:npraep">jego</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="DET" lemma="twój" msd="adj:sg:nom:m3:pos">twój</w>
+<w pos="NOUN" lemma="obiektywizm" msd="subst:sg:nom:m3">obiektywizm</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="pan" msd="subst:sg:nom:f">pani</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Uczucia moje — rzekła wyniośle — są moją wyłączną
+własnością; wobec osób trzecich uważam za stosowne mówić o tym zdarzeniu jako o dziele sztuki jedynym, wyjątkowym. Zechciej i pan, kochany przyjacielu, patrzeć na nie
+i oceniać je tylko z tego punktu widzenia.</p>
+<p>— Zastosuję się do woli pani, seniora — zresztą pozwoli
+pani zwrócić sobie uwagę na to, że nie prosiłem o zwierzenia.</p>
+<p>I powstałem z ławki. Milcząc wyciągnęła ku mnie rękę
+na znak zgody. Przycisnąłem ją do ust i rzekłem:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADV" lemma="późno" msd="adv:pos">Późno</w>
+<w pos="PART" lemma="już" msd="part">już</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="NOUN" lemma="strażnik" msd="subst:sg:nom:m1">strażnik</w>
+<w pos="VERB" lemma="wzywać" msd="fin:sg:ter:imperf">wzywa</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="NOUN" lemma="opuścić" msd="ger:sg:gen:n:perf:aff">opuszczenia</w>
+<w pos="NOUN" lemma="cmentarz" msd="subst:sg:gen:m3">cmentarza</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="CCONJ" lemma="i" msd="conj">I</w>
+<w pos="ADV" lemma="rzeczywiście" msd="adv:pos">rzeczywiście</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADJ" lemma="zbliżać" msd="pact:sg:nom:m3:imperf:aff">zbliżający</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">z</w>
+<w pos="NOUN" lemma="głębia" msd="subst:sg:gen:f">głębi</w>
+<w pos="NOUN" lemma="aleja" msd="subst:sg:gen:f">alei</w>
+<w pos="DET" lemma="jakiś" msd="adj:sg:nom:m1:pos">jakiś</w>
+<w pos="NOUN" lemma="mężczyzna" msd="subst:sg:nom:m1">mężczyzna</w>
+<w pos="VERB" lemma="dawać" msd="praet:sg:m1:imperf">dawał</w>
+<w pos="PRON" lemma="my" msd="ppron12:pl:dat:m1:pri">nam</w>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">z</w>
+<w pos="ADJ" lemma="daleki" msd="adjp">daleka</w>
+<w pos="NOUN" lemma="znak" msd="subst:pl:acc:m3">znaki</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="tak" msd="part">Tak</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="czas" msd="pred">czas</w>
+<w pos="VERB" lemma="wracać" msd="inf:imperf">wracać</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="przyznać" msd="praet:sg:f:perf">przyznała</w>
+<w pos="ADJ" lemma="zamyślić" msd="adj:sg:nom:f:pos">zamyślona</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="cmentarz" msd="subst:sg:nom:m1">Cmentarz</w>
+<w pos="VERB" lemma="zamykać" msd="fin:pl:ter:imperf">zamykają</w>
+<w pos="ADV" lemma="tu" msd="adv">tu</w>
+<w pos="ADV" lemma="wcześnie" msd="adv:pos">wcześnie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="ADV" lemma="wkrótce" msd="adv">Wkrótce</w>
+<w pos="PART" lemma="znów" msd="part">znów</w>
+<w pos="VERB" lemma="żeglować" msd="praet:pl:m1:imperf">żeglowali</w>
+<w pos="AUX" lemma="być" msd="aglt:pl:pri:imperf:nwok">śmy</w>
+<w pos="NOUN" lemma="gondolić" msd="subst:sg:inst:f">gondolą</w>
+<w pos="ADP" lemma="po" msd="prep:loc">po</w>
+<w pos="NOUN" lemma="laguna" msd="subst:sg:loc:f">lagunie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADV" lemma="dokąd" msd="adv">Dokąd</w>
+<w pos="VERB" lemma="płynąć" msd="fin:pl:pri:perf">płyniemy</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="zapytać" msd="praet:sg:m1:perf">zapytał</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="ślizgać" msd="pcon:imperf">ślizgając</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="NOUN" lemma="spojrzenie" msd="subst:sg:inst:n:ncol">spojrzeniem</w>
+<w pos="ADP" lemma="po" msd="prep:acc">po</w>
+<w pos="ADJ" lemma="rozlewiski" msd="adjp">rozlewisku</w>
+<w pos="NOUN" lemma="woda" msd="subst:sg:acc:m3">wód</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Na Riva degli Schiavoni. Chcę posłuchać z panem
+koncertu orkiestry w „Café Orientale” i śledzić ruch wieczorny przy Molo św. Marka.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADJ" lemma="piękny" msd="adj:sg:nom:f:sup">Najpiękniejsza</w>
+<w pos="NOUN" lemma="partia" msd="subst:sg:nom:f">partia</w>
+<w pos="NOUN" lemma="miasto" msd="subst:sg:gen:n:ncol">miasta</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:m1:perf">odpowiedział</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADV" lemma="nagle" msd="adv:pos">nagle</w>
+<w pos="VERB" lemma="poważnieć" msd="pcon:imperf">poważniejąc</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="VERB" lemma="Trącić" msd="praet:sg:f:perf">Trąciła</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:acc:m1:pri:akc">mnie</w>
+<w pos="NOUN" lemma="wachlarz" msd="subst:sg:inst:m3">wachlarzem</w>
+<w pos="ADP" lemma="w" msd="prep:acc:nwok">w</w>
+<w pos="NOUN" lemma="ramię" msd="subst:sg:acc:n:ncol">ramię</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADV" lemma="skądże" msd="adv">Skądże</w>
+<w pos="AUX" lemma="to" msd="pred">to</w>
+<w pos="ADJ" lemma="nagły" msd="adj:sg:nom:n:pos">nagłe</w>
+<w pos="NOUN" lemma="zamyślenie" msd="subst:sg:nom:n:ncol">zamyślenie</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="cel" msd="subst:sg:nom:m3">Cel</w>
+<w pos="DET" lemma="nasz" msd="adj:sg:gen:f:pos">naszej</w>
+<w pos="NOUN" lemma="jazda" msd="subst:sg:gen:f">jazdy</w>
+<w pos="VERB" lemma="wywołać" msd="praet:sg:m3:imperf">wywołał</w>
+<w pos="ADP" lemma="w" msd="prep:loc:wok">we</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:loc:m1:pri">mnie</w>
+<w pos="ADJ" lemma="smutny" msd="adj:pl:acc:n:pos">smutne</w>
+<w pos="NOUN" lemma="skojarzenie" msd="subst:pl:acc:n:ncol">skojarzenia</w>
+<pc pos="PUNCT" lemma=";">;</pc>
+<w pos="DET" lemma="jaki" msd="adj:sg:acc:n:pos">jakie</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="powiedzieć" msd="fin:sg:pri:perf">powiem</w>
+<w pos="ADP" lemma="na" msd="prep:loc">na</w>
+<w pos="NOUN" lemma="miejsce" msd="subst:sg:loc:n:ncol">miejscu</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Więc dobrze; tymczasem porzuć pan te niewesołe
+medytacje i zachwycaj się krajobrazem.</p>
+<p>Inez miała rację; piękno laguny narzucało się z żywiołową siłą. Właśnie gondola okrążała wschodni cypel Wenecji i minąwszy doki Arsenału, wcisnęła się w kanał między Wyspą św. Piotra a zrębem właściwego miasta. Rozcinana skrzelem wiosła fala chlupotała łagodnie o burty
+łodzi i odtrącona od czarnego jej kadłuba odchodziła w tysiącznych zmarszczach ku brzegom. Gdy mijaliśmy przylądek Punta di Quintavalle, nadszedł skądś wielki, mięsisty fałd wody i zakołysał silnie gondolą. Inez spojrzała zaniepokojona na Beppa.</p>
+<p>— To piroscafo z Torcello w drodze do Ponte del Vin
+rozorał brzuchem lagunę i rzucił nam pod gondolę masę
+wypchniętej przez siebie wody — wyjaśnił przewodnik.</p>
+<p>Wjechaliśmy w czeluść wodną pomiędzy Wyspą św. Heleny a Ogrodami Publicznymi. Z daleka zaczęły dochodzić
+dźwięki muzyki. Po wysypanym żwirem i piaskiem deptaku, który wąską wstęgą owijał się dookoła Punta della
+Motta, przechadzało się kilka par. Z oplotów krzewów na
+szkarpie ogrodowej całowanej bez przerwy przez falę laguny wychylał się silny w wyrazie, brązowy biust Ryszarda
+Wagnera.</p>
+<p>— Trzeba przyznać — zauważyłem — że wybór miejsca nader szczęśliwy. Zdaje się, jak gdyby duch twórcy
+Latającego Holendra wciąż odchodził z falą w zawrotne
+dale…</p>
+<p>Wypłynęliśmy na szerokie wody Canale di S. Marco.
+Przed nami rozwinęła się wspaniała panorama portu. Niezliczona ilość gondol i uskrzydlonych żółtymi lub koloru
+à la terra cotta żaglami łodzi pląsała po lagunowej płani.
+Zewsząd niby ku centralnemu punktowi ciążenia zdążały
+ku przystani statki, łopocząc na wietrze defiladą bander
+i flag. Tu wjeżdżał tryumfalnie od strony porto di Lido
+jakiś kolos morski chlubiący się z daleka barwami Albionu,
+tam po przebyciu bramy wjazdowej z Adrii przy porcie
+w Malamocco wyrastała na horyzoncie zatoki zgrabna jak
+sylfida francuska fregata, ówdzie z cieśniny między Giudeccą a wyspą S. Giorgio Maggiore wysuwał się pasażerski
+parowiec w drodze powrotnej z Chioggii.</p>
+<p>Beppo, obejmując rozmiłowanym spojrzeniem ojczyste
+miasto i lagunę, zanucił nieśmiertelną Santa Lucia. Gondola docierała do molo. Kilka uderzeń wiosła, kilka zwinnych zwrotów wśród labiryntu łódek — i przybiliśmy do
+mostu della Paglia.</p>
+<p>— Beppo — pożegnała gondoliera seniora de Orpega —
+na dziś jesteś wolny. Do domu wrócę stąd pieszo.</p>
+<p>
+<s>
+<w pos="CCONJ" lemma="i" msd="conj">I</w>
+<w pos="ADP" lemma="przy" msd="prep:loc">przy</w>
+<w pos="DET" lemma="mój" msd="adj:sg:loc:f:pos">mojej</w>
+<w pos="NOUN" lemma="pomoc" msd="subst:sg:loc:f">pomocy</w>
+<w pos="VERB" lemma="wyjść" msd="praet:sg:f:perf">wyszła</w>
+<w pos="ADP" lemma="na" msd="prep:acc">na</w>
+<w pos="ADJ" lemma="marmurowy" msd="adj:sg:acc:m3:pos">marmurowy</w>
+<w pos="NOUN" lemma="cokół" msd="subst:sg:acc:m3">cokół</w>
+<w pos="NOUN" lemma="nabrzeże" msd="subst:sg:gen:n:ncol">nabrzeża</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="iść" msd="fin:pl:pri:imperf">Idziemy</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<pc pos="PUNCT" lemma="„">„</pc>
+<rs type="nam_pro_title">
+<w pos="PROPN" lemma="Café" msd="subst:sg:nom:f">Café</w>
+<w pos="ADV" lemma="Orientale" msd="adv:pos">Orientale</w>
+</rs>
+<pc pos="PUNCT" lemma="”">”</pc>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Jak zwykle i tym razem ogarnąłem zachwyconym spojrzeniem śnieżny cud Pałacu Dożów, przesunąłem zamyślone
+oczy po Moście Westchnień, po ponurym bloku Więzień
+Karnych i zatrzymałem je na „tym długim wrębie granitowym, zielonymi poprzerywanym kanałami, białymi mostami pospajanym, gdzie kilka tysięcy okrętów przystań
+miewa” — na Riva degli Schiavoni. I nagle pośród tego przepychu barw i kolorów, pośród tej boskiej rozrzutności
+piękna, dech zapierającej od podziwu i ciągłego zachwytu,
+uczułem ogromny, bezbrzeżny smutek.</p>
+<p>Lecz smutek ten „nie do mnie należał”. Jego żałobne,
+czarne kwefy wysnuły się ku mnie z perspektywy lat ubiegłych, spłynęły falą powrotnych ech z przeżycia wielkiego
+poety-samotnika, który tu, po tym samym brzegu, „pod
+zorzę wieczorną” przechadzał się kiedyś cichy i „w siebie
+pochylon”…</p>
+<p>I gdy potem, zająwszy miejsce u boku pięknej kobiety
+przy jednym ze stolików kawiarnianych, wodziłem olśnionymi od blasków i świateł oczyma po nurzającej się w purpurze zachodu zatoce, przyszły mi znów na pamięć słowa
+zapomnianego poety o tymże miejscu mówiące:</p>
+<quote>
+<p>Tam, o jutrzni we mgłach, odpływają małe statki rybackie… Tam, o południowym świetle widzisz tajemnice
+kolorów Veronesa, Tintoretta, Tycjana… Tam, w blasku
+księżyca znikają okręty w mroku wielkim, a gdzie światło
+miesięczne wysrebrzyło falę, lśniący topór u gondoli dziobu
+przytwierdzony profilem zębatym się określa…</p>
+</quote>
+<p>
+<s>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">Z</w>
+<w pos="NOUN" lemma="zamyślenie" msd="subst:sg:gen:n:ncol">zamyślenia</w>
+<w pos="VERB" lemma="obudzić" msd="praet:sg:m3:perf">obudził</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:acc:m1:pri:akc">mnie</w>
+<w pos="NOUN" lemma="głos" msd="subst:sg:acc:m3">głos</w>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="Ineza" msd="subst:pl:gen:m1">Inezy</w>
+</rs>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>— Teraz może zechce się pan podzielić ze mną niewesołymi refleksjami, które mu podobno nasuwa Riva degli
+Schiavoni. Przypominam obietnicę.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="i" msd="part">I</w>
+<w pos="VERB" lemma="dotrzymać" msd="fin:sg:pri:imperf">dotrzymam</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:dat:f:ter:akc:npraep">jej</w>
+<w pos="ADV" lemma="wiernia" msd="adv:pos">wiernie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Popiłem czarną kawą, zapaliłem papierosa i rzekłem,
+patrząc w stronę Pałacu Dożów:</p>
+<p>— Tędy, tym samym nabrzeżem, co słońcu wschodzącemu bielą marmurów dumnie się uśmiecha, o tej samej
+dnia umierającego godzinie szedł lat temu 83 genialny
+twórca symbolizmu w Europie przed M. Maeterlinckiem,
+zapoznany przez własnych rodaków poeta polski, potomek Sobieskich po kądzieli, Cyprian Kamil Norwid. A towarzyszył mu w tej wieczornej, smutnych przeczuć pełnej promenadzie niejaki Tytus Byczkowski, malarz, Polak również, który nazajutrz rano w czasie kąpieli na Lido „za
+głęboko w fale zaszedł” i niby to przypadkiem utonął.
+Byczkowski miał lat około 60; studiował najpierw w akademii drezdeńskiej, a potem w Monachium, „wszędzie
+łatwo miejscowym tradycjom się poddając z posłuszeństwem słowiańskim szkole każdej — wzór cierpliwości, zaparcia się i pokory”; i dlatego w wigilię swej śmierci
+kończył obraz mały przedstawiający rybaka z dziećmi jego,
+rybaka, co się trudził dzień cały, by pod wieczór trzymać
+„w ręku ułowioną rzecz jedną — muszlę pustą”. Ci tedy
+dwaj polscy wędrownicy, tak niepodobni do siebie — jeden,
+co się twórcą urodził, drugi słowiańskim niewolnikiem —
+przechadzali się wieczorną godziną r. 1844 po wybrzeżu dei
+Schiavoni, „albo jak jeszcze jeden niezatarty zapis się wyraża”: Riva dei Slavi, czyli Wybrzeżu Słowian.</p>
+<p>Rozmawiali o Sztuce, a gdy schodzili już z Ponte della
+Paglia ku piazzetta, Byczkowski zwrócił uwagę na bogactwo inwencji kapitelów, które podpierają Pałac Dożów, dziwnym przypadkiem rozmowę całą na to właśnie
+skierowując, czego brakowało własnej jego twórczości: na
+pomysłowość i oryginalność.</p>
+<p>I wtedy wyjaśnił mu wielki twórca Promethidiona, że
+nieśmiertelnym w Sztuce jest tylko to, co poczęło się w ukochaniu i że prawdziwe piękno
+kształtem jest miłości.</p>
+<p>— A potem, kochany przyjacielu? — przerwała chwilowe
+milczenie Ineza. — A potem?</p>
+<p>— A potem zstąpili na plac św. Marka, gdy był już
+zmierzch i „dokoła pod obiegającym czworobok placu korytarzem zaczynało być gwarno, porozświecały się kawiarnie
+i czekano muzyki przez wojskową kapelę z Czechów zwykle (w owych czasach) złożoną, wykonywanej tu w wieczór”. Do jednej z tych kawiarń, zapewne w podsieniach
+Procuratie Vecchie weszli…</p>
+<p>— A nazajutrz — dokończyła donia — Byczkowski już
+nie żył.</p>
+<p>— Tak. Poszedł na dno — jak córka Hjalmara z Dzikiej
+kaczki Ibsena — zstąpił w głębiny morza, uświadomiwszy
+sobie przedtem rozdzierającą prawdę swego żywota. „Zaiste
+smutny jest ten świat aż do śmierci”…</p>
+<p>Umilkłem i zamyślony patrzyłem na czerniejący u naszych stóp tabor gondol, łodzi i motorówek. Tymczasem
+zmierzchło się zupełnie. Jak na znak dany przez niewidzialną rękę rozjarzyły się nagle elektryczne łuki bań, kloszów i latarń, a od placu św. Marka nadpłynęła serenada
+kapeli: Wenecja uczciła swój wieczór pochwalnym nokturnem. Na lagunie zaczęły tułać się tam i sam błędne ognie
+sygnałów; naprzeciw molo jakiś statek wojenny na kotwicy
+przed basenem wyspy San Giorgio Maggiore, cały we flagach i banderach, święcił imieniny admirała uroczystą iluminacją. Od Punta della Salute, po tamtej stronie kanału,
+wzbijały się pod niebo wrzeciona rakiet, pękały ulewą
+iskier ogniste fontanny i bukiety; na Lido rozbłysła wydłużoną linią świateł i kinkietów wieczorna rampa wybrzeża…</p>
+<p>Oderwałem oczy od zatoki i spotkałem się z badawczym
+spojrzeniem Inezy. Wytrzymałem je spokojnie przez chwilę. Wtem ni stąd, ni zowąd nasunęło mi się pytanie:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="pan" msd="subst:sg:nom:f">Pani</w>
+<w pos="VERB" lemma="wier" msd="fin:sg:ter:imperf">wierzy</w>
+<w pos="ADP" lemma="w" msd="prep:loc:wok">we</w>
+<w pos="NOUN" lemma="wróżba" msd="subst:pl:acc:f">wróżby</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="VERB" lemma="Chwycić" msd="praet:sg:f:perf">Chwyciła</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:acc:m1:pri:akc">mnie</w>
+<w pos="ADP" lemma="za" msd="prep:acc">za</w>
+<w pos="NOUN" lemma="ręka" msd="subst:sg:acc:f">rękę</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:f:perf">odpowiedziała</w>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">z</w>
+<w pos="NOUN" lemma="akcent" msd="subst:sg:inst:m3">akcentem</w>
+<w pos="NOUN" lemma="zdumienie" msd="subst:sg:gen:n:ncol">zdumienia</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>— Skąd panu przyszło to na myśl właśnie w tej chwili?
+Czyżby umiał pan czytać w cudzych duszach?</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="Narzuciło" msd="praet:sg:n:perf">Narzuciło</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:dat:m1:pri:nakc">mi</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="PRON" lemma="to" msd="subst:sg:nom:n:ncol">to</w>
+<w pos="ADV" lemma="jakoś" msd="adv:pos">jakoś</w>
+<w pos="ADV" lemma="tak" msd="adv:pos">tak</w>
+<w pos="ADV" lemma="znienacka" msd="adv">znienacka</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="SCONJ" lemma="że" msd="comp">że</w>
+<w pos="PART" lemma="nie" msd="part">nie</w>
+<w pos="VERB" lemma="móc" msd="praet:sg:m1:imperf:agl">mogł</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="VERB" lemma="oprzeć" msd="inf:perf">oprzeć</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="NOUN" lemma="czas" msd="subst:sg:inst:m3">Czasem</w>
+<w pos="DET" lemma="pewien" msd="adj:pl:nom:f:pos">pewne</w>
+<w pos="NOUN" lemma="myśl" msd="subst:pl:nom:f">myśli</w>
+<w pos="VERB" lemma="nadciągać" msd="fin:pl:ter:imperf">nadciągają</w>
+<w pos="PART" lemma="nie" msd="part">nie</w>
+<w pos="VERB" lemma="wiadomo" msd="pred">wiadomo</w>
+<w pos="ADV" lemma="skąd" msd="adv">skąd</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="ADV" lemma="dlaczego" msd="adv">dlaczego</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="VERB" lemma="Zaprzeczyć" msd="praet:sg:f:perf">Zaprzeczyła</w>
+<w pos="ADV" lemma="żywo" msd="adv:pos">żywo</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>— O nie! Pan się myli w tym wypadku. To ja w tej
+chwili myślałam o starej Cygance z Asturii, która mi wywróżyła przedwczesną śmierć męża.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="a" msd="part">A</w>
+<w pos="SCONJ" lemma="zatem" msd="comp">zatem</w>
+<w pos="NOUN" lemma="myśl" msd="subst:sg:nom:f">myśl</w>
+<w pos="NOUN" lemma="pani" msd="subst:sg:nom:f">pani</w>
+<w pos="VERB" lemma="przenieść" msd="praet:sg:f:perf">przeniosła</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADP" lemma="na" msd="prep:acc">na</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:acc:m1:pri:akc">mnie</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="wyciągnąć" msd="praet:sg:m1:perf">wyciągnął</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="NOUN" lemma="wniosek" msd="subst:sg:acc:m3">wniosek</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Do you know something about painter-medium Luigi Bellotti? — usłyszeliśmy nagle oboje wyraźny fragment rozmowy prowadzonej przy
+sąsiednim stoliku.</p>
+<p>Siedziało tam dwóch mężczyzn: jeden w pepitkowym
+garniturze z monoklem w oku, o charakterystycznych dla
+Anglików rysach starannie wygolonej twarzy, i drugi znacznie słabiej akcentujący swą przynależność szczepową.</p>
+<p>— Też dziwny kaprys przypadku — rzekła donia. —
+Ten wyjątek z dialogu naszych sąsiadów jest jakby dalszym ciągiem interesującego nas właśnie problemu, a równocześnie przypomnieniem dla mnie.</p>
+<p>— Cóż ma wspólnego malarz Bellotti z zajmującą nas
+sprawą? — zapytałem.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="nie" msd="part">Nie</w>
+<w pos="VERB" lemma="słyszeć" msd="praet:sg:m1:imperf">słyszał</w>
+<w pos="NOUN" lemma="pan" msd="subst:sg:nom:m1">pan</w>
+<w pos="ADV" lemma="dotychczas" msd="adv">dotychczas</w>
+<w pos="ADP" lemma="o" msd="prep:loc">o</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:loc:m1:ter:akc:praep">nim</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="nie" msd="part">Nie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Jest to fenomenalne medium, które w transie z zawiązanymi oczyma maluje obrazy naśladujące do złudzenia manierę starych włoskich mistrzów. Czytałam o nim
+niedawno ciekawy artykuł w „La Tribuna”.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="jeszcze" msd="part">Jeszcze</w>
+<w pos="PART" lemma="nie" msd="part">nie</w>
+<w pos="VERB" lemma="widzieć" msd="fin:sg:pri:imperf">widzę</w>
+<w pos="NOUN" lemma="związek" msd="subst:sg:gen:m3">związku</w>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">z</w>
+<w pos="DET" lemma="nasz" msd="adj:sg:inst:f:pos">naszą</w>
+<w pos="NOUN" lemma="rozmowa" msd="subst:sg:inst:f">rozmową</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Zaraz go pan ujrzy. Otóż Bellotti podobno pozostaje
+też w kontakcie z zaświatem i jak sam utrzymuje, słyszy
+od czasu do czasu głosy zmarłych.</p>
+<p>
+<s>
+<w pos="VERB" lemma="spojrzeć" msd="praet:sg:m1:perf">Spojrzał</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">z</w>
+<w pos="NOUN" lemma="odcień" msd="subst:sg:inst:n:ncol">odcieniem</w>
+<w pos="NOUN" lemma="ironia" msd="subst:sg:gen:f">ironii</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="pani" msd="subst:sg:nom:f">Pani</w>
+<w pos="VERB" lemma="wierzyć" msd="fin:sg:ter:imperf">wierzy</w>
+<w pos="ADP" lemma="w" msd="prep:acc:nwok">w</w>
+<w pos="DET" lemma="ten" msd="adj:pl:acc:f:pos">te</w>
+<w pos="NOUN" lemma="bajeczka" msd="subst:pl:acc:f">bajeczki</w>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">z</w>
+<pc pos="PUNCT" lemma="„">„</pc>
+<w pos="NOUN" lemma="duch" msd="subst:pl:inst:m3">duchami</w>
+<pc pos="PUNCT" lemma="”">”</pc>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>— Więc nazwijmy to usymbolizowaniem podświadomej
+jaźni samego medium, jeśli pan woli. W każdym razie po
+przeczytaniu artykułu w „La Tribuna” postanowiłam odwiedzić p. Bellottiego. Spodziewam się, że mi coś powie
+o mojej przyszłości za pośrednictwem swych „głosów”.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="INTJ" lemma="ach" msd="interj">Ach</w>
+<w pos="ADV" lemma="tak" msd="adv:pos">tak</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADV" lemma="teraz" msd="adv">teraz</w>
+<w pos="VERB" lemma="rozumieć" msd="fin:sg:pri:imperf">rozumiem</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="AUX" lemma="to" msd="pred">to</w>
+<w pos="PART" lemma="też" msd="part">też</w>
+<w pos="NOUN" lemma="rodzaj" msd="subst:sg:nom:m3">rodzaj</w>
+<w pos="NOUN" lemma="wróżba" msd="subst:sg:gen:f">wróżby</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Rozmowa tych dwóch panów przypomniała mi zamiar, który uskutecznię w najbliższych dniach. Pan pójdzie
+tam ze mną, nieprawdaż?</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADV" lemma="jak" msd="adv:pos">Jak</w>
+<w pos="PART" lemma="to" msd="part">to</w>
+<w pos="VERB" lemma="pójść" msd="fin:sg:pri:perf">pójdę</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+<s>
+<w pos="PART" lemma="czy" msd="part">Czy</w>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Bellotti" msd="subst:sg:nom:n:ncol">Bellotti</w>
+</rs>
+<w pos="VERB" lemma="mieszkać" msd="fin:sg:ter:imperf">mieszka</w>
+<w pos="ADV" lemma="tu" msd="adv">tu</w>
+<w pos="ADV" lemma="gdzieś" msd="adv">gdzieś</w>
+<w pos="ADV" lemma="niedaleko" msd="adv:pos">niedaleko</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>— Przebywa stale w Wenecji: mieszka przy calle della
+Rosa. Więc będzie mi pan towarzyszył?</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">Z</w>
+<w pos="ADJ" lemma="prawdziwy" msd="adj:sg:inst:f:pos">prawdziwą</w>
+<w pos="NOUN" lemma="przyjemność" msd="subst:sg:inst:f">przyjemnością</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="ADP" lemma="od" msd="prep:gen:nwok">Od</w>
+<w pos="DET" lemma="pewien" msd="adj:sg:gen:m3:pos">pewnego</w>
+<w pos="NOUN" lemma="czas" msd="subst:sg:gen:m3">czasu</w>
+<w pos="VERB" lemma="widzieć" msd="fin:sg:pri:imperf">widzę</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="ADV" lemma="jak" msd="adv:pos">jak</w>
+<w pos="VERB" lemma="rozwijać" msd="fin:sg:ter:imperf">rozwija</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADP" lemma="przed" msd="prep:inst:wok">przede</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:inst:m1:pri">mną</w>
+<w pos="VERB" lemma="wstęgać" msd="fin:sg:ter:imperf">wstęga</w>
+<w pos="ADJ" lemma="niezwykły" msd="adj:pl:gen:n:pos">niezwykłych</w>
+<w pos="NOUN" lemma="zdarzenie" msd="subst:pl:gen:n:ncol">zdarzeń</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Tak bywa w życiu, że po okresie szarzyzny i codzienności następuje seria zajść wyjątkowych. Mnie np. jakiś
+głos wewnęrzny mówi, że żyję w przededniu decydujących
+o moim losie wypadków. Kto wie, może zawarcie znajomości z panem, signor Polacco, jest pierwszym ogniwem w ich
+łańcuchu.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="nie" msd="part">Nie</w>
+<w pos="VERB" lemma="przypuszczać" msd="fin:sg:pri:imperf">przypuszczam</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="odeprzeć" msd="praet:sg:m1:perf">odparł</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">z</w>
+<w pos="NOUN" lemma="uśmiech" msd="subst:sg:inst:m3">uśmiechem</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="być" msd="praet:sg:n:imperf">Było</w>
+<w pos="AUX" lemma="by" msd="part">by</w>
+<w pos="PRON" lemma="to" msd="subst:sg:nom:n:ncol">to</w>
+<w pos="ADP" lemma="dla" msd="prep:gen">dla</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:gen:m1:pri:akc">mnie</w>
+<w pos="ADV" lemma="zbyt" msd="adv">zbyt</w>
+<w pos="ADJ" lemma="pochlebny" msd="adj:sg:nom:n:pos">pochlebne</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Co za skromność! Nie wierzę w nią ani trochę. Wy,
+mężczyźni, wszyscy jesteście urodzonymi obłudnikami
+w stosunku do nas.</p>
+<p>I zaatakowała mnie brylantami swych oczu. Tak na rozmowie upłynął nam wieczór i nie spostrzegliśmy się nawet, jak wskazówki kawiarnianego zegara przesunęły się
+na godzinę dziesiątą.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="pora" msd="subst:sg:nom:m1">Por</w>
+<w pos="PROPN" lemma="Dios" msd="subst:sg:nom:m1">Dios</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="zawołać" msd="praet:sg:f:perf">zawołała</w>
+<w pos="ADV" lemma="nagle" msd="adv:pos">nagle</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="orientować" msd="pcon:imperf">orientując</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="NOUN" lemma="czas" msd="subst:sg:loc:m3">czasie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="pora" msd="pred">Pora</w>
+<w pos="VERB" lemma="wracać" msd="inf:imperf">wracać</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="NOUN" lemma="dom" msd="subst:sg:gen:m3">domu</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>I poszliśmy najpierw rivą, potem przez molo, otarliśmy
+się o tłum zalegający piazzettę i marmurowy czworobok
+przed kościołem św. Marka, aż przeszedłszy popod łukiem
+Torre dell'Orologio, zboczyliśmy na Merceria.</p>
+<p>Mimo spóźnionej godziny miasto tętniło pełnią życia.
+Zdawało się nawet, że puls jego bije teraz silniej niż za
+dnia pod prażącymi promieniami słońca. Z pootwieranych
+sklepów, kawiarń i restauracji biła łuna świateł i załamywała się tajemniczo w czarnych wodach kanałów i kanalików. Lokatorowie, kupcy, dozorcy domów i przekupnie,
+zwłaszcza kobiety i dzieci, wylegli z dusznych nasiąkniętych skwarem mieszkań i obsiedli bramy i wejścia —
+punkty obserwacyjne nocnego ruchu i ogniska — kuźnie
+małomiasteczkowych plotek. Bo Wenecja — ta śliczna,
+przez świat kulturalny podziwiana Wenecja, ze swoimi pałacami, muzeami i galeriami jest mimo wszystko prowincją. I w tym może jej szczególny urok. Właśnie w tym
+jedynym zestrojeniu wysokiej kultury wieków z prostotą
+i bezpretensjonalnością małego miasta. Dlatego cudzoziemiec czuje się w Wenecji lepiej niż np. we Florencji lub
+Rzymie, gdzie przygniatają go chwilami monumentalność
+i kulturalna „oficjalność” środowiska. I ja ukochałem głęboko perłę Adriatyku właśnie za jej „desinwolturę”. Mimo
+swą nieporównaną piękność Wenecja pozwalała mi czuć się
+sobą i nie zmuszała do sztucznej i męczącej odświętności.</p>
+<p>Dzieląc się wzajemnie uwagami i spostrzeżeniami na
+temat miasta lagun, minęliśmy linię Ponte Rialto, teatr
+Malibran, Scuola dell'Angelo Custode i weszliśmy na
+zawsze rojną calle Vittorio Emanuele.</p>
+<p>— Jak to dobrze — rzekła Ineza — że nie ma tu nigdzie
+miejsca dla aut, tej plagi XX wieku. To cudne miasto leczy
+mi corocznie przez dwa miesiące moje potargane nerwy.</p>
+<p>Przez calle di Traghetto zapuściliśmy się w system
+ciasnych, poprzecznych uliczek uchodzących ku Canal
+Grande. Tu było znacznie ciszej: ruch nocny, ześrodkowany
+w arteriach ulic Wiktora Emanuela i Lista di Spagna, odzywał się w tych nadbrzeżnych odgałęzieniach silnie zmatowanym podźwiękiem. Tylko tu i tam przesunęła się półmrocznym parowem kamienic postać samotnego przechodnia, tu i tam przemknął na przełaj jakiś kot wychudły
+i zdziczały.</p>
+<p>U wylotu jednego z tych zaułków, w tzw. calle dei Preti,
+czyli uliczce Księżej, bawiła się pod murem domu grupa
+dzieciaków. Płonąca nad bramą latarnia obejmowała je
+kręgiem niedokrwistych blasków i z trudem przenoszącym
+jej siły obdzielała światłem sąsiedni placyk. Nagle wśród
+dzieci powstał popłoch; zamarła na ustach przerwana w połowie piosenka, opadły połączone w korowód taneczny ręce, a wątłe, wynędzniałe postacie przywarły szeregiem do
+ściany domu.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADJ" lemma="donny" msd="adj:sg:nom:f:pos">Donna</w>
+<w pos="PROPN" lemma="Rotondo" msd="subst:sg:nom:f">Rotonda</w>
+<w pos="VERB" lemma="pass" msd="fin:sg:ter:imperf">passa</w>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+<s>
+<rs type="nam_liv_person">
+<w pos="ADJ" lemma="donny" msd="adj:sg:nom:f:pos">Donna</w>
+<w pos="NOUN" lemma="Rotondo" msd="subst:sg:nom:f">Rotonda</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="usłyszeć" msd="praet:pl:m1:perf">usłyszeli</w>
+<w pos="AUX" lemma="być" msd="aglt:pl:pri:imperf:nwok">śmy</w>
+<w pos="ADJ" lemma="trwożny" msd="adj:pl:acc:m3:pos">trwożne</w>
+<w pos="NOUN" lemma="szept" msd="subst:pl:acc:m3">szepty</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Na czworobok placyku między uliczkami padł fantastycznie wydłużony cień kobiety, która nadchodziła z głębi
+przyległego zaułka. Była wysoka i trzymała się sztywnie
+jak kolumna. Kapelusz dzwonowy à la Lindbergh nasunięty do pół czoła z przystułkami na policzkach i podpinką
+na szyi okrywał tak szczelnie jej głowę, że sprawiał wrażenie hełmu z uchyloną lekko przyłbicą: z małego prostokątnego wykroju pozostawionego z przodu wyglądał tylko
+fragment śnieżnobiałej, jakby mrozem ściętej twarzy
+o drobnych, zaciętych ustach: fragmentu tego nieruchomego i surowego jak mumia lub maska tragiczna nie ożywiało żadne spojrzenie; bo oczy osłaniał starannie zapuszczony na brwi brzeg górny kapelusza. I gdyby nie pewność i stanowczość jej ruchów, można by było przypuszczać, że Donna Rotonda jest ślepą.</p>
+<p>Dziwaczność powierzchowności potęgował jeszcze strój
+niemodny, staroświecki: stanik obcisły z bufiastymi rękawami barwy przepalonego piasku i takiegoż koloru suknia
+na krynolinie. Ta suknia przydługa i szeroka jak umbra,
+zapylona i postrzępiona nielitościwie, której zapewne zawdzięczała Rotonda swe smutno-śmieszne przezwisko, wlokła się za nią po ziemi z cichym, charakterystycznym szelestem.</p>
+<p>Wyprostowana i zimna jak stela grobowa, przeszła
+krokiem równym, spokojnym, trzymając oburącz na prawym ramieniu wysmukłe naczynie, podobne do greckiej
+amfory.</p>
+<p>— To obłąkana — objaśniła Ineza, gdy Rotonda zniknęła za węgłem kościoła. — Mieszka tu gdzieś w pobliżu.
+Spotykam ją czasami. Nie bardzo miłe sąsiedztwo.</p>
+<p>— Donna Rotonda — powtórzyłem zamyślony. — Okrągła Pani. Nie dziwię się wcale, że wywołuje taki popłoch
+wśród dzieci. Jest w tej nieszczęśliwej coś niepokojącego.
+Przeszła mimo jak symbol cierpienia i śmieszności splecionych w tragiczny węzeł.</p>
+<p>— I ja nie lubię spotykać jej na swej drodze — zwierzyła mi się cicho Ineza, przyciskając silniej me ramię. —
+Omijam ją z daleka… Lecz jestem już u siebie. Buena noche, caballero! Hasta luego!</p>
+<p>Wyjęła z torebki klucz i włożyła go w zamek małych
+niepozornych drzwi, stanowiących boczne wejście do pałacyku od strony lądu. Przywarłem ustami do jej ręki na
+długą chwilę. Cofnęła ją łagodnie i znikła w głębi domu.</p>
+<p>Pozostałem sam u wylotu tonącej w półmroku uliczki.
+O parę kroków ode mnie pluskały o stopnie schodni wody
+Canal Grande, w głębi, na rogu dogorywała latarnia. Powoli odszedłem ku miastu, zapuszczając się w błędnik ulic,
+uliczek i zaułków. Nie spieszyło mi się do domu. Ciepła,
+lipcowa noc usposabiała do romantycznej włóczęgi. Rozmarzony przeżyciami dnia, długo jeszcze wałęsałem się jak
+lunatyk pomiędzy wąwozami kamienic, w krzyżowej matni
+weneckich rughe i rughette, corti, salizzade, sottoportici,
+rami, rioterrà i sacche. Aż znużony wędrówką i syt nastroju znalazłem się w końcu pod bramą mej cichej gospody w zaułku zwanym calle di Priuli.</p>
+<p>Ostatnim wrażeniem, które nawiedziło mnie tuż przed
+zaśnięciem, był tajemniczy a charakterystyczny szelest.
+Lecz źródło jego nie płynęło z rzeczywistości; było to uparte
+wspomnienie szelestu, jaki wydawała suknia Donny Rotondy w zetknięciu z brukiem uliczki dei Preti…</p>
+<quote>
+<p>
+<s>
+<w pos="ADJ" lemma="15" msd="adj:sg:gen:m3:pos">15</w>
+<w pos="NOUN" lemma="lipiec" msd="subst:sg:gen:m3">lipca</w>
+</s>
+</p>
+
+</quote>
+<p>Parę dni temu byliśmy z Inezą u Luigi Bellottiego przy
+calle della Rosa. Wizyta ta wywarła na nas obojgu głębokie
+wrażenie; dotychczas nie możemy się z niego otrząsnąć.</p>
+<p>Na powitanie wyszedł nam mężczyzna niespełna 30-letni,
+szczupły, bardzo blady, o szerokim, wydatnym czole i podłużnym owalu twarzy, w którego ponurym spojrzeniu błąkały się jeszcze błyski niedawnej ekstazy. Jakoż, jak sam
+potem wyznał, był właśnie po świeżo odbytym „seansie”
+z jakimś francuskim profesorem, który przyjechał doń specjalnie dla eksperymentów z Paryża.</p>
+<p>Przypuszczając, że chcemy obejrzeć jego obrazy, z wielką
+uprzejmością oprowadzał nas po swym atelier i pokazywał
+parę pejzaży naśladujących do złudzenia manierę Segantiniego oraz kilka płócien podpisanych nazwiskami Ciardiego i Maggiolego. Zapytany przeze mnie, jak sobie tłumaczy swe niezwykłe zdolności, oświadczył bez wahania,
+że uważa się za narzędzie zmarłych artystów, którzy kierują jego ręką.</p>
+<p>— Badacze zjawisk tej kategorii, którzy urządzają z panem naukowe seanse, podobno zapatrują się na to trochę
+odmiennie — zrobiłem oględną uwagę.</p>
+<p>— Wiem o tym — odpowiedział — lecz nie podzielam
+ich zdania, a moje doświadczenie wewnętrzne przyznaje mi
+rację.</p>
+<p>Gdy mu wyjaśniłem cel naszej wizyty, uśmiechnął się
+i rzekł:</p>
+<p>— Wątpię bardzo, czy uda mi się spełnić życzenie państwa; nie zajmuję się mantyką, a głosy, które czasami
+słyszę, nie odsłaniają przede mną niczyjej przyszłości. Przynajmniej tak było dotychczas. Mimo to spróbuję wprawić
+się w trans, któremu nadam specjalny kierunek przez nawiązanie łączności zeseniorą. Proszę o jakiś przedmiot,
+którzy należy do pani od dłuższego czasu.</p>
+<p>Inez podała mu obrączkę. Włożył ją na mały palec swej
+lewej ręki i usiadłszy we fotelu obok sztalugi ze świeżo
+rozpiętym płótnem, zawiązał sobie oczy czarną przepaską.</p>
+<p>— Teraz proszę o parę minut bezwzględnej ciszy —
+rzekł, pochylając się trochę ku przodowi.</p>
+<p>Usiedliśmy z Inezą obok siebie na sofie i nie spuszczaliśmy zeń oczu. W atelier zapadło głuche milczenie. Słyszałem wyraźnie szmer miasta, przesiąkający do wnętrza przez
+otwarte okno, i tykanie zegara na przeciwległej ścianie.
+Inez nerwowo ściakała mi rękę. Tak upłynęło 10 minut.</p>
+<p>Nagle Bellotti chwycił za pędzel i paletę i zaczął malować. Na palcach podeszliśmy do sztalugi, by śledzić przebieg pracy. Postępowała w tempie nadzwyczaj szybkim,
+tak że wkrótce można było zorientować się w treści obrazu.</p>
+<p>W poprzek płótna rozwinęła się stalowobłękitna szarfa
+wzburzonej rzeki. Na prawym jej brzegu rozsiadło się jakieś
+wielkie miasto, na lewym nieprzejrzane morze mgieł. Pomiędzy oboma brzegami rozpiął się łuk mostu. Dziwny to był
+most! Lewe jego przęsło wypadające z wężowiska mgły i oparów zdało się być ich widmowym przedłużeniem: było jak
+one, mgliste i zatarte; prawe, od miasta kwitnącego biegnące, tchnęło tężyzną i wyrazistością określonych kształtów.</p>
+<p>Na tym moście spotkało się dwoje ludzi: z morza mgieł
+wyszedł mężczyzna, ze strony przeciwnej kobieta. Poznaliśmy ich. To widmo don Antonia de Orpega i obłąkana
+Rotonda zeszli się na rubieży dwóch światów. Stanęli na
+środku mostu i podali sobie dłonie, jakby na znak przymierza…</p>
+<p>Obraz był skończony. Malarz odłożył pędzel i zaczął
+mówić monotonnie i sennie:</p>
+<p>— Słyszę głos z lewej: „Zawarliśmy pakt, siostro w cierpieniu. Związani braterstwem bólu, oboje ofiary wielkich
+namiętności, schodzimy się tu, na pograniczu życia i śmierci, dziś po raz ostatni. Bo godzina twoja już się zbliża, siostro. Człowiek, który ma się stać łącznikiem między nią
+a tobą, już nadszedł. Pamiętaj, siostro, pamiętaj!…”</p>
+<p>Bellotti wyczerpany opadł w ramiona fotelu. Staliśmy
+w milczeniu, wpatrzeni w enigmatyczny obraz, odtwarzając w myśli ciemne słowa interpretacji…</p>
+<p>Wtem Bellotti chwycił ponownie za pędzel i kilku energicznymi pociągnięciami przekreślił swe dzieło; zmąciły
+się kontury, zlały barwy i miejsce zajęła kakofonia plam:
+wszystko zniknęło jak wizja.</p>
+<p>Malarz zerwał z oczu opaskę i oddając Inezie obrączkę,
+zapytał:</p>
+<p>— Cóż? Czy w tym, co namalowałem lub co mówiłem,
+znaleźliście państwo jaką wskazówkę na przyszłość?</p>
+<p>
+<s>
+<w pos="VERB" lemma="opowiedzieć" msd="praet:sg:m1:perf">Opowiedział</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:dat:m1:ter:nakc:npraep">mu</w>
+<w pos="NOUN" lemma="treść" msd="subst:sg:acc:f">treść</w>
+<w pos="NOUN" lemma="obraz" msd="subst:sg:gen:m3">obrazu</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="VERB" lemma="powtórzyć" msd="praet:sg:m1:perf">powtórzył</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:gen:m1:ter:akc:npraep">jego</w>
+<w pos="NOUN" lemma="słowo" msd="subst:pl:acc:n:ncol">słowa</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="VERB" lemma="pochylić" msd="praet:sg:m1:perf">Pochylił</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="NOUN" lemma="zamyślenie" msd="subst:sg:loc:m3">zamyśleniu</w>
+<w pos="NOUN" lemma="głowa" msd="subst:sg:acc:f">głowę</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="VERB" lemma="zwrócić" msd="praet:sg:m1:perf">zwrócił</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="Ineza" msd="subst:sg:gen:f">Inezy</w>
+</rs>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="pani" msd="subst:sg:nom:f">Pani</w>
+<w pos="AUX" lemma="być" msd="fin:sg:ter:imperf">jest</w>
+<w pos="NOUN" lemma="wdowy" msd="subst:sg:inst:f">wdową</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="senior" msd="subst:pl:nom:n:ncol">seniora</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="tak" msd="part">Tak</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="pan" msd="subst:sg:voc:m1">panie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="NOUN" lemma="obrączka" msd="subst:sg:nom:f">Obrączka</w>
+<w pos="SCONJ" lemma="więc" msd="comp">więc</w>
+<w pos="VERB" lemma="uwarunkować" msd="praet:sg:f:perf">uwarunkowała</w>
+<w pos="NOUN" lemma="wizja" msd="subst:sg:acc:f">wizję</w>
+<w pos="NOUN" lemma="nieboszczyek" msd="subst:sg:gen:n:ncol">nieboszczyka</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Lecz skąd się wzięła postać Donny Rotondy? —
+wmieszałem się do rozmowy. — I jaki może mieć ona
+związek ze śp. mężem seniory?</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="może" msd="part">Może</w>
+<w pos="NOUN" lemma="pani" msd="subst:sg:nom:f">pani</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="ADJ" lemma="ostatni" msd="adj:pl:loc:m3:pos">ostatnich</w>
+<w pos="NOUN" lemma="czas" msd="subst:pl:loc:m3">czasach</w>
+<w pos="VERB" lemma="myśleć" msd="praet:sg:f:imperf">myślała</w>
+<w pos="ADP" lemma="o" msd="prep:loc">o</w>
+<w pos="DET" lemma="ten" msd="adj:sg:loc:f:pos">tej</w>
+<w pos="ADJ" lemma="nieszczęśliwy" msd="adj:sg:loc:f:pos">nieszczęśliwej</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="rzucić" msd="praet:sg:m1:perf">rzucił</w>
+<w pos="NOUN" lemma="przypuścić" msd="subst:sg:acc:n:ncol">przypuszczenie</w>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Bellotti" msd="subst:sg:acc:m3">Bellotti</w>
+</rs>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Rzeczywiście — odpowiedziała — spotkaliśmy ją
+oboje niedawno na ulicy w porze wieczornej. Spotkanie to,
+nie wiem dlaczego, sprawiło na mnie bardziej przykre niż
+zwykle wrażenie i myślałam tej nocy o obłąkanej dłużej
+może, niż należało.</p>
+<p>— Wszystko to jednak — zauważyłem — nie tłumaczy
+jeszcze symbolizmu schadzki i treści rozmowy.</p>
+<p>
+<s>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Bellotti" msd="subst:sg:nom:n:ncol">Bellotti</w>
+</rs>
+<w pos="VERB" lemma="rozkrzyżować" msd="praet:sg:m3:imperf">rozkrzyżował</w>
+<w pos="ADV" lemma="bezradnie" msd="adv:pos">bezradnie</w>
+<w pos="NOUN" lemma="ramię" msd="subst:pl:acc:n:ncol">ramiona</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>— Nie wiem, nic nie wiem — powtórzył parę razy. —
+Byłem w owej chwili tylko narzędziem sił nieznanych:
+a może — a może tylko ich igraszką…</p>
+<p>
+<s>
+<w pos="VERB" lemma="Podziękować" msd="praet:pl:m1:imperf">Podziękowali</w>
+<w pos="AUX" lemma="być" msd="aglt:pl:pri:imperf:nwok">śmy</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="ADJ" lemma="zamyślić" msd="ppas:pl:nom:m1:perf:aff">zamyśleni</w>
+<w pos="VERB" lemma="zejść" msd="praet:pl:m1:perf">zeszli</w>
+<w pos="AUX" lemma="być" msd="aglt:pl:pri:imperf:nwok">śmy</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="NOUN" lemma="gondola" msd="subst:sg:gen:f">gondoli</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Wieczór dnia tego spędziłem z Inezą w Giardini Publici.
+Tutaj, w zaciszu parku, w obliczu kolumn greckich jednego
+z pawilonów Sztuki spłynęła na mnie łaska pierwszego jej
+pocałunku: a w parę godzin później tuliłem ją w swoich
+objęciach w jednej z komnat starego, czasy dożów pamiętającego pałacu.</p>
+<p>— Stało się — mówiła do mnie, słodko przeciągając swe
+cudne, smagłe ciało na tle średniowiecznego łoża pod baldachimem. — Nie mogłam opierać się dłużej: przyszedłeś
+jak przeznaczenie…</p>
+<p>Gdy odurzony miłosnym czadem i nie wierzący własnemu szczęściu wymykałem się z jej domu bocznym wyjściem, biła północ. Chwiejnym krokiem zagłębiłem się pomiędzy zaułki. Na zakręcie calle della Misericordia zaszła
+mi drogę Donna Rotonda. Gdyśmy się mijali, podniosła
+głowę, jak gdyby chcąc odczytać godzinę na kościelnym
+zegarze. Wtedy ujrzałem jej oczy. Są ciemnofiołkowe, z odcieniem stali i beznadziejnie smutne. Piękne oczy…
+</p>
+<quote>
+<p>
+<s>
+<w pos="ADJ" lemma="10" msd="adj:sg:gen:m3:pos">10</w>
+<w pos="NOUN" lemma="sierpień" msd="subst:sg:gen:m3">sierpnia</w>
+</s>
+</p>
+
+</quote>
+<p>Od miesiąca już jestem szczęśliwym, nadludzko szczęśliwym kochankiem donii Inez de Torre Orpega. Ta kobieta jest stokroć piękniejsza i bardziej wyrafinowana, niż
+przypuszczałem. Jest mistrzynią w sztuce kochania. A przy
+tym zawsze umie zachować estetyczny umiar i nie popada
+nigdy w pospolite wyuzdanie.</p>
+<p>Od miesiąca żyjemy jak para rozkochanych półbogów,
+nie bardzo zważając na otoczenie i niewiele sobie robiąc
+z ludzkiej opinii. Dnie poświęcamy wycieczkom. Codziennie
+przeprawiwszy się na Lido, kąpiemy się w morzu, a potem
+zwiedzamy osobliwości laguny. Obejrzeliśmy już fabryki
+szkła na Murano i sławną szkołę koronczarską na wyspie
+Burano, rozmawialiśmy z rybakami w cieniu uroczych winnic Torcello i spędziliśmy parę pięknych godzin w cyprysowych gajach wyspy S. Francesco del Deserto. Takie są
+nasze dnie. Lecz nie oddałbym za nie wszystkie ani jednej
+z naszych nocy. Bo noce nasze są podobne do czarownych
+baśni Wschodu, w których marzenie haftuje tęczowe miraże na kanwie wciąż zapominanej rzeczywistości. W egzotycznych parkach miłości naszej opalizują światła alabastrowych lamp, zatopione w senną posrebrz księżyca kołyszą się na gałęziach rzadkie, złotopióre ptaki i suną po
+cichych wodach zakochane łabędzie.</p>
+<p>Błogosłowioną niech będzie noc na wyspie Chioggi, jedyna noc, którą wolna nam było spędzić aż do rana pod
+jednym dachem w charakterze małżonków.</p>
+<p>— Un letto matrimoniale, signore? — zabrzmiało
+u wstępu pytanie uprzejmego hotelarza — pytanie w tonie
+tak naturalne i oczywiste, że wykluczało jakiekolwiek
+wątpliwości.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PROPN" lemma="Si" msd="subst:sg:nom:m1">Si</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="signory" msd="subst:sg:nom:n:ncol">signore</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="un" msd="subst:sg:nom:m3">un</w>
+<w pos="ADJ" lemma="letto" msd="adj:sg:nom:m3:pos">letto</w>
+<w pos="ADV" lemma="matrimoniał" msd="adv:pos">matrimoniale</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:m1:perf">odpowiedział</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="CCONJ" lemma="i" msd="conj">I</w>
+<w pos="VERB" lemma="wziąć" msd="imps:perf">wzięto</w>
+<w pos="PRON" lemma="my" msd="ppron12:pl:acc:m1:pri">nas</w>
+<w pos="ADP" lemma="za" msd="prep:acc">za</w>
+<w pos="NOUN" lemma="małżeństwo" msd="subst:sg:acc:n:ncol">małżeństwo</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Nie wiem, czy ta mimo woli narzucona nam rola, czy
+też malowniczy smętek przystani w porze wieczorowej
+nastroiły Inezę na nutę głębokiego liryzmu, który nocy
+owej roztopił w sobie nawet szlachetny kruszec jej namiętności. Gdy wśród pocałunków i pieszczot wziąłem ją z łoża i chodząc po sypialni, huśtałem jak dziecko, objęła
+mię za szyję i rozpłakała się na głos.</p>
+<p>— Mój kochanku, mój mężu najdroższy! — usłyszałem
+przerywany szlochaniem jej szept.</p>
+<p>Koło drugiej nad ranem wyczerpana usnęła mi na piersi.
+Nigdy ani przedtem, ani potem nie widziałem jej tak rozrzewnionej…</p>
+<p>
+<s>
+<w pos="DET" lemma="taki" msd="adj:pl:nom:n:pos">Takie</w>
+<w pos="VERB" lemma="bywać" msd="fin:pl:ter:imperf">bywają</w>
+<w pos="DET" lemma="nasz" msd="adj:sg:acc:n:pos">nasze</w>
+<w pos="NOUN" lemma="noc" msd="subst:pl:acc:f">noce</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Nadmiar szczęścia usposabia mnie względem ludzi życzliwie i pojednawczo; jestem wyrozumiały i współczujący:
+prawem kontrastu silniej teraz odczuwam cudze nieszczęście. Tym bardziej że życie zdaje się na każdym kroku mi
+je ukazywać. Jak gdyby obawiało się, że mogę zapomnieć.
+Jak gdyby chciało mnie ostrzec. Codziennie niemal przypomina o tym, wysyłając mi na spotkanie Rotundę.</p>
+<p>
+<s>
+<w pos="SCONJ" lemma="bo" msd="comp">Bo</w>
+<w pos="ADV" lemma="tak" msd="adv:pos">tak</w>
+<w pos="ADV" lemma="teraz" msd="adv">teraz</w>
+<w pos="VERB" lemma="nazywać" msd="fin:sg:pri:imperf">nazywam</w>
+<w pos="ADJ" lemma="biedny" msd="adj:sg:acc:f:pos">biedną</w>
+<w pos="NOUN" lemma="wariatka" msd="subst:sg:acc:f">wariatkę</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="postr" msd="subst:pl:loc:m3">postrach</w>
+<w pos="ADJ" lemma="wenecki" msd="adj:sg:gen:f:pos">weneckiej</w>
+<w pos="NOUN" lemma="dziatwa" msd="subst:sg:gen:f">dziatwy</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="ADJ" lemma="istny" msd="adj:sg:nom:n:pos">istne</w>
+<w pos="NOUN" lemma="wcielenie" msd="ger:sg:nom:n:perf:aff">wcielenie</w>
+<w pos="ADJ" lemma="pokutuć" msd="pact:sg:gen:m1:imperf:aff">pokutującego</w>
+<w pos="NOUN" lemma="duch" msd="subst:sg:gen:m2">ducha</w>
+<w pos="NOUN" lemma="laguna" msd="subst:sg:gen:f">laguny</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Nieszczęśliwa obudziła we mnie szczere zainteresowanie i zasiągnąłem już co do niej informacji. Rotunda nazywa się w rzeczywistości Gina Vamparone i jest córką
+dozorczyni jednego z pałaców nad Canal Grande. Dostała
+obłąkania, gdy porzucił ją, niegdyś słynną z piękności
+dziewczynę, jakiś baron wenecki. Wyjeżdżając z miasta
+lagun na zawsze, uwodziciel pozostawił Ginie na pamiątkę
+swój pałac wraz z urządzeniem; lecz matka jej wolała pozostać w swym skromnym pokoiku w głębi oficyny i tu
+dokonać reszty smutnego żywota u boku obłąkanej, niż
+przenosić się na pańskie pokoje. Dlatego pałac nie zamieszkany przez nikogo stoi pustką; tylko Gina od czasu do
+czasu robi w nim porządki, odkurzając meble i kobierce.
+Podobno nie uważa się za właścicielkę, lecz za stróżkę tego
+domu i łudzi się wciąż nadzieją, że pan jej powróci i że
+wtedy zda mu sprawę ze wszystkiego.</p>
+<p>A propos amfory greckiej, zapewne jednej z pamiątek
+po ukochanym — nosi w niej codziennie rano i wieczorem
+mleko dla matki.</p>
+<p>Oto garść szczegółów zebranych przeze mnie u sąsiadów i znajomych. Nie zaspokoiła ona mej ciekawości —
+owszem, podnieciła ją tylko. Jest coś we formie jej obłędu,
+w wyrazie twarzy i stroju, co pozostaje dla mnie jeszcze
+zagadką. Pociąga mnie ona i dlatego od kilku dni w wolnych chwilach śledzę z daleka Rotundę. Czy to nie wygląda
+na paradoks? Ja, najszczęśliwszy człowiek w Wenecji, ja,
+kochanek donii de Torre Orpega, śledzę ukradkiem obłąkaną córką dozorczyni domu! Jestże to litość króla dla
+żebraczki czy kaprys grand seigneura fortuny? Dziwne to,
+śmieszne, lecz prawdziwe. Tak! Gina Vamparone mnie intryguje…</p>
+<quote>
+<p>
+<s>
+<w pos="ADJ" lemma="30" msd="adj:sg:gen:m3:pos">30</w>
+<w pos="NOUN" lemma="sierpień" msd="subst:sg:gen:m3">sierpnia</w>
+</s>
+</p>
+
+</quote>
+<p>Jak to się stało?! W jaki sposób? Jak mogłem dopuścić
+do czegoś podobnego? To przecież wstrętne, to ohydne!…</p>
+<p>A jednak stało się i nic na świecie faktu nie odmieni.
+A było tak.</p>
+<p>Wczoraj około jedenastej wieczorem jak zwykle wracałem od Inezy do siebie. Noc była parna, księżycowa. Szedłem powoli rozmarzony i czułem wciąż jeszcze w żyłach
+pożar miłosnych uniesień. Na jakimś ponte storto, co krzywą zworą spinał dwa brzegi, przystanąłem i rozkoszując
+się ciszą, przechylony przez balustradę mostu, wpatrywałem się w czarną wodę kanału. Wtem posłyszałem za sobą
+szmer. Odwróciłem się i ujrzałem Rotundę. Szła przez most
+o parę kroków ode mnie sztywna i obojętna, w nasuniętym, jak zawsze, głęboko na oczy hełmowym kapeluszu,
+podtrzymując lewą ręką amforę opartą na ramieniu. Na
+mnie zdawała się nie zwracać najmniejszej uwagi, lubo
+byłem jedynym człowiekiem w tym miejscu o tej spóźnionej już porze. Może w ogóle mnie nie widziała. Przeszła
+mimo jak widmo i zaczęła oddalać się w stronę S. Felice.</p>
+<p>Powodowany ciekawością poszedłem za nią, zachowując dyskretny dystans. Tak dotarliśmy do drugiego mostu nad
+Rio di Noale, po czym Gina zwróciła się na lewo w stronę
+wybrzeża. Zatrzymałem się w cieniu narożnego domu, bo
+teraz przechodziła przez pusty plac, zalany powodzią księżycowego światła. Lecz gdy tylko zniknęła mi z oczu za załomem jakiegoś budynku, przebiegłem szybko dzielącą nas
+przestrzeń i znów miałem ją przed sobą o parę kroków. Teraz już nie ulegało wątpliwości, że wraca do siebie, do pałacyku byłego swego kochanka.</p>
+<p>Wkrótce postać jej wsiąkła w mroki jego podsieni.
+Ostrożnie, skradając się, podszedłem do pierwszej kolumny
+i ukryty za jej trzonem objąłem spojrzeniem podwórze. Było
+prostokątne, okolone zewsząd krużgankami w stylu maurytańskim; w pośrodku, pośród bukietów paproci, dżdżyła
+cicho srebrzysta fantanna. Na drugim końcu perystylu
+ujrzałem znikającą mi z oczu Rotundę.</p>
+<p>Tam musi być loża dozorcy domu — pomyślałem —
+i tam zapewne mieszka z matką.</p>
+<p>I już miałem odejść, gdy ukazała mi się znowu w blaskach miesięcznej poświetli. Z pękiem kluczy w ręku przystanęła na środku podwórza i zdawała się namyślać; potem
+weszła na schody po prawej wiodące na górę.</p>
+<p>Pod osłoną cieni rzucanych przez filary i kolumny dostałem się na pierwsze piętro i przez uchylone drzwi
+wszedłem za nią do jednej z sal. Wnętrze było stylowym
+dziełem wczesnego renesansu. Zdjęty podziwem na widok
+arcytworów mistrzów pędzla rozwieszonych po ścianach,
+omal nie zdradziłem swej obecności przed obłąkaną. Na
+szczęście była zajęta wyłącznie sobą. Ukryłem się za parawanem obok staroświeckiego kominka i stąd śledziłem jej
+ruchy.</p>
+<p>Zatrzymała się przed dużym, stojącym lustrem i zrzuciła z głowy swój dziwaczny kapelusz. Miękkie, miedzianozłote zwoje włosów stoczyły się na ramiona połyskliwą
+kaskadą. Wtedy zmieniła oświetlenie; wnętrze wypełniła
+łagodna, ciepła purpura spływająca spod abażurów żyrandolu.</p>
+<p>Zbliżyła się do otomany na środku pokoju i szybko zaczęła rozbierać się. Jak pod dotknięciem różdżki czarodziejskiej przeistoczyła się jej postać. Odpadły zakurzone
+i brudne łachmany jej codziennego stroju, zniknęła śmieszna krynolina i w pęku czerwonych promieni stanęła bujna,
+rudowłosa piękność. Nie była to już Donna Rotonda, ponure straszydło na dzieci, smutno-groźne widmo drzemiącej
+laguny — to była Gina Vamparone, nieszczęśliwe dziecię
+ludu weneckiego, rozkwitłe w zaciszu samotnego pałacu
+w cudną, obłąkaną z miłości kobietę. W obliczu swej dumnej, królewskiej nagości zmieniła się do niepoznania. Rysy
+twarzy złagodniały, zatarła się surowość zaciętych ust,
+a ciemnofiołkowe oczy nabrały wilgotnych blasków. Była
+doskonale piękna. Takie kobiety musiał widywać w ukochanym mieście boski Tycjan i takie mu się zwidziały później w jego twórczej wizji Donna incomparabile…</p>
+<p>Nasyciwszy oczy widokiem własnej krasy, zaczęła z powrotem ubierać się. Lecz teraz włożyła strój zgoła odmienny. Kosztowny był i stylowy, jakby wzorowany na jednym
+z kobiecych portretów naprzeciw niej na ścianie.</p>
+<p>W błękitnej, brokatowej sukni z kołnierzem rozchylającym się jak kielich tulipanu dookoła prześlicznej szyi
+podobna była teraz Gina do jakiejś Lukrecji Borgia lub demonicznej Beatryczy, która pod czarem zaklęcia zstąpiła
+z ram renesansowego obrazu. Uśmiech zalotny zaigrał
+w oczach, zstąpił ku wargom kusząco rozchylonym i rozpłynął się powoli w kątach ust. Może przypomniały jej się
+lata miłości i szczęścia? Może powtarzała jedną ze scen,
+której była protagonistką? Może to on ją tak ubierał,
+stylizując na modłę wielkich włoskich piękności?…</p>
+<p>Porwany czarem, który bił od całej jej postaci, zapomniałem o środkach ostrożności i wyszedłem z kryjówki
+pełen podziwu i adoracji. Na szelest mych kroków odwróciła głowę i spostrzegła mnie. Cofnęła się gwałtownie, zakrywając twarz rękoma, potem opuściła je sztywnie wzdłuż
+ciała, przybierając maskę Rotondy, wreszcie pod siłą mych
+spojrzeń zapłonęła wstydem jak róża.Nagle wyciągnęła
+ku mnie ramiona i paląc mnie żarem swych przedziwnych
+oczu, szepnęła w ekstazie:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Giorgio" msd="subst:sg:voc:f">Giorgio</w>
+</rs>
+<w pos="PROPN" lemma="mio" msd="subst:sg:voc:f">mio</w>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+<s>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Giorgio" msd="subst:sg:voc:f">Giorgio</w>
+</rs>
+<w pos="PROPN" lemma="mio" msd="subst:sg:voc:f">mio</w>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+<s>
+<w pos="ADV" lemma="Mio" msd="adv:pos">Mio</w>
+<w pos="ADP" lemma="carissimo" msd="prep:gen">carissimo</w>
+<rs type="nam_liv_person">
+<w pos="PROPN" lemma="Giorgino" msd="subst:sg:gen:n:ncol">Giorgino</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+</p>
+
+<p>Pociągnięty tym wezwaniem, niepomny, że było ono
+wynikiem tragicznej pomyłki, że w rzeczywistości widziała
+we mnie tamtego, ukląkłem przed nią, obejmując jej kolana. Wtedy uczułem, że drży cała i słania mi się w uścisku.
+Usta nasze spotkały się, a ciała splotły w miłosnym szale.</p>
+<p>Gdy oprzytomniałem i zdałem sobie sprawę z tego, co
+się stało, spostrzegłem, że Gina zemdlała. Pobiegłem po
+wodę i zacząłem ją cucić. Skoro pierwsze jutrznie krwi zaświtały na śmiertelnie bladych jej jagodach i z głębokim
+westchnieniem otworzyła smutne, zdumione oczy, uciekłem
+stamtąd jak złodziej.</p>
+<quote>
+<p>
+<s>
+<w pos="ADJ" lemma="6" msd="adj:sg:gen:m3:pos">6</w>
+<w pos="NOUN" lemma="wrzesień" msd="subst:sg:gen:m3">września</w>
+</s>
+</p>
+
+</quote>
+<p>Od pamiętnego zajścia w nocy z 29 na 30 sierpnia
+upłynął tydzień. Niby nic się nie zmieniło. Jak przedtem,
+codziennie widujemy się z Inezą i pijemy rozkosz ze wspólnego kielicha, jak dawniej, pływamy gondolą po lagunie
+i robimy bliższe lub dalsze wycieczki. A jednak coś wkradło
+się do naszego stosunku i położyło się w poprzek nieokreślonym sprzeciwem.</p>
+<p>Parę już razy przyłapała mnie Inez na tym, że bez widocznego powodu popadłem w zamyślenie; kiedy indziej
+zrobiła mi pełen goryczy wyrzut, że nieraz wśród miłosnych
+uniesień czynię wrażenie roztargnionego. Lecz i ja zauważyłem zmiany u niej. Nie było w nich nic takiego, co by
+mogło mi świadczyć o ochłodzeniu jej uczuć ku mnie: zmiany te miały charakter specjalny. Donia Orpega stała się od pewnego czasu lękliwa i nerwowa. Lada szmer budzi
+w niej przesadną obawę, lada cień rozrasta się do wymiarów grozy. W ostatnich czasach zdaje się ustawicznie czegoś nasłuchiwać, na coś czekać.</p>
+<p>
+<s>
+<w pos="ADV" lemma="Onegdaj" msd="adv">Onegdaj</w>
+<w pos="NOUN" lemma="wieczór" msd="subst:sg:inst:m3">wieczorem</w>
+<w pos="VERB" lemma="przytulić" msd="praet:sg:f:perf">przytuliła</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:gen:f:pri:akc">mnie</w>
+<w pos="ADJ" lemma="drżący" msd="adj:sg:nom:f:pos">drżąca</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="CCONJ" lemma="a" msd="conj">a</w>
+<w pos="ADJ" lemma="zapytać" msd="ppas:sg:nom:f:perf:aff">zapytana</w>
+<w pos="ADP" lemma="o" msd="prep:acc">o</w>
+<w pos="NOUN" lemma="powód" msd="subst:sg:acc:m3">powód</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:f:perf">odpowiedziała</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>— Ciągle mi się zdaje, że ktoś skrada się ku mnie cichymi kroki lub że czai się poza moimi plecyma. Kiedy
+indziej znów mam wrażenie, że ktoś tu miał przyjść i zatrzymał się w drodze; lecz zamiaru swego nie zaniechał —
+tylko go na czas pewien odłożył — na termin nieokreślony.</p>
+<p>— Ależ to są wszystko dzieciństwa, najdroższa — uspokajałem. — Jesteś trochę wyczerpana nerwowo i stąd może
+przewrażliwiona.</p>
+<p>— Nie, nie, Adamello! Ty się mylisz. To jest coś całkiem
+innego. Najbardziej denerwuje mnie właśnie ta nieokreśloność, owo wahanie się, ten brak decyzji…</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="DET" lemma="jaki" msd="adj:sg:gen:f:pos">Jakiej</w>
+<w pos="NOUN" lemma="decyzja" msd="subst:pl:gen:f">decyzji</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>— Nie wiem. Gdybym wiedziała, nie lękałabym się.
+Najgroźniejszym jest strach przed czymś nieuchwytnym.
+Czuję dookoła siebie złe, wrogie mi wiry.</p>
+<p>Wzruszyłem ramionami i umyślnie przeszedłem do innego tematu. Zresztą prawie zawsze udaje mi się rozprószyć
+w niej ten chorobliwy lęk przed nieznanym i gdyby nie
+te chwilowe, choć nader przykre nastroje, życie nasze byłoby jak park rozkwitły w maju.</p>
+<p>Przez cały ten czas widziałem Rotundę tylko raz jeden.
+Zdaje się, że mnie nie poznała; przeszła obok jak dawniej surowa i obojętna z oczyma ukrytymi pod kaskiem. Unikam
+jej teraz i często wracam od Inezy do siebie okrężną drogą…
+</p>
+<quote>
+<p>
+<s>
+<w pos="ADJ" lemma="10" msd="adj:sg:gen:m3:pos">10</w>
+<w pos="NOUN" lemma="wrzesień" msd="subst:sg:gen:m3">września</w>
+</s>
+</p>
+
+</quote>
+<p>A jednak Inez miała rację. Obawy jej zaczynają przybierać formy bardziej określone. Dziś już można powiedzieć,
+że poniekąd są uzasadnione. O ile w ogóle można się czegoś obawiać ze strony biednej, nieszczęśliwej wariatki.</p>
+<p>Rotunda ją prześladuje! To nie ulega wątpliwości. Od
+pewnego czasu krąży wciąż w jej pobliżu jak złowróżbny
+puszczyk, wykwita wciąż na jej drodze jak kwiat smutku
+i żałoby. Nie jest agresywna — bynajmniej: przechodzi tylko mimo jak nieubłagane memento. Nigdy nie patrzy na
+nas — chociaż czujemy to dobrze, że wie o naszej obecności, że nas, a raczej Inezy szuka. I może właśnie ten jej
+kamienny, pogardliwy spokój, ta wyrafinowana obojętność
+najwięcej denerwują moją ukochaną. Nie można się nawet
+przed nią bronić, bo nigdy nie zaczepia, nie prowokuje.
+Cała jej siła w tym, że przechodzi, że mija. Donna Rotonda
+che passa…</p>
+<p>Lubi też robić niespodzianki — lubi zaskoczyć znienacka,
+i to wtedy, gdy się najmniej spodziewamy. Przed paru
+dniami późnym wieczorem odbiliśmy gondolą od Ca d'Oro.
+Zajęty rozmową z Beppem, któremu pomagałem we wiosłowaniu, odwróciłem się plecyma do wybrzeża i śledziłem
+światła odbite w kanale. Nagle uczułem, że Inez ściska mi
+nerwowo rękę.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PRON" lemma="co" msd="subst:sg:nom:n:ncol">Co</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="carissima" msd="subst:pl:nom:n:ncol">carissima</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="patrzeć" msd="impt:sg:sec:imperf">Patrz</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="patrzeć" msd="impt:sg:sec:imperf">patrz</w>
+<w pos="ADV" lemma="tam" msd="adv">tam</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADP" lemma="na" msd="prep:loc">na</w>
+<w pos="NOUN" lemma="wybrzeże" msd="subst:sg:loc:n:ncol">wybrzeżu</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PRON" lemma="on" msd="ppron3:sg:nom:f:ter:akc:npraep">ona</w>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+</p>
+
+<p>Popatrzyłem we wskazanym kierunku i rzeczywiście
+spostrzegłem ją stojącą nad samą wodą wyniosłą i prostą
+jak kolumna.</p>
+<p>— Widocznie wyszła na brzeg, by nas pożegnać —
+próbowałem zażartować, lecz spojrzawszy na Inezę, zamilkłem…</p>
+<p>Innym razem w czasie mej nieobecności niespodzianie
+zjawiła się Rotunda w ogrodzie Papadopoli, gdzie donia
+Orpega oczekiwała mego przybycia. Wysunęła się spoza
+grupy drzew tak nagle, że Inez mimo woli wydała okrzyk
+przerażenia. Na szczęście w tejże chwili nadszedłem. To
+właśnie spotkanie utrwaliło we mnie podejrzenie, że Donna Rotonda prześladuje Inezę.</p>
+<p>Bo moją osobę zdaje się zupełnie ignorować, jak gdybym
+dla niej nie istniał. Byłżeby to tylko manewr zazdrosnej
+kobiety? Chociaż skąd ta pewność, że Gina jest o mnie
+zazdrosna, że nie kierują nią zgoła inne motywy? Może ja
+rzeczywiście miałem być tylko „łącznikiem” między tymi
+dwiema kobietami, łącznikiem i niczym więcej? To pewna,
+że szuka zbliżenia tylko do Inezy. I to właśnie przejmuje
+donię dreszczem przerażenia.</p>
+<p>— Nie chciałabym nigdy zostać z nią sam na sam —
+wyznała mi dzisiaj podczas kolacji. — Zawsze miałam jakąś
+instynktową odrazę do tej obłąkanej, a teraz lękam się
+jej wprost jak widma. Mam wrażenie, że wczoraj, już po
+twoim odejściu, gdy wyszłam na chwilę do loggi w parterze, by odetchnąć wieczornym chłodem, Rotonda usiłowała
+podpłynąć do mnie na gondoli.</p>
+<p>— To niemożliwe! — zaprzeczyłem żywo. — Zdawało
+ci się. Czyżby śmiała?</p>
+<p>— Jestem pewna, że to była ona; poznałam ją po stroju,
+po tym okropnym pół hełmie, pół kapeluszu. Była już na
+linii moich schodów i widocznie chciała tu wylądować.
+Przerażona uciekłam w głąb domu i zaryglowałam za sobą
+bramę wchodową. To zuchwała wariatka! Nie powinieneś
+teraz odstępować ode mnie na krok; ja się boję, Adamello…
+</p>
+<quote>
+<p>
+<s>
+<w pos="ADJ" lemma="14" msd="adj:sg:gen:m3:pos">14</w>
+<w pos="NOUN" lemma="wrzesień" msd="subst:sg:gen:m3">września</w>
+</s>
+</p>
+
+</quote>
+<p>A przecież Rotunda jest o mnie zazdrosna! Zazdrosna jak
+o kochanego mężczyznę! Przekonała mnie o tym dzisiejsza
+śmieszna w istocie rzeczy przygoda na Ponte Rialto.</p>
+<p>Poszliśmy tam z Inezą w samo południe, przypatrzyć
+się wzmożonemu z powodu jarmarku ruchowi i obejrzeć
+bazary. Most roił się od przechodniów, przekupni i kupujących; zwłaszcza ciemnowłose, niebieskookie mieszczanki,
+cittadine weneckie, o powłóczystych spojrzeniach, w czarnych, żałobnych sukniach i tradycyjnych szalach i mantylach, rej wodziły w rozkrzyczanym i roznamiętnionym gorączką targu zbiorowisku.</p>
+<p>Zatrzymaliśmy się przed bazarem signor Giuliana, który
+głośno i z emfazą wyliczał zalety swych naszyjników. Jeden z nich z owalnych ziarn perłowej masy podobał się
+Inezie. Przerwałem przekupniowi potok pochwał na rzecz
+towaru i zapytałem o cenę. Podał ją z wyszukaną nonszalancją, oczywiście podnosząc ją momentalnie w dwójnasób.
+Zapłaciłem i już mieliśmy odejść, gdy wtem obok donni
+de Orpega wyrosła jak spod ziemi Rotunda. Zanim zdołałem jej przeszkodzić, wyrwała Inezie z rąk naszyjnik i zniknęła ze zdobyczą w otaczającym nas tłumie. Stało się tak
+niespodzianie, że w pierwszej chwili wszyscyśmy oniemieli
+ze zdumienia. Dopiero po czasie zerwała się burza okrzyków
+i posypały się dosadne epitety pod adresem obłąkanej:</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<rs type="nam_liv_person">
+<w pos="NOUN" lemma="Ladra" msd="subst:sg:nom:f">Ladra</w>
+<w pos="PROPN" lemma="Rotondo" msd="subst:sg:gen:m1">Rotonda</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+<s>
+<w pos="PROPN" lemma="Ladra" msd="subst:sg:nom:f">Ladra</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<rs type="nam_pro_title">
+<w pos="NOUN" lemma="ladro" msd="subst:sg:nom:f">ladra</w>
+</rs>
+<pc pos="PUNCT" lemma="!">!</pc>
+</s>
+</p>
+
+<p>Kilka osób rzuciło się nawet w pogoń za zbiegłą. Na
+twarzy Inezy zbladłej z przerażenia pojawił się uśmiech.</p>
+<p>— Lasciate la! — uspokajała oburzonych. — Lasciate la
+povera pazza! Non m'importa!</p>
+<p>
+<s>
+<w pos="CCONJ" lemma="a" msd="conj">A</w>
+<w pos="ADV" lemma="potem" msd="adv">potem</w>
+<w pos="VERB" lemma="rzec" msd="praet:sg:f:imperf">rzekła</w>
+<w pos="ADP" lemma="do" msd="prep:gen">do</w>
+<w pos="PRON" lemma="ja" msd="ppron12:sg:gen:m1:pri:akc">mnie</w>
+<w pos="NOUN" lemma="półgłos" msd="subst:sg:inst:m3">półgłosem</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="AUX" lemma="niechaj" msd="part">Niechaj</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:gen:f:ter:akc:npraep">jej</w>
+<w pos="VERB" lemma="służyć" msd="fin:sg:ter:imperf">służy</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">W</w>
+<w pos="NOUN" lemma="grunta" msd="subst:sg:loc:m3">gruncie</w>
+<w pos="NOUN" lemma="rzecz" msd="subst:sg:gen:f">rzeczy</w>
+<w pos="ADJ" lemma="zadowolony" msd="adj:sg:nom:f:pos">zadowolona</w>
+<w pos="AUX" lemma="być" msd="fin:sg:pri:imperf">jestem</w>
+<w pos="ADP" lemma="z" msd="prep:gen:nwok">z</w>
+<w pos="PRON" lemma="to" msd="subst:sg:gen:n:ncol">tego</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="PRON" lemma="co" msd="subst:sg:nom:n:ncol">co</w>
+<w pos="VERB" lemma="zajść" msd="praet:sg:n:perf">zaszło</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+<s>
+<w pos="PART" lemma="może" msd="part">Może</w>
+<w pos="PART" lemma="nareszcie" msd="part">nareszcie</w>
+<w pos="VERB" lemma="pozostawić" msd="fin:sg:ter:perf">pozostawi</w>
+<w pos="PRON" lemma="my" msd="ppron12:pl:acc:m1:pri">nas</w>
+<w pos="ADP" lemma="w" msd="prep:loc:nwok">w</w>
+<w pos="NOUN" lemma="spokój" msd="subst:sg:loc:m3">spokoju</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Zajście na Rialto zaniepokoiło mnie na serio i poważnie
+zatroskałem się o bezpieczeństwo Inezy. Tegoż jeszcze wieczora postanowiliśmy opuścić Wenecję i przenieść się na
+Chioggię. Zamiar nasz mieliśmy zrealizować zaraz nazajutrz
+po południu. Ponieważ parowiec, kursujący między Wenecją a malowniczą wyspą w południowej części laguny,
+odjeżdżał koło piątej, a żegluga trwa około dwóch godzin, spodziewaliśmy się przed nocą stanąć u celu i znaleźć tymczasowy przytułek w jednym z hoteli. Potem miałem wynająć jakąś willę od strony Adriatyku i tam zamieszkać
+z Inezą.</p>
+<p>Na układaniu planów i przygotowaniach do podróży
+upłynął nam wieczór i część nocy. Ineza była bardzo ożywiona i z błyszczącymi gorączkowo oczyma żegnała mnie
+około północy. Umówiliśmy się, że przyjdę po nią nazajutrz
+o trzeciej i gondolą podpłyniemy do przystani w kanale
+św. Marka. Odszedłem z uczuciem ulgi i wkrótce zasnąłem
+głęboko.</p>
+<p>Ranek dnia następnego poświęciłem załatwieniu sprawunków związanych z przeprowadzką, a w południe zjadłem obiad w trattoria na Cannareggio. Gdy opuszczałem
+restaurację, była godzina druga. Opanowany już przez nerwicę podróży przeszedłem się parę razy po calle Vittorio
+Emanuele, spaliłem mnóstwo papierosów i nie mogąc doczekać się godziny trzeciej, kazałem pierwszemu z brzegu
+gondolierowi zawieźć się do Inezy. Gdy podpływaliśmy pod
+pałac, zauważyłem u stopni debarkaderu jakąś gondolę
+uwiązaną do jednego z błękitnych słupów. Łódka nie należała do Inezy i gondolierem drzemiącym na ławce nie był
+Beppo.</p>
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="PART" lemma="czy" msd="part">Czy</w>
+<w pos="NOUN" lemma="senior" msd="subst:pl:nom:n:ncol">seniora</w>
+<w pos="VERB" lemma="mieć" msd="fin:sg:ter:imperf">ma</w>
+<w pos="NOUN" lemma="gość" msd="subst:pl:acc:m1">gości</w>
+<pc pos="PUNCT" lemma="?">?</pc>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="VERB" lemma="zapytać" msd="praet:sg:m1:perf">zapytał</w>
+<w pos="AUX" lemma="być" msd="aglt:sg:pri:imperf:wok">em</w>
+<w pos="PRON" lemma="on" msd="ppron3:sg:acc:m1:ter:nakc:npraep">go</w>
+<w pos="ADV" lemma="niechętnie" msd="adv:pos">niechętnie</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>
+<s>
+<w pos="NOUN" lemma="przewoźnik" msd="subst:sg:nom:m3">Przewoźnik</w>
+<w pos="VERB" lemma="ziewnąć" msd="praet:sg:m3:perf">ziewnął</w>
+<w pos="CCONJ" lemma="i" msd="conj">i</w>
+<w pos="VERB" lemma="przeciągać" msd="pcon:imperf">przeciągając</w>
+<w pos="PRON" lemma="się" msd="part">się</w>
+<w pos="ADV" lemma="leniwo" msd="adv:pos">leniwo</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="VERB" lemma="odpowiedzieć" msd="praet:sg:m1:perf">odpowiedział</w>
+<w pos="ADP" lemma="z" msd="prep:inst:nwok">z</w>
+<w pos="ADJ" lemma="dziwny" msd="adj:sg:inst:m3:pos">dziwnym</w>
+<w pos="NOUN" lemma="uśmiech" msd="subst:sg:inst:m3">uśmiechem</w>
+<pc pos="PUNCT" lemma=":">:</pc>
+</s>
+</p>
+
+<p>
+<s>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="INTJ" lemma="o" msd="interj">O</w>
+<w pos="PART" lemma="tak" msd="part">tak</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="signor" msd="subst:sg:nom:f">signora</w>
+<w pos="VERB" lemma="mieć" msd="fin:sg:ter:imperf">ma</w>
+<w pos="NOUN" lemma="gość" msd="subst:sg:acc:m1">gościa</w>
+<pc pos="PUNCT" lemma="—">—</pc>
+<w pos="ADJ" lemma="rzadki" msd="adj:sg:gen:m1:pos">rzadkiego</w>
+<w pos="NOUN" lemma="gość" msd="subst:sg:gen:m1">gościa</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+</s>
+</p>
+
+<p>Gdy wszedłem na stopnie, kotara oddzielająca loggię
+od wnętrza rozchyliła się i wyszła Rotunda. Spostrzegłszy
+mię, drgnęła, lecz natychmiast opanowała się i obojętna,
+z kamiennym spokojem na twarzy chciała mnie minąć. Zawrzałem gniewem.</p>
+<p>— Czego tu szukasz? — zapytałem ostro. — Dlaczego
+włóczysz się koło tego domu?</p>
+<p>Zbyła mnie milczeniem i zeszedłszy po schodkach, wsiadła
+do swej gondoli. Plusnęło skrzele wiosła, sfałdowała się
+woda i łódź wysunęła się skwapliwie na środek kanału.</p>
+<p>Rzuciłem się ku wejściu i odsunąwszy draperię, wpadłem do przedsionka. Tu, na posadzce pod jedną z kolumn
+leżała na wznak Ineza; w piersi jej wbity po rękojeść tkwił
+wenecki puginał. Pewną miała rękę Gina Vamparone,
+pewną i niezawodną: ugodziła w samo serce…</p>
+<p>I znów jest piękne, weneckie popołudnie, słońce gra
+na opalowej fali i roztocz laguny skrzy się miriadami blasków. I znów, jak dnia pierwszego, kiedy ją poznałem, odbijam od Fondamente Nuove z moją ukochaną. I jak wtedy, płyniemy znów w tę samą stronę: ku Wyspie Cmentarnej…</p>
+<p>Spoczywa przede mną na dnie czarnej gondoli słodka
+i pogodna, z uśmiechem na alabastrowej twarzy, w powodzi
+fiołków i białych róż — śpi cicha i królewska na rozkołysanej fali, a nad nią sklepi się szafirowe niebo…</p>
+<p>Pochylam się ku małym, w atłasowe ciżmy odzianym
+stopom, tulę je do ust mych i słyszę, jak poza mną, na
+wyżce łodzi ktoś płacze… To Beppo — nasz gondolier…</p>
+<quote>
+<p>
+<s>
+<w pos="NOUN" lemma="Wenecja" msd="subst:sg:nom:f">Wenecja</w>
+<pc pos="PUNCT" lemma=",">,</pc>
+<w pos="NOUN" lemma="lipiec" msd="subst:sg:nom:m2">lipiec</w>
+<w pos="X" lemma="rok" msd="brev:pun">r</w>
+<pc pos="PUNCT" lemma=".">.</pc>
+<w pos="NUM" lemma="1927" msd="num:pl:acc:m3:rec">1927</w>
+</s>
+</p>
+
+</quote>
+</div>
+</body>
+</text>
+</TEI>
