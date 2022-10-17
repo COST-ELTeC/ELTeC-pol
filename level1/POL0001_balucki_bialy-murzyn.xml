@@ -22,15 +22,22 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662595">ELTeC-$textLang</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662725">ELTeC-$textLang release 1.0.0</ref>
 <!--Published as part of ELTeC 2019-06-09--></publicationStmt>
-<sourceDesc><bibl type="digitalSource">
+<sourceDesc>
+<bibl type="digitalSource">
 <title>Biały murzyn</title>
-<ref>http://https://polona.pl/item/bialy-murzyn-powiesc,Njc4NTgwODg/6/#info</ref>
-</bibl><bibl type="printSource">
+<ref>https://polona.pl/item/bialy-murzyn-powiesc,Njc4NTgwODg/6/#info</ref>
+<publisher>Polona</publisher>
+</bibl>
+<bibl type="printSource">
 <title>Biały murzyn</title>
 <author>Bałucki, Michał</author>
 <publisher>Lwów: Gubrynowicz i Schmidt</publisher>
+<date>1876</date>
+</bibl>
+<bibl type="firstEdition">
 <date>1875</date>
-</bibl></sourceDesc>
+</bibl>
+</sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
